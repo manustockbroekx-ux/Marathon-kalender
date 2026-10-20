@@ -1,0 +1,376 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ChatGPT//Marathon Vier Weken//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Marathontraining 19 okt - 15 nov 2026
+X-WR-CALDESC:Persoonlijk 4-wekenplan richting marathon 21 februari 2027
+BEGIN:VEVENT
+UID:marathon-2026-0-0@chatgpt.local
+DTSTAMP:20261020T110000Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Marathon • 20 min core + 30 min wandelen
+DESCRIPTION:Week 1 • Maandag\\nTraining: 20 min core + 30 min wandel
+ en\\nCore: dead bug 3×10\, bird dog 3×10\, side plank 3×20–30 se
+ c per zijde\, glute bridge 3×12.\\nAlleen uitvoeren als loopopbouw d
+ oor fysio/arts is vrijgegeven en pees rustig blijft. Bij toenemende p
+ ijn\, zwelling of extra ochtendstijfheid belasting aanpassen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:marathon-2026-0-1@chatgpt.local
+DTSTAMP:20261020T110000Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Marathon • 30 min rustig hardlopen
+DESCRIPTION:Week 1 • Dinsdag\\nTraining: 30 min rustig hardlopen\\nH
+ artslag doorgaans 135–150 bpm\; praattempo / RPE 2–4. Rustig in- 
+ en uitlopen.\\nAlleen uitvoeren als loopopbouw door fysio/arts is vri
+ jgegeven en pees rustig blijft. Bij toenemende pijn\, zwelling of ext
+ ra ochtendstijfheid belasting aanpassen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:marathon-2026-0-2@chatgpt.local
+DTSTAMP:20261020T110000Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Marathon • 40 min kracht + 20 min rustig fietsen
+DESCRIPTION:Week 1 • Woensdag\\nTraining: 40 min kracht + 20 min rus
+ tig fietsen\\nKracht: squat 3×10\, lage step-up 3×8/been\, Romanian
+  deadlift 3×8\, kuit-/peesoefeningen volgens fysio\, Pallof press 3
+ ×10/kant.\\nAlleen uitvoeren als loopopbouw door fysio/arts is vrijg
+ egeven en pees rustig blijft. Bij toenemende pijn\, zwelling of extra
+  ochtendstijfheid belasting aanpassen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:marathon-2026-0-3@chatgpt.local
+DTSTAMP:20261020T110000Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Marathon • 30 min rustig hardlopen
+DESCRIPTION:Week 1 • Donderdag\\nTraining: 30 min rustig hardlopen\\
+ nHartslag doorgaans 135–150 bpm\; praattempo / RPE 2–4. Rustig in
+ - en uitlopen.\\nAlleen uitvoeren als loopopbouw door fysio/arts is v
+ rijgegeven en pees rustig blijft. Bij toenemende pijn\, zwelling of e
+ xtra ochtendstijfheid belasting aanpassen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:marathon-2026-0-4@chatgpt.local
+DTSTAMP:20261020T110000Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Marathon • 20 min mobiliteit + rustig wandelen
+DESCRIPTION:Week 1 • Vrijdag\\nTraining: 20 min mobiliteit + rustig 
+ wandelen\\nLichte mobiliteit\, binnen pijnvrije grenzen.\\nAlleen uit
+ voeren als loopopbouw door fysio/arts is vrijgegeven en pees rustig b
+ lijft. Bij toenemende pijn\, zwelling of extra ochtendstijfheid belas
+ ting aanpassen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:marathon-2026-0-5@chatgpt.local
+DTSTAMP:20261020T110000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Marathon • 25 min rustig hardlopen
+DESCRIPTION:Week 1 • Zaterdag\\nTraining: 25 min rustig hardlopen\\n
+ Hartslag doorgaans 135–150 bpm\; praattempo / RPE 2–4. Rustig in-
+  en uitlopen.\\nAlleen uitvoeren als loopopbouw door fysio/arts is vr
+ ijgegeven en pees rustig blijft. Bij toenemende pijn\, zwelling of ex
+ tra ochtendstijfheid belasting aanpassen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:marathon-2026-0-6@chatgpt.local
+DTSTAMP:20261020T110000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Marathon • 45 min rustige lange duurloop
+DESCRIPTION:Week 1 • Zondag\\nTraining: 45 min rustige lange duurloo
+ p\\nHartslag doorgaans 135–150 bpm\; praattempo / RPE 2–4. Rustig
+  in- en uitlopen.\\nAlleen uitvoeren als loopopbouw door fysio/arts i
+ s vrijgegeven en pees rustig blijft. Bij toenemende pijn\, zwelling o
+ f extra ochtendstijfheid belasting aanpassen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:marathon-2026-1-0@chatgpt.local
+DTSTAMP:20261020T110000Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Marathon • 20 min core + 30 min wandelen
+DESCRIPTION:Week 2 • Maandag\\nTraining: 20 min core + 30 min wandel
+ en\\nCore: dead bug 3×10\, bird dog 3×10\, side plank 3×20–30 se
+ c per zijde\, glute bridge 3×12.\\nAlleen uitvoeren als loopopbouw d
+ oor fysio/arts is vrijgegeven en pees rustig blijft. Bij toenemende p
+ ijn\, zwelling of extra ochtendstijfheid belasting aanpassen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:marathon-2026-1-1@chatgpt.local
+DTSTAMP:20261020T110000Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Marathon • 35 min rustig hardlopen
+DESCRIPTION:Week 2 • Dinsdag\\nTraining: 35 min rustig hardlopen\\nH
+ artslag doorgaans 135–150 bpm\; praattempo / RPE 2–4. Rustig in- 
+ en uitlopen.\\nAlleen uitvoeren als loopopbouw door fysio/arts is vri
+ jgegeven en pees rustig blijft. Bij toenemende pijn\, zwelling of ext
+ ra ochtendstijfheid belasting aanpassen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:marathon-2026-1-2@chatgpt.local
+DTSTAMP:20261020T110000Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Marathon • 45 min kracht + 25 min rustig fietsen
+DESCRIPTION:Week 2 • Woensdag\\nTraining: 45 min kracht + 25 min rus
+ tig fietsen\\nKracht: squat 3×10\, lage step-up 3×8/been\, Romanian
+  deadlift 3×8\, kuit-/peesoefeningen volgens fysio\, Pallof press 3
+ ×10/kant.\\nAlleen uitvoeren als loopopbouw door fysio/arts is vrijg
+ egeven en pees rustig blijft. Bij toenemende pijn\, zwelling of extra
+  ochtendstijfheid belasting aanpassen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:marathon-2026-1-3@chatgpt.local
+DTSTAMP:20261020T110000Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Marathon • 35 min rustig hardlopen
+DESCRIPTION:Week 2 • Donderdag\\nTraining: 35 min rustig hardlopen\\
+ nHartslag doorgaans 135–150 bpm\; praattempo / RPE 2–4. Rustig in
+ - en uitlopen.\\nAlleen uitvoeren als loopopbouw door fysio/arts is v
+ rijgegeven en pees rustig blijft. Bij toenemende pijn\, zwelling of e
+ xtra ochtendstijfheid belasting aanpassen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:marathon-2026-1-4@chatgpt.local
+DTSTAMP:20261020T110000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Marathon • 20 min mobiliteit + rustig wandelen
+DESCRIPTION:Week 2 • Vrijdag\\nTraining: 20 min mobiliteit + rustig 
+ wandelen\\nLichte mobiliteit\, binnen pijnvrije grenzen.\\nAlleen uit
+ voeren als loopopbouw door fysio/arts is vrijgegeven en pees rustig b
+ lijft. Bij toenemende pijn\, zwelling of extra ochtendstijfheid belas
+ ting aanpassen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:marathon-2026-1-5@chatgpt.local
+DTSTAMP:20261020T110000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Marathon • 25 min rustig hardlopen
+DESCRIPTION:Week 2 • Zaterdag\\nTraining: 25 min rustig hardlopen\\n
+ Hartslag doorgaans 135–150 bpm\; praattempo / RPE 2–4. Rustig in-
+  en uitlopen.\\nAlleen uitvoeren als loopopbouw door fysio/arts is vr
+ ijgegeven en pees rustig blijft. Bij toenemende pijn\, zwelling of ex
+ tra ochtendstijfheid belasting aanpassen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:marathon-2026-1-6@chatgpt.local
+DTSTAMP:20261020T110000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Marathon • 55 min rustige lange duurloop
+DESCRIPTION:Week 2 • Zondag\\nTraining: 55 min rustige lange duurloo
+ p\\nHartslag doorgaans 135–150 bpm\; praattempo / RPE 2–4. Rustig
+  in- en uitlopen.\\nAlleen uitvoeren als loopopbouw door fysio/arts i
+ s vrijgegeven en pees rustig blijft. Bij toenemende pijn\, zwelling o
+ f extra ochtendstijfheid belasting aanpassen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:marathon-2026-2-0@chatgpt.local
+DTSTAMP:20261020T110000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Marathon • 20 min core + 30 min wandelen
+DESCRIPTION:Week 3 • Maandag\\nTraining: 20 min core + 30 min wandel
+ en\\nCore: dead bug 3×10\, bird dog 3×10\, side plank 3×20–30 se
+ c per zijde\, glute bridge 3×12.\\nAlleen uitvoeren als loopopbouw d
+ oor fysio/arts is vrijgegeven en pees rustig blijft. Bij toenemende p
+ ijn\, zwelling of extra ochtendstijfheid belasting aanpassen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:marathon-2026-2-1@chatgpt.local
+DTSTAMP:20261020T110000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Marathon • 40 min rustig hardlopen
+DESCRIPTION:Week 3 • Dinsdag\\nTraining: 40 min rustig hardlopen\\nH
+ artslag doorgaans 135–150 bpm\; praattempo / RPE 2–4. Rustig in- 
+ en uitlopen.\\nAlleen uitvoeren als loopopbouw door fysio/arts is vri
+ jgegeven en pees rustig blijft. Bij toenemende pijn\, zwelling of ext
+ ra ochtendstijfheid belasting aanpassen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:marathon-2026-2-2@chatgpt.local
+DTSTAMP:20261020T110000Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Marathon • 45 min kracht + 30 min rustig fietsen
+DESCRIPTION:Week 3 • Woensdag\\nTraining: 45 min kracht + 30 min rus
+ tig fietsen\\nKracht: squat 3×10\, lage step-up 3×8/been\, Romanian
+  deadlift 3×8\, kuit-/peesoefeningen volgens fysio\, Pallof press 3
+ ×10/kant.\\nAlleen uitvoeren als loopopbouw door fysio/arts is vrijg
+ egeven en pees rustig blijft. Bij toenemende pijn\, zwelling of extra
+  ochtendstijfheid belasting aanpassen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:marathon-2026-2-3@chatgpt.local
+DTSTAMP:20261020T110000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Marathon • 35 min rustig hardlopen
+DESCRIPTION:Week 3 • Donderdag\\nTraining: 35 min rustig hardlopen\\
+ nHartslag doorgaans 135–150 bpm\; praattempo / RPE 2–4. Rustig in
+ - en uitlopen.\\nAlleen uitvoeren als loopopbouw door fysio/arts is v
+ rijgegeven en pees rustig blijft. Bij toenemende pijn\, zwelling of e
+ xtra ochtendstijfheid belasting aanpassen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:marathon-2026-2-4@chatgpt.local
+DTSTAMP:20261020T110000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Marathon • 20 min mobiliteit + rustig wandelen
+DESCRIPTION:Week 3 • Vrijdag\\nTraining: 20 min mobiliteit + rustig 
+ wandelen\\nLichte mobiliteit\, binnen pijnvrije grenzen.\\nAlleen uit
+ voeren als loopopbouw door fysio/arts is vrijgegeven en pees rustig b
+ lijft. Bij toenemende pijn\, zwelling of extra ochtendstijfheid belas
+ ting aanpassen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:marathon-2026-2-5@chatgpt.local
+DTSTAMP:20261020T110000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Marathon • 30 min rustig hardlopen
+DESCRIPTION:Week 3 • Zaterdag\\nTraining: 30 min rustig hardlopen\\n
+ Hartslag doorgaans 135–150 bpm\; praattempo / RPE 2–4. Rustig in-
+  en uitlopen.\\nAlleen uitvoeren als loopopbouw door fysio/arts is vr
+ ijgegeven en pees rustig blijft. Bij toenemende pijn\, zwelling of ex
+ tra ochtendstijfheid belasting aanpassen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:marathon-2026-2-6@chatgpt.local
+DTSTAMP:20261020T110000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Marathon • 65 min rustige lange duurloop
+DESCRIPTION:Week 3 • Zondag\\nTraining: 65 min rustige lange duurloo
+ p\\nHartslag doorgaans 135–150 bpm\; praattempo / RPE 2–4. Rustig
+  in- en uitlopen.\\nAlleen uitvoeren als loopopbouw door fysio/arts i
+ s vrijgegeven en pees rustig blijft. Bij toenemende pijn\, zwelling o
+ f extra ochtendstijfheid belasting aanpassen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:marathon-2026-3-0@chatgpt.local
+DTSTAMP:20261020T110000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Marathon • 20 min core + 30 min wandelen
+DESCRIPTION:Week 4 • Maandag\\nTraining: 20 min core + 30 min wandel
+ en\\nCore: dead bug 3×10\, bird dog 3×10\, side plank 3×20–30 se
+ c per zijde\, glute bridge 3×12.\\nAlleen uitvoeren als loopopbouw d
+ oor fysio/arts is vrijgegeven en pees rustig blijft. Bij toenemende p
+ ijn\, zwelling of extra ochtendstijfheid belasting aanpassen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:marathon-2026-3-1@chatgpt.local
+DTSTAMP:20261020T110000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Marathon • 30 min rustig hardlopen
+DESCRIPTION:Week 4 • Dinsdag\\nTraining: 30 min rustig hardlopen\\nH
+ artslag doorgaans 135–150 bpm\; praattempo / RPE 2–4. Rustig in- 
+ en uitlopen.\\nAlleen uitvoeren als loopopbouw door fysio/arts is vri
+ jgegeven en pees rustig blijft. Bij toenemende pijn\, zwelling of ext
+ ra ochtendstijfheid belasting aanpassen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:marathon-2026-3-2@chatgpt.local
+DTSTAMP:20261020T110000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Marathon • 35 min lichte kracht + 20 min rustig fietsen
+DESCRIPTION:Week 4 • Woensdag\\nTraining: 35 min lichte kracht + 20 
+ min rustig fietsen\\nKracht: squat 3×10\, lage step-up 3×8/been\, R
+ omanian deadlift 3×8\, kuit-/peesoefeningen volgens fysio\, Pallof p
+ ress 3×10/kant.\\nAlleen uitvoeren als loopopbouw door fysio/arts is
+  vrijgegeven en pees rustig blijft. Bij toenemende pijn\, zwelling of
+  extra ochtendstijfheid belasting aanpassen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:marathon-2026-3-3@chatgpt.local
+DTSTAMP:20261020T110000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Marathon • 30 min rustig hardlopen
+DESCRIPTION:Week 4 • Donderdag\\nTraining: 30 min rustig hardlopen\\
+ nHartslag doorgaans 135–150 bpm\; praattempo / RPE 2–4. Rustig in
+ - en uitlopen.\\nAlleen uitvoeren als loopopbouw door fysio/arts is v
+ rijgegeven en pees rustig blijft. Bij toenemende pijn\, zwelling of e
+ xtra ochtendstijfheid belasting aanpassen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:marathon-2026-3-4@chatgpt.local
+DTSTAMP:20261020T110000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Marathon • 20 min mobiliteit + rustig wandelen
+DESCRIPTION:Week 4 • Vrijdag\\nTraining: 20 min mobiliteit + rustig 
+ wandelen\\nLichte mobiliteit\, binnen pijnvrije grenzen.\\nAlleen uit
+ voeren als loopopbouw door fysio/arts is vrijgegeven en pees rustig b
+ lijft. Bij toenemende pijn\, zwelling of extra ochtendstijfheid belas
+ ting aanpassen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:marathon-2026-3-5@chatgpt.local
+DTSTAMP:20261020T110000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Marathon • 25 min rustig hardlopen
+DESCRIPTION:Week 4 • Zaterdag\\nTraining: 25 min rustig hardlopen\\n
+ Hartslag doorgaans 135–150 bpm\; praattempo / RPE 2–4. Rustig in-
+  en uitlopen.\\nAlleen uitvoeren als loopopbouw door fysio/arts is vr
+ ijgegeven en pees rustig blijft. Bij toenemende pijn\, zwelling of ex
+ tra ochtendstijfheid belasting aanpassen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:marathon-2026-3-6@chatgpt.local
+DTSTAMP:20261020T110000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Marathon • 50 min rustige lange duurloop
+DESCRIPTION:Week 4 • Zondag\\nTraining: 50 min rustige lange duurloo
+ p\\nHartslag doorgaans 135–150 bpm\; praattempo / RPE 2–4. Rustig
+  in- en uitlopen.\\nAlleen uitvoeren als loopopbouw door fysio/arts i
+ s vrijgegeven en pees rustig blijft. Bij toenemende pijn\, zwelling o
+ f extra ochtendstijfheid belasting aanpassen.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
