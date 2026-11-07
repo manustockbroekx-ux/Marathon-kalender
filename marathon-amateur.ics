@@ -1,0 +1,2365 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Marathon 2027//Dubbel trainingsprogramma//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Marathon 2027 - Amateur
+X-WR-CALDESC:Kies wekelijks precies een kalender. Geen garantie op marathon
+ finish.
+X-WR-TIMEZONE:Europe/Brussels
+BEGIN:VEVENT
+UID:34084d29-5b8e-5216-9b62-1a0cf756411c@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261109T080000
+DTEND;TZID=Europe/Brussels:20261109T081000
+SUMMARY:Amateur | Core + lichte kracht 20 min
+DESCRIPTION:WEEK 1/15 | AMATEUR SCHEMA. Dead bug\, glute bridge\, squat en 
+ calf raise elk 2 sets\, niet zwaar. Ook thuis mogelijk. Motivatie: Consist
+ entie wint van perfectie. Bouw vandaag aan je basis. BELANGRIJK: voer slec
+ hts een van de twee schema’s uit\, nooit samen. Schakel per week over al
+ s werkdruk of herstel dat vraagt\; verdubbel nooit een gemiste training. V
+ oortdurende pijn\, ziek zijn of zware vermoeidheid = terugschakelen. Op ba
+ sis van ca. 12\,5-15\,2 km/week in november: marathonfinish op 21 februari
+  is niet gegarandeerd\; overweeg kortere afstand of uitstel bij onvoldoend
+ e voorbereiding. Dit agendapunt om 08:00 is een DAGHERINNERING\; de traini
+ ng zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Core + lichte kracht 20 min
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c8d1b015-c9b2-5fcb-9256-6703af6ed649@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261110T080000
+DTEND;TZID=Europe/Brussels:20261110T081000
+SUMMARY:Amateur | Rustige duurloop 3 km
+DESCRIPTION:WEEK 1/15 | AMATEUR SCHEMA. Praattempo\, eventueel run-walk. Je
+  doet genoeg door te verschijnen. Motivatie: Sterk trainen is ook slim her
+ stellen. BELANGRIJK: voer slechts een van de twee schema’s uit\, nooit s
+ amen. Schakel per week over als werkdruk of herstel dat vraagt\; verdubbel
+  nooit een gemiste training. Voortdurende pijn\, ziek zijn of zware vermoe
+ idheid = terugschakelen. Op basis van ca. 12\,5-15\,2 km/week in november:
+  marathonfinish op 21 februari is niet gegarandeerd\; overweeg kortere afs
+ tand of uitstel bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is 
+ een DAGHERINNERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rustige duurloop 3 km
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e201c3a8-3307-51bf-9260-df6104ed91f8@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261111T080000
+DTEND;TZID=Europe/Brussels:20261111T081000
+SUMMARY:Amateur | Rust / 10 min mobiliteit
+DESCRIPTION:WEEK 1/15 | AMATEUR SCHEMA. De werkweek telt mee als belasting.
+  Herstel gaat voor. Motivatie: Rustig lopen maakt je duurvermogen sterker.
+  BELANGRIJK: voer slechts een van de twee schema’s uit\, nooit samen. Sc
+ hakel per week over als werkdruk of herstel dat vraagt\; verdubbel nooit e
+ en gemiste training. Voortdurende pijn\, ziek zijn of zware vermoeidheid =
+  terugschakelen. Op basis van ca. 12\,5-15\,2 km/week in november: maratho
+ nfinish op 21 februari is niet gegarandeerd\; overweeg kortere afstand of 
+ uitstel bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is een DAGH
+ ERINNERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rust / 10 min mobiliteit
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:816bc98e-f6ac-599f-b024-2df317900089@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261112T080000
+DTEND;TZID=Europe/Brussels:20261112T081000
+SUMMARY:Amateur | Rustige duurloop 3 km
+DESCRIPTION:WEEK 1/15 | AMATEUR SCHEMA. Comfortabel\, zonder snelheidsdoel.
+  Bij stress mag je 10-15 min wandelen in plaats daarvan. Motivatie: Goede 
+ techniek vandaag\, sterkere benen morgen. BELANGRIJK: voer slechts een van
+  de twee schema’s uit\, nooit samen. Schakel per week over als werkdruk 
+ of herstel dat vraagt\; verdubbel nooit een gemiste training. Voortdurende
+  pijn\, ziek zijn of zware vermoeidheid = terugschakelen. Op basis van ca.
+  12\,5-15\,2 km/week in november: marathonfinish op 21 februari is niet ge
+ garandeerd\; overweeg kortere afstand of uitstel bij onvoldoende voorberei
+ ding. Dit agendapunt om 08:00 is een DAGHERINNERING\; de training zelf pla
+ n je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rustige duurloop 3 km
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1d69ceec-2347-5f73-a4ed-dbe141d2062c@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261113T080000
+DTEND;TZID=Europe/Brussels:20261113T081000
+SUMMARY:Amateur | Rust
+DESCRIPTION:WEEK 1/15 | AMATEUR SCHEMA. Volledige rust\, geen schuldgevoel.
+  Motivatie: Je hoeft geen record te breken om vooruitgang te boeken. BELAN
+ GRIJK: voer slechts een van de twee schema’s uit\, nooit samen. Schakel 
+ per week over als werkdruk of herstel dat vraagt\; verdubbel nooit een gem
+ iste training. Voortdurende pijn\, ziek zijn of zware vermoeidheid = terug
+ schakelen. Op basis van ca. 12\,5-15\,2 km/week in november: marathonfinis
+ h op 21 februari is niet gegarandeerd\; overweeg kortere afstand of uitste
+ l bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is een DAGHERINNE
+ RING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rust
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:25d4e201-916b-5568-8080-244598771a8b@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261114T080000
+DTEND;TZID=Europe/Brussels:20261114T081000
+SUMMARY:Amateur | Optioneel wandelen + core 10 min
+DESCRIPTION:WEEK 1/15 | AMATEUR SCHEMA. 20 min wandelen en 10 min side plan
+ k/bird dog\, of volledige rust. Motivatie: Herstel is training\, geen acht
+ erstand. BELANGRIJK: voer slechts een van de twee schema’s uit\, nooit s
+ amen. Schakel per week over als werkdruk of herstel dat vraagt\; verdubbel
+  nooit een gemiste training. Voortdurende pijn\, ziek zijn of zware vermoe
+ idheid = terugschakelen. Op basis van ca. 12\,5-15\,2 km/week in november:
+  marathonfinish op 21 februari is niet gegarandeerd\; overweeg kortere afs
+ tand of uitstel bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is 
+ een DAGHERINNERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Optioneel wandelen + core 10 min
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:34974971-0b42-51cb-a44c-c7f58ef99f36@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261115T080000
+DTEND;TZID=Europe/Brussels:20261115T081000
+SUMMARY:Amateur | Lange rustige duurloop 6 km
+DESCRIPTION:WEEK 1/15 | AMATEUR SCHEMA. Heel rustig\, eventueel run-walk. O
+ efen bevoorrading als >75-90 min. Stop bij pijn\; max circa 3 uur. Motivat
+ ie: Bouw conditie op\, niet alleen kilometers. BELANGRIJK: voer slechts ee
+ n van de twee schema’s uit\, nooit samen. Schakel per week over als werk
+ druk of herstel dat vraagt\; verdubbel nooit een gemiste training. Voortdu
+ rende pijn\, ziek zijn of zware vermoeidheid = terugschakelen. Op basis va
+ n ca. 12\,5-15\,2 km/week in november: marathonfinish op 21 februari is ni
+ et gegarandeerd\; overweeg kortere afstand of uitstel bij onvoldoende voor
+ bereiding. Dit agendapunt om 08:00 is een DAGHERINNERING\; de training zel
+ f plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Lange rustige duurloop 6 km
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:21e591fa-24be-5f15-8251-01ae33473666@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261116T080000
+DTEND;TZID=Europe/Brussels:20261116T081000
+SUMMARY:Amateur | Core + lichte kracht 20 min
+DESCRIPTION:WEEK 2/15 | AMATEUR SCHEMA. Dead bug\, glute bridge\, squat en 
+ calf raise elk 2 sets\, niet zwaar. Ook thuis mogelijk. Motivatie: Consist
+ entie wint van perfectie. Bouw vandaag aan je basis. BELANGRIJK: voer slec
+ hts een van de twee schema’s uit\, nooit samen. Schakel per week over al
+ s werkdruk of herstel dat vraagt\; verdubbel nooit een gemiste training. V
+ oortdurende pijn\, ziek zijn of zware vermoeidheid = terugschakelen. Op ba
+ sis van ca. 12\,5-15\,2 km/week in november: marathonfinish op 21 februari
+  is niet gegarandeerd\; overweeg kortere afstand of uitstel bij onvoldoend
+ e voorbereiding. Dit agendapunt om 08:00 is een DAGHERINNERING\; de traini
+ ng zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Core + lichte kracht 20 min
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8666c10e-5bc2-58d9-97b5-ff10003b809a@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261117T080000
+DTEND;TZID=Europe/Brussels:20261117T081000
+SUMMARY:Amateur | Rustige duurloop 3 km
+DESCRIPTION:WEEK 2/15 | AMATEUR SCHEMA. Praattempo\, eventueel run-walk. Je
+  doet genoeg door te verschijnen. Motivatie: Sterk trainen is ook slim her
+ stellen. BELANGRIJK: voer slechts een van de twee schema’s uit\, nooit s
+ amen. Schakel per week over als werkdruk of herstel dat vraagt\; verdubbel
+  nooit een gemiste training. Voortdurende pijn\, ziek zijn of zware vermoe
+ idheid = terugschakelen. Op basis van ca. 12\,5-15\,2 km/week in november:
+  marathonfinish op 21 februari is niet gegarandeerd\; overweeg kortere afs
+ tand of uitstel bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is 
+ een DAGHERINNERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rustige duurloop 3 km
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bc933dd4-6872-5773-847f-a480cb14d330@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261118T080000
+DTEND;TZID=Europe/Brussels:20261118T081000
+SUMMARY:Amateur | Rust / 10 min mobiliteit
+DESCRIPTION:WEEK 2/15 | AMATEUR SCHEMA. De werkweek telt mee als belasting.
+  Herstel gaat voor. Motivatie: Rustig lopen maakt je duurvermogen sterker.
+  BELANGRIJK: voer slechts een van de twee schema’s uit\, nooit samen. Sc
+ hakel per week over als werkdruk of herstel dat vraagt\; verdubbel nooit e
+ en gemiste training. Voortdurende pijn\, ziek zijn of zware vermoeidheid =
+  terugschakelen. Op basis van ca. 12\,5-15\,2 km/week in november: maratho
+ nfinish op 21 februari is niet gegarandeerd\; overweeg kortere afstand of 
+ uitstel bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is een DAGH
+ ERINNERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rust / 10 min mobiliteit
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:25d1b789-6159-59de-ba3b-c8a3993cd92b@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261119T080000
+DTEND;TZID=Europe/Brussels:20261119T081000
+SUMMARY:Amateur | Rustige duurloop 3 km
+DESCRIPTION:WEEK 2/15 | AMATEUR SCHEMA. Comfortabel\, zonder snelheidsdoel.
+  Bij stress mag je 10-15 min wandelen in plaats daarvan. Motivatie: Goede 
+ techniek vandaag\, sterkere benen morgen. BELANGRIJK: voer slechts een van
+  de twee schema’s uit\, nooit samen. Schakel per week over als werkdruk 
+ of herstel dat vraagt\; verdubbel nooit een gemiste training. Voortdurende
+  pijn\, ziek zijn of zware vermoeidheid = terugschakelen. Op basis van ca.
+  12\,5-15\,2 km/week in november: marathonfinish op 21 februari is niet ge
+ garandeerd\; overweeg kortere afstand of uitstel bij onvoldoende voorberei
+ ding. Dit agendapunt om 08:00 is een DAGHERINNERING\; de training zelf pla
+ n je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rustige duurloop 3 km
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2b5f790b-a52a-58a5-85b7-7d040207c444@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261120T080000
+DTEND;TZID=Europe/Brussels:20261120T081000
+SUMMARY:Amateur | Rust
+DESCRIPTION:WEEK 2/15 | AMATEUR SCHEMA. Volledige rust\, geen schuldgevoel.
+  Motivatie: Je hoeft geen record te breken om vooruitgang te boeken. BELAN
+ GRIJK: voer slechts een van de twee schema’s uit\, nooit samen. Schakel 
+ per week over als werkdruk of herstel dat vraagt\; verdubbel nooit een gem
+ iste training. Voortdurende pijn\, ziek zijn of zware vermoeidheid = terug
+ schakelen. Op basis van ca. 12\,5-15\,2 km/week in november: marathonfinis
+ h op 21 februari is niet gegarandeerd\; overweeg kortere afstand of uitste
+ l bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is een DAGHERINNE
+ RING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rust
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d09459aa-941b-5d64-a06c-0f3acdd5a50b@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261121T080000
+DTEND;TZID=Europe/Brussels:20261121T081000
+SUMMARY:Amateur | Optioneel wandelen + core 10 min
+DESCRIPTION:WEEK 2/15 | AMATEUR SCHEMA. 20 min wandelen en 10 min side plan
+ k/bird dog\, of volledige rust. Motivatie: Herstel is training\, geen acht
+ erstand. BELANGRIJK: voer slechts een van de twee schema’s uit\, nooit s
+ amen. Schakel per week over als werkdruk of herstel dat vraagt\; verdubbel
+  nooit een gemiste training. Voortdurende pijn\, ziek zijn of zware vermoe
+ idheid = terugschakelen. Op basis van ca. 12\,5-15\,2 km/week in november:
+  marathonfinish op 21 februari is niet gegarandeerd\; overweeg kortere afs
+ tand of uitstel bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is 
+ een DAGHERINNERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Optioneel wandelen + core 10 min
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3dcd05f9-44ca-59e0-adc7-2a524dde0de5@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261122T080000
+DTEND;TZID=Europe/Brussels:20261122T081000
+SUMMARY:Amateur | Lange rustige duurloop 7 km
+DESCRIPTION:WEEK 2/15 | AMATEUR SCHEMA. Heel rustig\, eventueel run-walk. O
+ efen bevoorrading als >75-90 min. Stop bij pijn\; max circa 3 uur. Motivat
+ ie: Bouw conditie op\, niet alleen kilometers. BELANGRIJK: voer slechts ee
+ n van de twee schema’s uit\, nooit samen. Schakel per week over als werk
+ druk of herstel dat vraagt\; verdubbel nooit een gemiste training. Voortdu
+ rende pijn\, ziek zijn of zware vermoeidheid = terugschakelen. Op basis va
+ n ca. 12\,5-15\,2 km/week in november: marathonfinish op 21 februari is ni
+ et gegarandeerd\; overweeg kortere afstand of uitstel bij onvoldoende voor
+ bereiding. Dit agendapunt om 08:00 is een DAGHERINNERING\; de training zel
+ f plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Lange rustige duurloop 7 km
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3dd7a620-459b-5ae1-ae7d-60b45590fccc@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261123T080000
+DTEND;TZID=Europe/Brussels:20261123T081000
+SUMMARY:Amateur | Core + lichte kracht 20 min
+DESCRIPTION:WEEK 3/15 | AMATEUR SCHEMA. Dead bug\, glute bridge\, squat en 
+ calf raise elk 2 sets\, niet zwaar. Ook thuis mogelijk. Motivatie: Consist
+ entie wint van perfectie. Bouw vandaag aan je basis. BELANGRIJK: voer slec
+ hts een van de twee schema’s uit\, nooit samen. Schakel per week over al
+ s werkdruk of herstel dat vraagt\; verdubbel nooit een gemiste training. V
+ oortdurende pijn\, ziek zijn of zware vermoeidheid = terugschakelen. Op ba
+ sis van ca. 12\,5-15\,2 km/week in november: marathonfinish op 21 februari
+  is niet gegarandeerd\; overweeg kortere afstand of uitstel bij onvoldoend
+ e voorbereiding. Dit agendapunt om 08:00 is een DAGHERINNERING\; de traini
+ ng zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Core + lichte kracht 20 min
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7ee2b7be-a0c3-5748-9375-1f4087a57848@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261124T080000
+DTEND;TZID=Europe/Brussels:20261124T081000
+SUMMARY:Amateur | Rustige duurloop 3 km
+DESCRIPTION:WEEK 3/15 | AMATEUR SCHEMA. Praattempo\, eventueel run-walk. Je
+  doet genoeg door te verschijnen. Motivatie: Sterk trainen is ook slim her
+ stellen. BELANGRIJK: voer slechts een van de twee schema’s uit\, nooit s
+ amen. Schakel per week over als werkdruk of herstel dat vraagt\; verdubbel
+  nooit een gemiste training. Voortdurende pijn\, ziek zijn of zware vermoe
+ idheid = terugschakelen. Op basis van ca. 12\,5-15\,2 km/week in november:
+  marathonfinish op 21 februari is niet gegarandeerd\; overweeg kortere afs
+ tand of uitstel bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is 
+ een DAGHERINNERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rustige duurloop 3 km
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:47fc2fb3-3df6-57bd-90be-67039b7bdf12@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261125T080000
+DTEND;TZID=Europe/Brussels:20261125T081000
+SUMMARY:Amateur | Rust / 10 min mobiliteit
+DESCRIPTION:WEEK 3/15 | AMATEUR SCHEMA. De werkweek telt mee als belasting.
+  Herstel gaat voor. Motivatie: Rustig lopen maakt je duurvermogen sterker.
+  BELANGRIJK: voer slechts een van de twee schema’s uit\, nooit samen. Sc
+ hakel per week over als werkdruk of herstel dat vraagt\; verdubbel nooit e
+ en gemiste training. Voortdurende pijn\, ziek zijn of zware vermoeidheid =
+  terugschakelen. Op basis van ca. 12\,5-15\,2 km/week in november: maratho
+ nfinish op 21 februari is niet gegarandeerd\; overweeg kortere afstand of 
+ uitstel bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is een DAGH
+ ERINNERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rust / 10 min mobiliteit
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:72c4bafd-d159-5781-ba59-eb10e960f567@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261126T080000
+DTEND;TZID=Europe/Brussels:20261126T081000
+SUMMARY:Amateur | Rustige duurloop 4 km
+DESCRIPTION:WEEK 3/15 | AMATEUR SCHEMA. Comfortabel\, zonder snelheidsdoel.
+  Bij stress mag je 10-15 min wandelen in plaats daarvan. Motivatie: Goede 
+ techniek vandaag\, sterkere benen morgen. BELANGRIJK: voer slechts een van
+  de twee schema’s uit\, nooit samen. Schakel per week over als werkdruk 
+ of herstel dat vraagt\; verdubbel nooit een gemiste training. Voortdurende
+  pijn\, ziek zijn of zware vermoeidheid = terugschakelen. Op basis van ca.
+  12\,5-15\,2 km/week in november: marathonfinish op 21 februari is niet ge
+ garandeerd\; overweeg kortere afstand of uitstel bij onvoldoende voorberei
+ ding. Dit agendapunt om 08:00 is een DAGHERINNERING\; de training zelf pla
+ n je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rustige duurloop 4 km
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6776dcdc-06f1-5b85-b341-0b272e018cee@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261127T080000
+DTEND;TZID=Europe/Brussels:20261127T081000
+SUMMARY:Amateur | Rust
+DESCRIPTION:WEEK 3/15 | AMATEUR SCHEMA. Volledige rust\, geen schuldgevoel.
+  Motivatie: Je hoeft geen record te breken om vooruitgang te boeken. BELAN
+ GRIJK: voer slechts een van de twee schema’s uit\, nooit samen. Schakel 
+ per week over als werkdruk of herstel dat vraagt\; verdubbel nooit een gem
+ iste training. Voortdurende pijn\, ziek zijn of zware vermoeidheid = terug
+ schakelen. Op basis van ca. 12\,5-15\,2 km/week in november: marathonfinis
+ h op 21 februari is niet gegarandeerd\; overweeg kortere afstand of uitste
+ l bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is een DAGHERINNE
+ RING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rust
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:51973521-9d5f-5a01-9f80-5cfb020ee1d7@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261128T080000
+DTEND;TZID=Europe/Brussels:20261128T081000
+SUMMARY:Amateur | Optioneel wandelen + core 10 min
+DESCRIPTION:WEEK 3/15 | AMATEUR SCHEMA. 20 min wandelen en 10 min side plan
+ k/bird dog\, of volledige rust. Motivatie: Herstel is training\, geen acht
+ erstand. BELANGRIJK: voer slechts een van de twee schema’s uit\, nooit s
+ amen. Schakel per week over als werkdruk of herstel dat vraagt\; verdubbel
+  nooit een gemiste training. Voortdurende pijn\, ziek zijn of zware vermoe
+ idheid = terugschakelen. Op basis van ca. 12\,5-15\,2 km/week in november:
+  marathonfinish op 21 februari is niet gegarandeerd\; overweeg kortere afs
+ tand of uitstel bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is 
+ een DAGHERINNERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Optioneel wandelen + core 10 min
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0d191018-df72-5bba-a5ab-32d8524d0ee8@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261129T080000
+DTEND;TZID=Europe/Brussels:20261129T081000
+SUMMARY:Amateur | Lange rustige duurloop 8 km
+DESCRIPTION:WEEK 3/15 | AMATEUR SCHEMA. Heel rustig\, eventueel run-walk. O
+ efen bevoorrading als >75-90 min. Stop bij pijn\; max circa 3 uur. Motivat
+ ie: Bouw conditie op\, niet alleen kilometers. BELANGRIJK: voer slechts ee
+ n van de twee schema’s uit\, nooit samen. Schakel per week over als werk
+ druk of herstel dat vraagt\; verdubbel nooit een gemiste training. Voortdu
+ rende pijn\, ziek zijn of zware vermoeidheid = terugschakelen. Op basis va
+ n ca. 12\,5-15\,2 km/week in november: marathonfinish op 21 februari is ni
+ et gegarandeerd\; overweeg kortere afstand of uitstel bij onvoldoende voor
+ bereiding. Dit agendapunt om 08:00 is een DAGHERINNERING\; de training zel
+ f plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Lange rustige duurloop 8 km
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c519161c-5305-59ca-a6e1-5c8c4bf9a88c@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261130T080000
+DTEND;TZID=Europe/Brussels:20261130T081000
+SUMMARY:Amateur | Core + lichte kracht 20 min
+DESCRIPTION:WEEK 4/15 | AMATEUR SCHEMA. Dead bug\, glute bridge\, squat en 
+ calf raise elk 2 sets\, niet zwaar. Ook thuis mogelijk. Motivatie: Consist
+ entie wint van perfectie. Bouw vandaag aan je basis. BELANGRIJK: voer slec
+ hts een van de twee schema’s uit\, nooit samen. Schakel per week over al
+ s werkdruk of herstel dat vraagt\; verdubbel nooit een gemiste training. V
+ oortdurende pijn\, ziek zijn of zware vermoeidheid = terugschakelen. Op ba
+ sis van ca. 12\,5-15\,2 km/week in november: marathonfinish op 21 februari
+  is niet gegarandeerd\; overweeg kortere afstand of uitstel bij onvoldoend
+ e voorbereiding. Dit agendapunt om 08:00 is een DAGHERINNERING\; de traini
+ ng zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Core + lichte kracht 20 min
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ec7f89b4-4d9f-5332-bcc5-46dade2507b1@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261201T080000
+DTEND;TZID=Europe/Brussels:20261201T081000
+SUMMARY:Amateur | Rustige duurloop 3 km
+DESCRIPTION:WEEK 4/15 | AMATEUR SCHEMA. Praattempo\, eventueel run-walk. Je
+  doet genoeg door te verschijnen. Motivatie: Sterk trainen is ook slim her
+ stellen. BELANGRIJK: voer slechts een van de twee schema’s uit\, nooit s
+ amen. Schakel per week over als werkdruk of herstel dat vraagt\; verdubbel
+  nooit een gemiste training. Voortdurende pijn\, ziek zijn of zware vermoe
+ idheid = terugschakelen. Op basis van ca. 12\,5-15\,2 km/week in november:
+  marathonfinish op 21 februari is niet gegarandeerd\; overweeg kortere afs
+ tand of uitstel bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is 
+ een DAGHERINNERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rustige duurloop 3 km
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1d82e4e6-bd5d-51c5-9d21-d6bd69710b0a@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261202T080000
+DTEND;TZID=Europe/Brussels:20261202T081000
+SUMMARY:Amateur | Rust / 10 min mobiliteit
+DESCRIPTION:WEEK 4/15 | AMATEUR SCHEMA. De werkweek telt mee als belasting.
+  Herstel gaat voor. Motivatie: Rustig lopen maakt je duurvermogen sterker.
+  BELANGRIJK: voer slechts een van de twee schema’s uit\, nooit samen. Sc
+ hakel per week over als werkdruk of herstel dat vraagt\; verdubbel nooit e
+ en gemiste training. Voortdurende pijn\, ziek zijn of zware vermoeidheid =
+  terugschakelen. Op basis van ca. 12\,5-15\,2 km/week in november: maratho
+ nfinish op 21 februari is niet gegarandeerd\; overweeg kortere afstand of 
+ uitstel bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is een DAGH
+ ERINNERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rust / 10 min mobiliteit
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5611e891-7b6c-536b-ae02-54086022b350@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261203T080000
+DTEND;TZID=Europe/Brussels:20261203T081000
+SUMMARY:Amateur | Rustige duurloop 3 km
+DESCRIPTION:WEEK 4/15 | AMATEUR SCHEMA. Comfortabel\, zonder snelheidsdoel.
+  Bij stress mag je 10-15 min wandelen in plaats daarvan. Motivatie: Goede 
+ techniek vandaag\, sterkere benen morgen. BELANGRIJK: voer slechts een van
+  de twee schema’s uit\, nooit samen. Schakel per week over als werkdruk 
+ of herstel dat vraagt\; verdubbel nooit een gemiste training. Voortdurende
+  pijn\, ziek zijn of zware vermoeidheid = terugschakelen. Op basis van ca.
+  12\,5-15\,2 km/week in november: marathonfinish op 21 februari is niet ge
+ garandeerd\; overweeg kortere afstand of uitstel bij onvoldoende voorberei
+ ding. Dit agendapunt om 08:00 is een DAGHERINNERING\; de training zelf pla
+ n je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rustige duurloop 3 km
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:05754028-a947-5d5a-9f63-223058eb1f55@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261204T080000
+DTEND;TZID=Europe/Brussels:20261204T081000
+SUMMARY:Amateur | Rust
+DESCRIPTION:WEEK 4/15 | AMATEUR SCHEMA. Volledige rust\, geen schuldgevoel.
+  Motivatie: Je hoeft geen record te breken om vooruitgang te boeken. BELAN
+ GRIJK: voer slechts een van de twee schema’s uit\, nooit samen. Schakel 
+ per week over als werkdruk of herstel dat vraagt\; verdubbel nooit een gem
+ iste training. Voortdurende pijn\, ziek zijn of zware vermoeidheid = terug
+ schakelen. Op basis van ca. 12\,5-15\,2 km/week in november: marathonfinis
+ h op 21 februari is niet gegarandeerd\; overweeg kortere afstand of uitste
+ l bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is een DAGHERINNE
+ RING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rust
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e063cc87-b917-5b63-9366-867b5f056d6f@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261205T080000
+DTEND;TZID=Europe/Brussels:20261205T081000
+SUMMARY:Amateur | Optioneel wandelen + core 10 min
+DESCRIPTION:WEEK 4/15 | AMATEUR SCHEMA. 20 min wandelen en 10 min side plan
+ k/bird dog\, of volledige rust. Motivatie: Herstel is training\, geen acht
+ erstand. BELANGRIJK: voer slechts een van de twee schema’s uit\, nooit s
+ amen. Schakel per week over als werkdruk of herstel dat vraagt\; verdubbel
+  nooit een gemiste training. Voortdurende pijn\, ziek zijn of zware vermoe
+ idheid = terugschakelen. Op basis van ca. 12\,5-15\,2 km/week in november:
+  marathonfinish op 21 februari is niet gegarandeerd\; overweeg kortere afs
+ tand of uitstel bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is 
+ een DAGHERINNERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Optioneel wandelen + core 10 min
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c04bad1b-1d4b-5d7d-83ff-99b1ea1b2acb@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261206T080000
+DTEND;TZID=Europe/Brussels:20261206T081000
+SUMMARY:Amateur | Lange rustige duurloop 6 km
+DESCRIPTION:WEEK 4/15 | AMATEUR SCHEMA. Heel rustig\, eventueel run-walk. O
+ efen bevoorrading als >75-90 min. Stop bij pijn\; max circa 3 uur. Motivat
+ ie: Bouw conditie op\, niet alleen kilometers. BELANGRIJK: voer slechts ee
+ n van de twee schema’s uit\, nooit samen. Schakel per week over als werk
+ druk of herstel dat vraagt\; verdubbel nooit een gemiste training. Voortdu
+ rende pijn\, ziek zijn of zware vermoeidheid = terugschakelen. Op basis va
+ n ca. 12\,5-15\,2 km/week in november: marathonfinish op 21 februari is ni
+ et gegarandeerd\; overweeg kortere afstand of uitstel bij onvoldoende voor
+ bereiding. Dit agendapunt om 08:00 is een DAGHERINNERING\; de training zel
+ f plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Lange rustige duurloop 6 km
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:032756ba-cfe9-56b3-8772-e26d204db923@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261207T080000
+DTEND;TZID=Europe/Brussels:20261207T081000
+SUMMARY:Amateur | Core + lichte kracht 20 min
+DESCRIPTION:WEEK 5/15 | AMATEUR SCHEMA. Dead bug\, glute bridge\, squat en 
+ calf raise elk 2 sets\, niet zwaar. Ook thuis mogelijk. Motivatie: Consist
+ entie wint van perfectie. Bouw vandaag aan je basis. BELANGRIJK: voer slec
+ hts een van de twee schema’s uit\, nooit samen. Schakel per week over al
+ s werkdruk of herstel dat vraagt\; verdubbel nooit een gemiste training. V
+ oortdurende pijn\, ziek zijn of zware vermoeidheid = terugschakelen. Op ba
+ sis van ca. 12\,5-15\,2 km/week in november: marathonfinish op 21 februari
+  is niet gegarandeerd\; overweeg kortere afstand of uitstel bij onvoldoend
+ e voorbereiding. Dit agendapunt om 08:00 is een DAGHERINNERING\; de traini
+ ng zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Core + lichte kracht 20 min
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8f3ee1f4-d66b-59fc-a2da-d67d35a9c2e0@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261208T080000
+DTEND;TZID=Europe/Brussels:20261208T081000
+SUMMARY:Amateur | Rustige duurloop 3 km
+DESCRIPTION:WEEK 5/15 | AMATEUR SCHEMA. Praattempo\, eventueel run-walk. Je
+  doet genoeg door te verschijnen. Motivatie: Sterk trainen is ook slim her
+ stellen. BELANGRIJK: voer slechts een van de twee schema’s uit\, nooit s
+ amen. Schakel per week over als werkdruk of herstel dat vraagt\; verdubbel
+  nooit een gemiste training. Voortdurende pijn\, ziek zijn of zware vermoe
+ idheid = terugschakelen. Op basis van ca. 12\,5-15\,2 km/week in november:
+  marathonfinish op 21 februari is niet gegarandeerd\; overweeg kortere afs
+ tand of uitstel bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is 
+ een DAGHERINNERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rustige duurloop 3 km
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0ff105e9-2a9d-5cde-833a-6c0c11fcdda2@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261209T080000
+DTEND;TZID=Europe/Brussels:20261209T081000
+SUMMARY:Amateur | Rust / 10 min mobiliteit
+DESCRIPTION:WEEK 5/15 | AMATEUR SCHEMA. De werkweek telt mee als belasting.
+  Herstel gaat voor. Motivatie: Rustig lopen maakt je duurvermogen sterker.
+  BELANGRIJK: voer slechts een van de twee schema’s uit\, nooit samen. Sc
+ hakel per week over als werkdruk of herstel dat vraagt\; verdubbel nooit e
+ en gemiste training. Voortdurende pijn\, ziek zijn of zware vermoeidheid =
+  terugschakelen. Op basis van ca. 12\,5-15\,2 km/week in november: maratho
+ nfinish op 21 februari is niet gegarandeerd\; overweeg kortere afstand of 
+ uitstel bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is een DAGH
+ ERINNERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rust / 10 min mobiliteit
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:41db5c64-b575-58c1-ad21-4a5397e3be2c@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261210T080000
+DTEND;TZID=Europe/Brussels:20261210T081000
+SUMMARY:Amateur | Rustige duurloop 4 km
+DESCRIPTION:WEEK 5/15 | AMATEUR SCHEMA. Comfortabel\, zonder snelheidsdoel.
+  Bij stress mag je 10-15 min wandelen in plaats daarvan. Motivatie: Goede 
+ techniek vandaag\, sterkere benen morgen. BELANGRIJK: voer slechts een van
+  de twee schema’s uit\, nooit samen. Schakel per week over als werkdruk 
+ of herstel dat vraagt\; verdubbel nooit een gemiste training. Voortdurende
+  pijn\, ziek zijn of zware vermoeidheid = terugschakelen. Op basis van ca.
+  12\,5-15\,2 km/week in november: marathonfinish op 21 februari is niet ge
+ garandeerd\; overweeg kortere afstand of uitstel bij onvoldoende voorberei
+ ding. Dit agendapunt om 08:00 is een DAGHERINNERING\; de training zelf pla
+ n je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rustige duurloop 4 km
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ee292381-4545-5a60-9272-032637c0ca77@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261211T080000
+DTEND;TZID=Europe/Brussels:20261211T081000
+SUMMARY:Amateur | Rust
+DESCRIPTION:WEEK 5/15 | AMATEUR SCHEMA. Volledige rust\, geen schuldgevoel.
+  Motivatie: Je hoeft geen record te breken om vooruitgang te boeken. BELAN
+ GRIJK: voer slechts een van de twee schema’s uit\, nooit samen. Schakel 
+ per week over als werkdruk of herstel dat vraagt\; verdubbel nooit een gem
+ iste training. Voortdurende pijn\, ziek zijn of zware vermoeidheid = terug
+ schakelen. Op basis van ca. 12\,5-15\,2 km/week in november: marathonfinis
+ h op 21 februari is niet gegarandeerd\; overweeg kortere afstand of uitste
+ l bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is een DAGHERINNE
+ RING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rust
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1e2fad3d-4062-5724-b126-5fb4fac711ea@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261212T080000
+DTEND;TZID=Europe/Brussels:20261212T081000
+SUMMARY:Amateur | Optioneel wandelen + core 10 min
+DESCRIPTION:WEEK 5/15 | AMATEUR SCHEMA. 20 min wandelen en 10 min side plan
+ k/bird dog\, of volledige rust. Motivatie: Herstel is training\, geen acht
+ erstand. BELANGRIJK: voer slechts een van de twee schema’s uit\, nooit s
+ amen. Schakel per week over als werkdruk of herstel dat vraagt\; verdubbel
+  nooit een gemiste training. Voortdurende pijn\, ziek zijn of zware vermoe
+ idheid = terugschakelen. Op basis van ca. 12\,5-15\,2 km/week in november:
+  marathonfinish op 21 februari is niet gegarandeerd\; overweeg kortere afs
+ tand of uitstel bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is 
+ een DAGHERINNERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Optioneel wandelen + core 10 min
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3b45f581-e0e5-5afb-9e44-fa749fb5825e@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261213T080000
+DTEND;TZID=Europe/Brussels:20261213T081000
+SUMMARY:Amateur | Lange rustige duurloop 9 km
+DESCRIPTION:WEEK 5/15 | AMATEUR SCHEMA. Heel rustig\, eventueel run-walk. O
+ efen bevoorrading als >75-90 min. Stop bij pijn\; max circa 3 uur. Motivat
+ ie: Bouw conditie op\, niet alleen kilometers. BELANGRIJK: voer slechts ee
+ n van de twee schema’s uit\, nooit samen. Schakel per week over als werk
+ druk of herstel dat vraagt\; verdubbel nooit een gemiste training. Voortdu
+ rende pijn\, ziek zijn of zware vermoeidheid = terugschakelen. Op basis va
+ n ca. 12\,5-15\,2 km/week in november: marathonfinish op 21 februari is ni
+ et gegarandeerd\; overweeg kortere afstand of uitstel bij onvoldoende voor
+ bereiding. Dit agendapunt om 08:00 is een DAGHERINNERING\; de training zel
+ f plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Lange rustige duurloop 9 km
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:846fb36f-10d3-5154-92d6-fa87e009ebad@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261214T080000
+DTEND;TZID=Europe/Brussels:20261214T081000
+SUMMARY:Amateur | Core + lichte kracht 20 min
+DESCRIPTION:WEEK 6/15 | AMATEUR SCHEMA. Dead bug\, glute bridge\, squat en 
+ calf raise elk 2 sets\, niet zwaar. Ook thuis mogelijk. Motivatie: Consist
+ entie wint van perfectie. Bouw vandaag aan je basis. BELANGRIJK: voer slec
+ hts een van de twee schema’s uit\, nooit samen. Schakel per week over al
+ s werkdruk of herstel dat vraagt\; verdubbel nooit een gemiste training. V
+ oortdurende pijn\, ziek zijn of zware vermoeidheid = terugschakelen. Op ba
+ sis van ca. 12\,5-15\,2 km/week in november: marathonfinish op 21 februari
+  is niet gegarandeerd\; overweeg kortere afstand of uitstel bij onvoldoend
+ e voorbereiding. Dit agendapunt om 08:00 is een DAGHERINNERING\; de traini
+ ng zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Core + lichte kracht 20 min
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:842727cd-ddb3-5c76-98ba-e76dff8c5e33@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261215T080000
+DTEND;TZID=Europe/Brussels:20261215T081000
+SUMMARY:Amateur | Rustige duurloop 4 km
+DESCRIPTION:WEEK 6/15 | AMATEUR SCHEMA. Praattempo\, eventueel run-walk. Je
+  doet genoeg door te verschijnen. Motivatie: Sterk trainen is ook slim her
+ stellen. BELANGRIJK: voer slechts een van de twee schema’s uit\, nooit s
+ amen. Schakel per week over als werkdruk of herstel dat vraagt\; verdubbel
+  nooit een gemiste training. Voortdurende pijn\, ziek zijn of zware vermoe
+ idheid = terugschakelen. Op basis van ca. 12\,5-15\,2 km/week in november:
+  marathonfinish op 21 februari is niet gegarandeerd\; overweeg kortere afs
+ tand of uitstel bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is 
+ een DAGHERINNERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rustige duurloop 4 km
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:57a1c3e4-870c-5ba2-a47b-fce827d74cdc@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261216T080000
+DTEND;TZID=Europe/Brussels:20261216T081000
+SUMMARY:Amateur | Rust / 10 min mobiliteit
+DESCRIPTION:WEEK 6/15 | AMATEUR SCHEMA. De werkweek telt mee als belasting.
+  Herstel gaat voor. Motivatie: Rustig lopen maakt je duurvermogen sterker.
+  BELANGRIJK: voer slechts een van de twee schema’s uit\, nooit samen. Sc
+ hakel per week over als werkdruk of herstel dat vraagt\; verdubbel nooit e
+ en gemiste training. Voortdurende pijn\, ziek zijn of zware vermoeidheid =
+  terugschakelen. Op basis van ca. 12\,5-15\,2 km/week in november: maratho
+ nfinish op 21 februari is niet gegarandeerd\; overweeg kortere afstand of 
+ uitstel bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is een DAGH
+ ERINNERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rust / 10 min mobiliteit
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9be72e2c-7d34-5d28-aa6e-40076b8765f5@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261217T080000
+DTEND;TZID=Europe/Brussels:20261217T081000
+SUMMARY:Amateur | Rustige duurloop 4 km
+DESCRIPTION:WEEK 6/15 | AMATEUR SCHEMA. Comfortabel\, zonder snelheidsdoel.
+  Bij stress mag je 10-15 min wandelen in plaats daarvan. Motivatie: Goede 
+ techniek vandaag\, sterkere benen morgen. BELANGRIJK: voer slechts een van
+  de twee schema’s uit\, nooit samen. Schakel per week over als werkdruk 
+ of herstel dat vraagt\; verdubbel nooit een gemiste training. Voortdurende
+  pijn\, ziek zijn of zware vermoeidheid = terugschakelen. Op basis van ca.
+  12\,5-15\,2 km/week in november: marathonfinish op 21 februari is niet ge
+ garandeerd\; overweeg kortere afstand of uitstel bij onvoldoende voorberei
+ ding. Dit agendapunt om 08:00 is een DAGHERINNERING\; de training zelf pla
+ n je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rustige duurloop 4 km
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d1f34101-6858-574d-a687-04d2aaeab85f@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261218T080000
+DTEND;TZID=Europe/Brussels:20261218T081000
+SUMMARY:Amateur | Rust
+DESCRIPTION:WEEK 6/15 | AMATEUR SCHEMA. Volledige rust\, geen schuldgevoel.
+  Motivatie: Je hoeft geen record te breken om vooruitgang te boeken. BELAN
+ GRIJK: voer slechts een van de twee schema’s uit\, nooit samen. Schakel 
+ per week over als werkdruk of herstel dat vraagt\; verdubbel nooit een gem
+ iste training. Voortdurende pijn\, ziek zijn of zware vermoeidheid = terug
+ schakelen. Op basis van ca. 12\,5-15\,2 km/week in november: marathonfinis
+ h op 21 februari is niet gegarandeerd\; overweeg kortere afstand of uitste
+ l bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is een DAGHERINNE
+ RING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rust
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:737750dc-e176-5053-8e21-e17467eff2b0@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261219T080000
+DTEND;TZID=Europe/Brussels:20261219T081000
+SUMMARY:Amateur | Optioneel wandelen + core 10 min
+DESCRIPTION:WEEK 6/15 | AMATEUR SCHEMA. 20 min wandelen en 10 min side plan
+ k/bird dog\, of volledige rust. Motivatie: Herstel is training\, geen acht
+ erstand. BELANGRIJK: voer slechts een van de twee schema’s uit\, nooit s
+ amen. Schakel per week over als werkdruk of herstel dat vraagt\; verdubbel
+  nooit een gemiste training. Voortdurende pijn\, ziek zijn of zware vermoe
+ idheid = terugschakelen. Op basis van ca. 12\,5-15\,2 km/week in november:
+  marathonfinish op 21 februari is niet gegarandeerd\; overweeg kortere afs
+ tand of uitstel bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is 
+ een DAGHERINNERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Optioneel wandelen + core 10 min
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e00e6333-3948-5d09-8e00-e89cc8d68e36@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261220T080000
+DTEND;TZID=Europe/Brussels:20261220T081000
+SUMMARY:Amateur | Lange rustige duurloop 10 km
+DESCRIPTION:WEEK 6/15 | AMATEUR SCHEMA. Heel rustig\, eventueel run-walk. O
+ efen bevoorrading als >75-90 min. Stop bij pijn\; max circa 3 uur. Motivat
+ ie: Bouw conditie op\, niet alleen kilometers. BELANGRIJK: voer slechts ee
+ n van de twee schema’s uit\, nooit samen. Schakel per week over als werk
+ druk of herstel dat vraagt\; verdubbel nooit een gemiste training. Voortdu
+ rende pijn\, ziek zijn of zware vermoeidheid = terugschakelen. Op basis va
+ n ca. 12\,5-15\,2 km/week in november: marathonfinish op 21 februari is ni
+ et gegarandeerd\; overweeg kortere afstand of uitstel bij onvoldoende voor
+ bereiding. Dit agendapunt om 08:00 is een DAGHERINNERING\; de training zel
+ f plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Lange rustige duurloop 10 km
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5fc4772e-55c7-5252-9f73-9fda779a797a@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261221T080000
+DTEND;TZID=Europe/Brussels:20261221T081000
+SUMMARY:Amateur | Core + lichte kracht 20 min
+DESCRIPTION:WEEK 7/15 | AMATEUR SCHEMA. Dead bug\, glute bridge\, squat en 
+ calf raise elk 2 sets\, niet zwaar. Ook thuis mogelijk. Motivatie: Consist
+ entie wint van perfectie. Bouw vandaag aan je basis. BELANGRIJK: voer slec
+ hts een van de twee schema’s uit\, nooit samen. Schakel per week over al
+ s werkdruk of herstel dat vraagt\; verdubbel nooit een gemiste training. V
+ oortdurende pijn\, ziek zijn of zware vermoeidheid = terugschakelen. Op ba
+ sis van ca. 12\,5-15\,2 km/week in november: marathonfinish op 21 februari
+  is niet gegarandeerd\; overweeg kortere afstand of uitstel bij onvoldoend
+ e voorbereiding. Dit agendapunt om 08:00 is een DAGHERINNERING\; de traini
+ ng zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Core + lichte kracht 20 min
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8ae3ddee-788b-5765-a8c6-398429b65302@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261222T080000
+DTEND;TZID=Europe/Brussels:20261222T081000
+SUMMARY:Amateur | Rustige duurloop 4 km
+DESCRIPTION:WEEK 7/15 | AMATEUR SCHEMA. Praattempo\, eventueel run-walk. Je
+  doet genoeg door te verschijnen. Motivatie: Sterk trainen is ook slim her
+ stellen. BELANGRIJK: voer slechts een van de twee schema’s uit\, nooit s
+ amen. Schakel per week over als werkdruk of herstel dat vraagt\; verdubbel
+  nooit een gemiste training. Voortdurende pijn\, ziek zijn of zware vermoe
+ idheid = terugschakelen. Op basis van ca. 12\,5-15\,2 km/week in november:
+  marathonfinish op 21 februari is niet gegarandeerd\; overweeg kortere afs
+ tand of uitstel bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is 
+ een DAGHERINNERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rustige duurloop 4 km
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:25dc1a8f-08d6-529e-9f6d-d80072018ce9@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261223T080000
+DTEND;TZID=Europe/Brussels:20261223T081000
+SUMMARY:Amateur | Rust / 10 min mobiliteit
+DESCRIPTION:WEEK 7/15 | AMATEUR SCHEMA. De werkweek telt mee als belasting.
+  Herstel gaat voor. Motivatie: Rustig lopen maakt je duurvermogen sterker.
+  BELANGRIJK: voer slechts een van de twee schema’s uit\, nooit samen. Sc
+ hakel per week over als werkdruk of herstel dat vraagt\; verdubbel nooit e
+ en gemiste training. Voortdurende pijn\, ziek zijn of zware vermoeidheid =
+  terugschakelen. Op basis van ca. 12\,5-15\,2 km/week in november: maratho
+ nfinish op 21 februari is niet gegarandeerd\; overweeg kortere afstand of 
+ uitstel bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is een DAGH
+ ERINNERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rust / 10 min mobiliteit
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1c0fc5b9-3b51-5f36-803f-fc232b750223@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261224T080000
+DTEND;TZID=Europe/Brussels:20261224T081000
+SUMMARY:Amateur | Rustige duurloop 4 km
+DESCRIPTION:WEEK 7/15 | AMATEUR SCHEMA. Comfortabel\, zonder snelheidsdoel.
+  Bij stress mag je 10-15 min wandelen in plaats daarvan. Motivatie: Goede 
+ techniek vandaag\, sterkere benen morgen. BELANGRIJK: voer slechts een van
+  de twee schema’s uit\, nooit samen. Schakel per week over als werkdruk 
+ of herstel dat vraagt\; verdubbel nooit een gemiste training. Voortdurende
+  pijn\, ziek zijn of zware vermoeidheid = terugschakelen. Op basis van ca.
+  12\,5-15\,2 km/week in november: marathonfinish op 21 februari is niet ge
+ garandeerd\; overweeg kortere afstand of uitstel bij onvoldoende voorberei
+ ding. Dit agendapunt om 08:00 is een DAGHERINNERING\; de training zelf pla
+ n je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rustige duurloop 4 km
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1f1776a2-7ba2-5939-bfd8-fbbf6869f9ff@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261225T080000
+DTEND;TZID=Europe/Brussels:20261225T081000
+SUMMARY:Amateur | Rust
+DESCRIPTION:WEEK 7/15 | AMATEUR SCHEMA. Volledige rust\, geen schuldgevoel.
+  Motivatie: Je hoeft geen record te breken om vooruitgang te boeken. BELAN
+ GRIJK: voer slechts een van de twee schema’s uit\, nooit samen. Schakel 
+ per week over als werkdruk of herstel dat vraagt\; verdubbel nooit een gem
+ iste training. Voortdurende pijn\, ziek zijn of zware vermoeidheid = terug
+ schakelen. Op basis van ca. 12\,5-15\,2 km/week in november: marathonfinis
+ h op 21 februari is niet gegarandeerd\; overweeg kortere afstand of uitste
+ l bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is een DAGHERINNE
+ RING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rust
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4fe76d58-a3c5-5451-befe-bec827e3365a@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261226T080000
+DTEND;TZID=Europe/Brussels:20261226T081000
+SUMMARY:Amateur | Optioneel wandelen + core 10 min
+DESCRIPTION:WEEK 7/15 | AMATEUR SCHEMA. 20 min wandelen en 10 min side plan
+ k/bird dog\, of volledige rust. Motivatie: Herstel is training\, geen acht
+ erstand. BELANGRIJK: voer slechts een van de twee schema’s uit\, nooit s
+ amen. Schakel per week over als werkdruk of herstel dat vraagt\; verdubbel
+  nooit een gemiste training. Voortdurende pijn\, ziek zijn of zware vermoe
+ idheid = terugschakelen. Op basis van ca. 12\,5-15\,2 km/week in november:
+  marathonfinish op 21 februari is niet gegarandeerd\; overweeg kortere afs
+ tand of uitstel bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is 
+ een DAGHERINNERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Optioneel wandelen + core 10 min
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4e7d3948-412f-5202-8842-20182db87e83@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261227T080000
+DTEND;TZID=Europe/Brussels:20261227T081000
+SUMMARY:Amateur | Lange rustige duurloop 11 km
+DESCRIPTION:WEEK 7/15 | AMATEUR SCHEMA. Heel rustig\, eventueel run-walk. O
+ efen bevoorrading als >75-90 min. Stop bij pijn\; max circa 3 uur. Motivat
+ ie: Bouw conditie op\, niet alleen kilometers. BELANGRIJK: voer slechts ee
+ n van de twee schema’s uit\, nooit samen. Schakel per week over als werk
+ druk of herstel dat vraagt\; verdubbel nooit een gemiste training. Voortdu
+ rende pijn\, ziek zijn of zware vermoeidheid = terugschakelen. Op basis va
+ n ca. 12\,5-15\,2 km/week in november: marathonfinish op 21 februari is ni
+ et gegarandeerd\; overweeg kortere afstand of uitstel bij onvoldoende voor
+ bereiding. Dit agendapunt om 08:00 is een DAGHERINNERING\; de training zel
+ f plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Lange rustige duurloop 11 km
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eb7c9aab-2a98-5564-a61e-16ec131422d4@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261228T080000
+DTEND;TZID=Europe/Brussels:20261228T081000
+SUMMARY:Amateur | Core + lichte kracht 20 min
+DESCRIPTION:WEEK 8/15 | AMATEUR SCHEMA. Dead bug\, glute bridge\, squat en 
+ calf raise elk 2 sets\, niet zwaar. Ook thuis mogelijk. Motivatie: Consist
+ entie wint van perfectie. Bouw vandaag aan je basis. BELANGRIJK: voer slec
+ hts een van de twee schema’s uit\, nooit samen. Schakel per week over al
+ s werkdruk of herstel dat vraagt\; verdubbel nooit een gemiste training. V
+ oortdurende pijn\, ziek zijn of zware vermoeidheid = terugschakelen. Op ba
+ sis van ca. 12\,5-15\,2 km/week in november: marathonfinish op 21 februari
+  is niet gegarandeerd\; overweeg kortere afstand of uitstel bij onvoldoend
+ e voorbereiding. Dit agendapunt om 08:00 is een DAGHERINNERING\; de traini
+ ng zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Core + lichte kracht 20 min
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f011bfc1-11e5-5586-9817-fcf7826a59ea@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261229T080000
+DTEND;TZID=Europe/Brussels:20261229T081000
+SUMMARY:Amateur | Rustige duurloop 3 km
+DESCRIPTION:WEEK 8/15 | AMATEUR SCHEMA. Praattempo\, eventueel run-walk. Je
+  doet genoeg door te verschijnen. Motivatie: Sterk trainen is ook slim her
+ stellen. BELANGRIJK: voer slechts een van de twee schema’s uit\, nooit s
+ amen. Schakel per week over als werkdruk of herstel dat vraagt\; verdubbel
+  nooit een gemiste training. Voortdurende pijn\, ziek zijn of zware vermoe
+ idheid = terugschakelen. Op basis van ca. 12\,5-15\,2 km/week in november:
+  marathonfinish op 21 februari is niet gegarandeerd\; overweeg kortere afs
+ tand of uitstel bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is 
+ een DAGHERINNERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rustige duurloop 3 km
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7d708ca4-21b9-5ddf-b00b-e6206f1a4345@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261230T080000
+DTEND;TZID=Europe/Brussels:20261230T081000
+SUMMARY:Amateur | Rust / 10 min mobiliteit
+DESCRIPTION:WEEK 8/15 | AMATEUR SCHEMA. De werkweek telt mee als belasting.
+  Herstel gaat voor. Motivatie: Rustig lopen maakt je duurvermogen sterker.
+  BELANGRIJK: voer slechts een van de twee schema’s uit\, nooit samen. Sc
+ hakel per week over als werkdruk of herstel dat vraagt\; verdubbel nooit e
+ en gemiste training. Voortdurende pijn\, ziek zijn of zware vermoeidheid =
+  terugschakelen. Op basis van ca. 12\,5-15\,2 km/week in november: maratho
+ nfinish op 21 februari is niet gegarandeerd\; overweeg kortere afstand of 
+ uitstel bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is een DAGH
+ ERINNERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rust / 10 min mobiliteit
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:35efb3c9-43e1-52a2-b245-5865e6e0742c@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20261231T080000
+DTEND;TZID=Europe/Brussels:20261231T081000
+SUMMARY:Amateur | Rustige duurloop 3 km
+DESCRIPTION:WEEK 8/15 | AMATEUR SCHEMA. Comfortabel\, zonder snelheidsdoel.
+  Bij stress mag je 10-15 min wandelen in plaats daarvan. Motivatie: Goede 
+ techniek vandaag\, sterkere benen morgen. BELANGRIJK: voer slechts een van
+  de twee schema’s uit\, nooit samen. Schakel per week over als werkdruk 
+ of herstel dat vraagt\; verdubbel nooit een gemiste training. Voortdurende
+  pijn\, ziek zijn of zware vermoeidheid = terugschakelen. Op basis van ca.
+  12\,5-15\,2 km/week in november: marathonfinish op 21 februari is niet ge
+ garandeerd\; overweeg kortere afstand of uitstel bij onvoldoende voorberei
+ ding. Dit agendapunt om 08:00 is een DAGHERINNERING\; de training zelf pla
+ n je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rustige duurloop 3 km
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f944f6a6-69ae-5600-a452-2fb38c85e4f7@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270101T080000
+DTEND;TZID=Europe/Brussels:20270101T081000
+SUMMARY:Amateur | Rust
+DESCRIPTION:WEEK 8/15 | AMATEUR SCHEMA. Volledige rust\, geen schuldgevoel.
+  Motivatie: Je hoeft geen record te breken om vooruitgang te boeken. BELAN
+ GRIJK: voer slechts een van de twee schema’s uit\, nooit samen. Schakel 
+ per week over als werkdruk of herstel dat vraagt\; verdubbel nooit een gem
+ iste training. Voortdurende pijn\, ziek zijn of zware vermoeidheid = terug
+ schakelen. Op basis van ca. 12\,5-15\,2 km/week in november: marathonfinis
+ h op 21 februari is niet gegarandeerd\; overweeg kortere afstand of uitste
+ l bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is een DAGHERINNE
+ RING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rust
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bfaead4a-0934-5939-8cb7-8e7c711e6413@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270102T080000
+DTEND;TZID=Europe/Brussels:20270102T081000
+SUMMARY:Amateur | Optioneel wandelen + core 10 min
+DESCRIPTION:WEEK 8/15 | AMATEUR SCHEMA. 20 min wandelen en 10 min side plan
+ k/bird dog\, of volledige rust. Motivatie: Herstel is training\, geen acht
+ erstand. BELANGRIJK: voer slechts een van de twee schema’s uit\, nooit s
+ amen. Schakel per week over als werkdruk of herstel dat vraagt\; verdubbel
+  nooit een gemiste training. Voortdurende pijn\, ziek zijn of zware vermoe
+ idheid = terugschakelen. Op basis van ca. 12\,5-15\,2 km/week in november:
+  marathonfinish op 21 februari is niet gegarandeerd\; overweeg kortere afs
+ tand of uitstel bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is 
+ een DAGHERINNERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Optioneel wandelen + core 10 min
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a0b7ceb2-1deb-5223-883c-2b76af38855b@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270103T080000
+DTEND;TZID=Europe/Brussels:20270103T081000
+SUMMARY:Amateur | Lange rustige duurloop 8 km
+DESCRIPTION:WEEK 8/15 | AMATEUR SCHEMA. Heel rustig\, eventueel run-walk. O
+ efen bevoorrading als >75-90 min. Stop bij pijn\; max circa 3 uur. Motivat
+ ie: Bouw conditie op\, niet alleen kilometers. BELANGRIJK: voer slechts ee
+ n van de twee schema’s uit\, nooit samen. Schakel per week over als werk
+ druk of herstel dat vraagt\; verdubbel nooit een gemiste training. Voortdu
+ rende pijn\, ziek zijn of zware vermoeidheid = terugschakelen. Op basis va
+ n ca. 12\,5-15\,2 km/week in november: marathonfinish op 21 februari is ni
+ et gegarandeerd\; overweeg kortere afstand of uitstel bij onvoldoende voor
+ bereiding. Dit agendapunt om 08:00 is een DAGHERINNERING\; de training zel
+ f plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Lange rustige duurloop 8 km
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:feb4d834-8005-51d0-a0f3-afb62cede8da@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270104T080000
+DTEND;TZID=Europe/Brussels:20270104T081000
+SUMMARY:Amateur | Core + lichte kracht 20 min
+DESCRIPTION:WEEK 9/15 | AMATEUR SCHEMA. Dead bug\, glute bridge\, squat en 
+ calf raise elk 2 sets\, niet zwaar. Ook thuis mogelijk. Motivatie: Consist
+ entie wint van perfectie. Bouw vandaag aan je basis. BELANGRIJK: voer slec
+ hts een van de twee schema’s uit\, nooit samen. Schakel per week over al
+ s werkdruk of herstel dat vraagt\; verdubbel nooit een gemiste training. V
+ oortdurende pijn\, ziek zijn of zware vermoeidheid = terugschakelen. Op ba
+ sis van ca. 12\,5-15\,2 km/week in november: marathonfinish op 21 februari
+  is niet gegarandeerd\; overweeg kortere afstand of uitstel bij onvoldoend
+ e voorbereiding. Dit agendapunt om 08:00 is een DAGHERINNERING\; de traini
+ ng zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Core + lichte kracht 20 min
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a99d6846-8093-5a9c-bfd3-4f3506b63e88@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270105T080000
+DTEND;TZID=Europe/Brussels:20270105T081000
+SUMMARY:Amateur | Rustige duurloop 4 km
+DESCRIPTION:WEEK 9/15 | AMATEUR SCHEMA. Praattempo\, eventueel run-walk. Je
+  doet genoeg door te verschijnen. Motivatie: Sterk trainen is ook slim her
+ stellen. BELANGRIJK: voer slechts een van de twee schema’s uit\, nooit s
+ amen. Schakel per week over als werkdruk of herstel dat vraagt\; verdubbel
+  nooit een gemiste training. Voortdurende pijn\, ziek zijn of zware vermoe
+ idheid = terugschakelen. Op basis van ca. 12\,5-15\,2 km/week in november:
+  marathonfinish op 21 februari is niet gegarandeerd\; overweeg kortere afs
+ tand of uitstel bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is 
+ een DAGHERINNERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rustige duurloop 4 km
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a54d77e3-05e1-52ff-8d0c-b5cc7e8464d9@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270106T080000
+DTEND;TZID=Europe/Brussels:20270106T081000
+SUMMARY:Amateur | Rust / 10 min mobiliteit
+DESCRIPTION:WEEK 9/15 | AMATEUR SCHEMA. De werkweek telt mee als belasting.
+  Herstel gaat voor. Motivatie: Rustig lopen maakt je duurvermogen sterker.
+  BELANGRIJK: voer slechts een van de twee schema’s uit\, nooit samen. Sc
+ hakel per week over als werkdruk of herstel dat vraagt\; verdubbel nooit e
+ en gemiste training. Voortdurende pijn\, ziek zijn of zware vermoeidheid =
+  terugschakelen. Op basis van ca. 12\,5-15\,2 km/week in november: maratho
+ nfinish op 21 februari is niet gegarandeerd\; overweeg kortere afstand of 
+ uitstel bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is een DAGH
+ ERINNERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rust / 10 min mobiliteit
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7c85dac1-56ee-5af4-8872-484af98099a6@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270107T080000
+DTEND;TZID=Europe/Brussels:20270107T081000
+SUMMARY:Amateur | Rustige duurloop 5 km
+DESCRIPTION:WEEK 9/15 | AMATEUR SCHEMA. Comfortabel\, zonder snelheidsdoel.
+  Bij stress mag je 10-15 min wandelen in plaats daarvan. Motivatie: Goede 
+ techniek vandaag\, sterkere benen morgen. BELANGRIJK: voer slechts een van
+  de twee schema’s uit\, nooit samen. Schakel per week over als werkdruk 
+ of herstel dat vraagt\; verdubbel nooit een gemiste training. Voortdurende
+  pijn\, ziek zijn of zware vermoeidheid = terugschakelen. Op basis van ca.
+  12\,5-15\,2 km/week in november: marathonfinish op 21 februari is niet ge
+ garandeerd\; overweeg kortere afstand of uitstel bij onvoldoende voorberei
+ ding. Dit agendapunt om 08:00 is een DAGHERINNERING\; de training zelf pla
+ n je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rustige duurloop 5 km
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4afcf88d-6b35-5250-a5c0-b4c5bcb66d80@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270108T080000
+DTEND;TZID=Europe/Brussels:20270108T081000
+SUMMARY:Amateur | Rust
+DESCRIPTION:WEEK 9/15 | AMATEUR SCHEMA. Volledige rust\, geen schuldgevoel.
+  Motivatie: Je hoeft geen record te breken om vooruitgang te boeken. BELAN
+ GRIJK: voer slechts een van de twee schema’s uit\, nooit samen. Schakel 
+ per week over als werkdruk of herstel dat vraagt\; verdubbel nooit een gem
+ iste training. Voortdurende pijn\, ziek zijn of zware vermoeidheid = terug
+ schakelen. Op basis van ca. 12\,5-15\,2 km/week in november: marathonfinis
+ h op 21 februari is niet gegarandeerd\; overweeg kortere afstand of uitste
+ l bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is een DAGHERINNE
+ RING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rust
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5d243027-b2bf-514f-b05e-75849c21b0e4@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270109T080000
+DTEND;TZID=Europe/Brussels:20270109T081000
+SUMMARY:Amateur | Optioneel wandelen + core 10 min
+DESCRIPTION:WEEK 9/15 | AMATEUR SCHEMA. 20 min wandelen en 10 min side plan
+ k/bird dog\, of volledige rust. Motivatie: Herstel is training\, geen acht
+ erstand. BELANGRIJK: voer slechts een van de twee schema’s uit\, nooit s
+ amen. Schakel per week over als werkdruk of herstel dat vraagt\; verdubbel
+  nooit een gemiste training. Voortdurende pijn\, ziek zijn of zware vermoe
+ idheid = terugschakelen. Op basis van ca. 12\,5-15\,2 km/week in november:
+  marathonfinish op 21 februari is niet gegarandeerd\; overweeg kortere afs
+ tand of uitstel bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is 
+ een DAGHERINNERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Optioneel wandelen + core 10 min
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ee6cff13-c847-59b3-81a5-7cf6248dce7b@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270110T080000
+DTEND;TZID=Europe/Brussels:20270110T081000
+SUMMARY:Amateur | Lange rustige duurloop 12 km
+DESCRIPTION:WEEK 9/15 | AMATEUR SCHEMA. Heel rustig\, eventueel run-walk. O
+ efen bevoorrading als >75-90 min. Stop bij pijn\; max circa 3 uur. Motivat
+ ie: Bouw conditie op\, niet alleen kilometers. BELANGRIJK: voer slechts ee
+ n van de twee schema’s uit\, nooit samen. Schakel per week over als werk
+ druk of herstel dat vraagt\; verdubbel nooit een gemiste training. Voortdu
+ rende pijn\, ziek zijn of zware vermoeidheid = terugschakelen. Op basis va
+ n ca. 12\,5-15\,2 km/week in november: marathonfinish op 21 februari is ni
+ et gegarandeerd\; overweeg kortere afstand of uitstel bij onvoldoende voor
+ bereiding. Dit agendapunt om 08:00 is een DAGHERINNERING\; de training zel
+ f plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Lange rustige duurloop 12 km
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6827e5dd-c9df-5e84-b40f-4af2947b4600@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270111T080000
+DTEND;TZID=Europe/Brussels:20270111T081000
+SUMMARY:Amateur | Core + lichte kracht 20 min
+DESCRIPTION:WEEK 10/15 | AMATEUR SCHEMA. Dead bug\, glute bridge\, squat en
+  calf raise elk 2 sets\, niet zwaar. Ook thuis mogelijk. Motivatie: Consis
+ tentie wint van perfectie. Bouw vandaag aan je basis. BELANGRIJK: voer sle
+ chts een van de twee schema’s uit\, nooit samen. Schakel per week over a
+ ls werkdruk of herstel dat vraagt\; verdubbel nooit een gemiste training. 
+ Voortdurende pijn\, ziek zijn of zware vermoeidheid = terugschakelen. Op b
+ asis van ca. 12\,5-15\,2 km/week in november: marathonfinish op 21 februar
+ i is niet gegarandeerd\; overweeg kortere afstand of uitstel bij onvoldoen
+ de voorbereiding. Dit agendapunt om 08:00 is een DAGHERINNERING\; de train
+ ing zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Core + lichte kracht 20 min
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b7c29c6e-a1ab-5d5a-bd10-4fd5e572ce7c@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270112T080000
+DTEND;TZID=Europe/Brussels:20270112T081000
+SUMMARY:Amateur | Rustige duurloop 4 km
+DESCRIPTION:WEEK 10/15 | AMATEUR SCHEMA. Praattempo\, eventueel run-walk. J
+ e doet genoeg door te verschijnen. Motivatie: Sterk trainen is ook slim he
+ rstellen. BELANGRIJK: voer slechts een van de twee schema’s uit\, nooit 
+ samen. Schakel per week over als werkdruk of herstel dat vraagt\; verdubbe
+ l nooit een gemiste training. Voortdurende pijn\, ziek zijn of zware vermo
+ eidheid = terugschakelen. Op basis van ca. 12\,5-15\,2 km/week in november
+ : marathonfinish op 21 februari is niet gegarandeerd\; overweeg kortere af
+ stand of uitstel bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is
+  een DAGHERINNERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rustige duurloop 4 km
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fd373513-6277-5da6-917e-d4e5221fe4cf@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270113T080000
+DTEND;TZID=Europe/Brussels:20270113T081000
+SUMMARY:Amateur | Rust / 10 min mobiliteit
+DESCRIPTION:WEEK 10/15 | AMATEUR SCHEMA. De werkweek telt mee als belasting
+ . Herstel gaat voor. Motivatie: Rustig lopen maakt je duurvermogen sterker
+ . BELANGRIJK: voer slechts een van de twee schema’s uit\, nooit samen. S
+ chakel per week over als werkdruk of herstel dat vraagt\; verdubbel nooit 
+ een gemiste training. Voortdurende pijn\, ziek zijn of zware vermoeidheid 
+ = terugschakelen. Op basis van ca. 12\,5-15\,2 km/week in november: marath
+ onfinish op 21 februari is niet gegarandeerd\; overweeg kortere afstand of
+  uitstel bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is een DAG
+ HERINNERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rust / 10 min mobiliteit
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:adf13725-3297-51d4-be39-6ddc279bb754@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270114T080000
+DTEND;TZID=Europe/Brussels:20270114T081000
+SUMMARY:Amateur | Rustige duurloop 5 km
+DESCRIPTION:WEEK 10/15 | AMATEUR SCHEMA. Comfortabel\, zonder snelheidsdoel
+ . Bij stress mag je 10-15 min wandelen in plaats daarvan. Motivatie: Goede
+  techniek vandaag\, sterkere benen morgen. BELANGRIJK: voer slechts een va
+ n de twee schema’s uit\, nooit samen. Schakel per week over als werkdruk
+  of herstel dat vraagt\; verdubbel nooit een gemiste training. Voortdurend
+ e pijn\, ziek zijn of zware vermoeidheid = terugschakelen. Op basis van ca
+ . 12\,5-15\,2 km/week in november: marathonfinish op 21 februari is niet g
+ egarandeerd\; overweeg kortere afstand of uitstel bij onvoldoende voorbere
+ iding. Dit agendapunt om 08:00 is een DAGHERINNERING\; de training zelf pl
+ an je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rustige duurloop 5 km
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:839cc793-3087-57a0-ae97-1dc85f396ac2@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270115T080000
+DTEND;TZID=Europe/Brussels:20270115T081000
+SUMMARY:Amateur | Rust
+DESCRIPTION:WEEK 10/15 | AMATEUR SCHEMA. Volledige rust\, geen schuldgevoel
+ . Motivatie: Je hoeft geen record te breken om vooruitgang te boeken. BELA
+ NGRIJK: voer slechts een van de twee schema’s uit\, nooit samen. Schakel
+  per week over als werkdruk of herstel dat vraagt\; verdubbel nooit een ge
+ miste training. Voortdurende pijn\, ziek zijn of zware vermoeidheid = teru
+ gschakelen. Op basis van ca. 12\,5-15\,2 km/week in november: marathonfini
+ sh op 21 februari is niet gegarandeerd\; overweeg kortere afstand of uitst
+ el bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is een DAGHERINN
+ ERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rust
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1d2f0d5c-1fd5-5383-86ba-189f8a708d2f@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270116T080000
+DTEND;TZID=Europe/Brussels:20270116T081000
+SUMMARY:Amateur | Optioneel wandelen + core 10 min
+DESCRIPTION:WEEK 10/15 | AMATEUR SCHEMA. 20 min wandelen en 10 min side pla
+ nk/bird dog\, of volledige rust. Motivatie: Herstel is training\, geen ach
+ terstand. BELANGRIJK: voer slechts een van de twee schema’s uit\, nooit 
+ samen. Schakel per week over als werkdruk of herstel dat vraagt\; verdubbe
+ l nooit een gemiste training. Voortdurende pijn\, ziek zijn of zware vermo
+ eidheid = terugschakelen. Op basis van ca. 12\,5-15\,2 km/week in november
+ : marathonfinish op 21 februari is niet gegarandeerd\; overweeg kortere af
+ stand of uitstel bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is
+  een DAGHERINNERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Optioneel wandelen + core 10 min
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:278b28c5-c795-5f76-ac26-cf2449c8496b@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270117T080000
+DTEND;TZID=Europe/Brussels:20270117T081000
+SUMMARY:Amateur | Lange rustige duurloop 13 km
+DESCRIPTION:WEEK 10/15 | AMATEUR SCHEMA. Heel rustig\, eventueel run-walk. 
+ Oefen bevoorrading als >75-90 min. Stop bij pijn\; max circa 3 uur. Motiva
+ tie: Bouw conditie op\, niet alleen kilometers. BELANGRIJK: voer slechts e
+ en van de twee schema’s uit\, nooit samen. Schakel per week over als wer
+ kdruk of herstel dat vraagt\; verdubbel nooit een gemiste training. Voortd
+ urende pijn\, ziek zijn of zware vermoeidheid = terugschakelen. Op basis v
+ an ca. 12\,5-15\,2 km/week in november: marathonfinish op 21 februari is n
+ iet gegarandeerd\; overweeg kortere afstand of uitstel bij onvoldoende voo
+ rbereiding. Dit agendapunt om 08:00 is een DAGHERINNERING\; de training ze
+ lf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Lange rustige duurloop 13 km
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c3e88ed5-ca6d-5303-adde-d4e0814ff5ad@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270118T080000
+DTEND;TZID=Europe/Brussels:20270118T081000
+SUMMARY:Amateur | Core + lichte kracht 20 min
+DESCRIPTION:WEEK 11/15 | AMATEUR SCHEMA. Dead bug\, glute bridge\, squat en
+  calf raise elk 2 sets\, niet zwaar. Ook thuis mogelijk. Motivatie: Consis
+ tentie wint van perfectie. Bouw vandaag aan je basis. BELANGRIJK: voer sle
+ chts een van de twee schema’s uit\, nooit samen. Schakel per week over a
+ ls werkdruk of herstel dat vraagt\; verdubbel nooit een gemiste training. 
+ Voortdurende pijn\, ziek zijn of zware vermoeidheid = terugschakelen. Op b
+ asis van ca. 12\,5-15\,2 km/week in november: marathonfinish op 21 februar
+ i is niet gegarandeerd\; overweeg kortere afstand of uitstel bij onvoldoen
+ de voorbereiding. Dit agendapunt om 08:00 is een DAGHERINNERING\; de train
+ ing zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Core + lichte kracht 20 min
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3d1137a4-4e46-5818-892f-865c70582a50@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270119T080000
+DTEND;TZID=Europe/Brussels:20270119T081000
+SUMMARY:Amateur | Rustige duurloop 5 km
+DESCRIPTION:WEEK 11/15 | AMATEUR SCHEMA. Praattempo\, eventueel run-walk. J
+ e doet genoeg door te verschijnen. Motivatie: Sterk trainen is ook slim he
+ rstellen. BELANGRIJK: voer slechts een van de twee schema’s uit\, nooit 
+ samen. Schakel per week over als werkdruk of herstel dat vraagt\; verdubbe
+ l nooit een gemiste training. Voortdurende pijn\, ziek zijn of zware vermo
+ eidheid = terugschakelen. Op basis van ca. 12\,5-15\,2 km/week in november
+ : marathonfinish op 21 februari is niet gegarandeerd\; overweeg kortere af
+ stand of uitstel bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is
+  een DAGHERINNERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rustige duurloop 5 km
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bb04e3a4-14c7-55b3-a319-cfe3b736af5e@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270120T080000
+DTEND;TZID=Europe/Brussels:20270120T081000
+SUMMARY:Amateur | Rust / 10 min mobiliteit
+DESCRIPTION:WEEK 11/15 | AMATEUR SCHEMA. De werkweek telt mee als belasting
+ . Herstel gaat voor. Motivatie: Rustig lopen maakt je duurvermogen sterker
+ . BELANGRIJK: voer slechts een van de twee schema’s uit\, nooit samen. S
+ chakel per week over als werkdruk of herstel dat vraagt\; verdubbel nooit 
+ een gemiste training. Voortdurende pijn\, ziek zijn of zware vermoeidheid 
+ = terugschakelen. Op basis van ca. 12\,5-15\,2 km/week in november: marath
+ onfinish op 21 februari is niet gegarandeerd\; overweeg kortere afstand of
+  uitstel bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is een DAG
+ HERINNERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rust / 10 min mobiliteit
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:59aee989-f3ab-51da-887e-6d9389217557@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270121T080000
+DTEND;TZID=Europe/Brussels:20270121T081000
+SUMMARY:Amateur | Rustige duurloop 5 km
+DESCRIPTION:WEEK 11/15 | AMATEUR SCHEMA. Comfortabel\, zonder snelheidsdoel
+ . Bij stress mag je 10-15 min wandelen in plaats daarvan. Motivatie: Goede
+  techniek vandaag\, sterkere benen morgen. BELANGRIJK: voer slechts een va
+ n de twee schema’s uit\, nooit samen. Schakel per week over als werkdruk
+  of herstel dat vraagt\; verdubbel nooit een gemiste training. Voortdurend
+ e pijn\, ziek zijn of zware vermoeidheid = terugschakelen. Op basis van ca
+ . 12\,5-15\,2 km/week in november: marathonfinish op 21 februari is niet g
+ egarandeerd\; overweeg kortere afstand of uitstel bij onvoldoende voorbere
+ iding. Dit agendapunt om 08:00 is een DAGHERINNERING\; de training zelf pl
+ an je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rustige duurloop 5 km
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c99e83c3-6ffb-5970-8721-3dc09a5699b6@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270122T080000
+DTEND;TZID=Europe/Brussels:20270122T081000
+SUMMARY:Amateur | Rust
+DESCRIPTION:WEEK 11/15 | AMATEUR SCHEMA. Volledige rust\, geen schuldgevoel
+ . Motivatie: Je hoeft geen record te breken om vooruitgang te boeken. BELA
+ NGRIJK: voer slechts een van de twee schema’s uit\, nooit samen. Schakel
+  per week over als werkdruk of herstel dat vraagt\; verdubbel nooit een ge
+ miste training. Voortdurende pijn\, ziek zijn of zware vermoeidheid = teru
+ gschakelen. Op basis van ca. 12\,5-15\,2 km/week in november: marathonfini
+ sh op 21 februari is niet gegarandeerd\; overweeg kortere afstand of uitst
+ el bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is een DAGHERINN
+ ERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rust
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:52533d0e-b583-53c6-afac-fbcf6b006499@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270123T080000
+DTEND;TZID=Europe/Brussels:20270123T081000
+SUMMARY:Amateur | Optioneel wandelen + core 10 min
+DESCRIPTION:WEEK 11/15 | AMATEUR SCHEMA. 20 min wandelen en 10 min side pla
+ nk/bird dog\, of volledige rust. Motivatie: Herstel is training\, geen ach
+ terstand. BELANGRIJK: voer slechts een van de twee schema’s uit\, nooit 
+ samen. Schakel per week over als werkdruk of herstel dat vraagt\; verdubbe
+ l nooit een gemiste training. Voortdurende pijn\, ziek zijn of zware vermo
+ eidheid = terugschakelen. Op basis van ca. 12\,5-15\,2 km/week in november
+ : marathonfinish op 21 februari is niet gegarandeerd\; overweeg kortere af
+ stand of uitstel bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is
+  een DAGHERINNERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Optioneel wandelen + core 10 min
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8593665b-48b6-52cc-94c2-bb3214d93c96@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270124T080000
+DTEND;TZID=Europe/Brussels:20270124T081000
+SUMMARY:Amateur | Lange rustige duurloop 14 km
+DESCRIPTION:WEEK 11/15 | AMATEUR SCHEMA. Heel rustig\, eventueel run-walk. 
+ Oefen bevoorrading als >75-90 min. Stop bij pijn\; max circa 3 uur. Motiva
+ tie: Bouw conditie op\, niet alleen kilometers. BELANGRIJK: voer slechts e
+ en van de twee schema’s uit\, nooit samen. Schakel per week over als wer
+ kdruk of herstel dat vraagt\; verdubbel nooit een gemiste training. Voortd
+ urende pijn\, ziek zijn of zware vermoeidheid = terugschakelen. Op basis v
+ an ca. 12\,5-15\,2 km/week in november: marathonfinish op 21 februari is n
+ iet gegarandeerd\; overweeg kortere afstand of uitstel bij onvoldoende voo
+ rbereiding. Dit agendapunt om 08:00 is een DAGHERINNERING\; de training ze
+ lf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Lange rustige duurloop 14 km
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b939da3d-ba77-50c4-97bb-b44871fd92fa@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270125T080000
+DTEND;TZID=Europe/Brussels:20270125T081000
+SUMMARY:Amateur | Core + lichte kracht 20 min
+DESCRIPTION:WEEK 12/15 | AMATEUR SCHEMA. Dead bug\, glute bridge\, squat en
+  calf raise elk 2 sets\, niet zwaar. Ook thuis mogelijk. Motivatie: Consis
+ tentie wint van perfectie. Bouw vandaag aan je basis. BELANGRIJK: voer sle
+ chts een van de twee schema’s uit\, nooit samen. Schakel per week over a
+ ls werkdruk of herstel dat vraagt\; verdubbel nooit een gemiste training. 
+ Voortdurende pijn\, ziek zijn of zware vermoeidheid = terugschakelen. Op b
+ asis van ca. 12\,5-15\,2 km/week in november: marathonfinish op 21 februar
+ i is niet gegarandeerd\; overweeg kortere afstand of uitstel bij onvoldoen
+ de voorbereiding. Dit agendapunt om 08:00 is een DAGHERINNERING\; de train
+ ing zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Core + lichte kracht 20 min
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bd19008d-fbac-551e-8c55-236d0e32b13b@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270126T080000
+DTEND;TZID=Europe/Brussels:20270126T081000
+SUMMARY:Amateur | Rustige duurloop 5 km
+DESCRIPTION:WEEK 12/15 | AMATEUR SCHEMA. Praattempo\, eventueel run-walk. J
+ e doet genoeg door te verschijnen. Motivatie: Sterk trainen is ook slim he
+ rstellen. BELANGRIJK: voer slechts een van de twee schema’s uit\, nooit 
+ samen. Schakel per week over als werkdruk of herstel dat vraagt\; verdubbe
+ l nooit een gemiste training. Voortdurende pijn\, ziek zijn of zware vermo
+ eidheid = terugschakelen. Op basis van ca. 12\,5-15\,2 km/week in november
+ : marathonfinish op 21 februari is niet gegarandeerd\; overweeg kortere af
+ stand of uitstel bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is
+  een DAGHERINNERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rustige duurloop 5 km
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9c4100b7-5359-5762-981e-b149b19afef3@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270127T080000
+DTEND;TZID=Europe/Brussels:20270127T081000
+SUMMARY:Amateur | Rust / 10 min mobiliteit
+DESCRIPTION:WEEK 12/15 | AMATEUR SCHEMA. De werkweek telt mee als belasting
+ . Herstel gaat voor. Motivatie: Rustig lopen maakt je duurvermogen sterker
+ . BELANGRIJK: voer slechts een van de twee schema’s uit\, nooit samen. S
+ chakel per week over als werkdruk of herstel dat vraagt\; verdubbel nooit 
+ een gemiste training. Voortdurende pijn\, ziek zijn of zware vermoeidheid 
+ = terugschakelen. Op basis van ca. 12\,5-15\,2 km/week in november: marath
+ onfinish op 21 februari is niet gegarandeerd\; overweeg kortere afstand of
+  uitstel bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is een DAG
+ HERINNERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rust / 10 min mobiliteit
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3e9a5262-fca5-5a17-bb92-78fd9be8ce46@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270128T080000
+DTEND;TZID=Europe/Brussels:20270128T081000
+SUMMARY:Amateur | Rustige duurloop 6 km
+DESCRIPTION:WEEK 12/15 | AMATEUR SCHEMA. Comfortabel\, zonder snelheidsdoel
+ . Bij stress mag je 10-15 min wandelen in plaats daarvan. Motivatie: Goede
+  techniek vandaag\, sterkere benen morgen. BELANGRIJK: voer slechts een va
+ n de twee schema’s uit\, nooit samen. Schakel per week over als werkdruk
+  of herstel dat vraagt\; verdubbel nooit een gemiste training. Voortdurend
+ e pijn\, ziek zijn of zware vermoeidheid = terugschakelen. Op basis van ca
+ . 12\,5-15\,2 km/week in november: marathonfinish op 21 februari is niet g
+ egarandeerd\; overweeg kortere afstand of uitstel bij onvoldoende voorbere
+ iding. Dit agendapunt om 08:00 is een DAGHERINNERING\; de training zelf pl
+ an je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rustige duurloop 6 km
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f9b58362-36de-5e0a-926a-7ac2486673f7@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270129T080000
+DTEND;TZID=Europe/Brussels:20270129T081000
+SUMMARY:Amateur | Rust
+DESCRIPTION:WEEK 12/15 | AMATEUR SCHEMA. Volledige rust\, geen schuldgevoel
+ . Motivatie: Je hoeft geen record te breken om vooruitgang te boeken. BELA
+ NGRIJK: voer slechts een van de twee schema’s uit\, nooit samen. Schakel
+  per week over als werkdruk of herstel dat vraagt\; verdubbel nooit een ge
+ miste training. Voortdurende pijn\, ziek zijn of zware vermoeidheid = teru
+ gschakelen. Op basis van ca. 12\,5-15\,2 km/week in november: marathonfini
+ sh op 21 februari is niet gegarandeerd\; overweeg kortere afstand of uitst
+ el bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is een DAGHERINN
+ ERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rust
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6fc03df9-063a-51f5-bdc0-2c08ef686ad2@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270130T080000
+DTEND;TZID=Europe/Brussels:20270130T081000
+SUMMARY:Amateur | Optioneel wandelen + core 10 min
+DESCRIPTION:WEEK 12/15 | AMATEUR SCHEMA. 20 min wandelen en 10 min side pla
+ nk/bird dog\, of volledige rust. Motivatie: Herstel is training\, geen ach
+ terstand. BELANGRIJK: voer slechts een van de twee schema’s uit\, nooit 
+ samen. Schakel per week over als werkdruk of herstel dat vraagt\; verdubbe
+ l nooit een gemiste training. Voortdurende pijn\, ziek zijn of zware vermo
+ eidheid = terugschakelen. Op basis van ca. 12\,5-15\,2 km/week in november
+ : marathonfinish op 21 februari is niet gegarandeerd\; overweeg kortere af
+ stand of uitstel bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is
+  een DAGHERINNERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Optioneel wandelen + core 10 min
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f0c031a8-683b-5c20-b6bf-f3909fabb76f@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270131T080000
+DTEND;TZID=Europe/Brussels:20270131T081000
+SUMMARY:Amateur | Lange rustige duurloop 16 km
+DESCRIPTION:WEEK 12/15 | AMATEUR SCHEMA. Heel rustig\, eventueel run-walk. 
+ Oefen bevoorrading als >75-90 min. Stop bij pijn\; max circa 3 uur. Motiva
+ tie: Bouw conditie op\, niet alleen kilometers. BELANGRIJK: voer slechts e
+ en van de twee schema’s uit\, nooit samen. Schakel per week over als wer
+ kdruk of herstel dat vraagt\; verdubbel nooit een gemiste training. Voortd
+ urende pijn\, ziek zijn of zware vermoeidheid = terugschakelen. Op basis v
+ an ca. 12\,5-15\,2 km/week in november: marathonfinish op 21 februari is n
+ iet gegarandeerd\; overweeg kortere afstand of uitstel bij onvoldoende voo
+ rbereiding. Dit agendapunt om 08:00 is een DAGHERINNERING\; de training ze
+ lf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Lange rustige duurloop 16 km
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a7b5bd7-1602-5a8c-9f8c-312950227cc2@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270201T080000
+DTEND;TZID=Europe/Brussels:20270201T081000
+SUMMARY:Amateur | Core + lichte kracht 20 min
+DESCRIPTION:WEEK 13/15 | AMATEUR SCHEMA. Dead bug\, glute bridge\, squat en
+  calf raise elk 2 sets\, niet zwaar. Ook thuis mogelijk. Motivatie: Consis
+ tentie wint van perfectie. Bouw vandaag aan je basis. BELANGRIJK: voer sle
+ chts een van de twee schema’s uit\, nooit samen. Schakel per week over a
+ ls werkdruk of herstel dat vraagt\; verdubbel nooit een gemiste training. 
+ Voortdurende pijn\, ziek zijn of zware vermoeidheid = terugschakelen. Op b
+ asis van ca. 12\,5-15\,2 km/week in november: marathonfinish op 21 februar
+ i is niet gegarandeerd\; overweeg kortere afstand of uitstel bij onvoldoen
+ de voorbereiding. Dit agendapunt om 08:00 is een DAGHERINNERING\; de train
+ ing zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Core + lichte kracht 20 min
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e778aa04-73e5-56ca-86af-b00a3e73466b@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270202T080000
+DTEND;TZID=Europe/Brussels:20270202T081000
+SUMMARY:Amateur | Rustige duurloop 4 km
+DESCRIPTION:WEEK 13/15 | AMATEUR SCHEMA. Praattempo\, eventueel run-walk. J
+ e doet genoeg door te verschijnen. Motivatie: Sterk trainen is ook slim he
+ rstellen. BELANGRIJK: voer slechts een van de twee schema’s uit\, nooit 
+ samen. Schakel per week over als werkdruk of herstel dat vraagt\; verdubbe
+ l nooit een gemiste training. Voortdurende pijn\, ziek zijn of zware vermo
+ eidheid = terugschakelen. Op basis van ca. 12\,5-15\,2 km/week in november
+ : marathonfinish op 21 februari is niet gegarandeerd\; overweeg kortere af
+ stand of uitstel bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is
+  een DAGHERINNERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rustige duurloop 4 km
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0e0da008-e161-59fa-9d34-b176d5bac9a5@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270203T080000
+DTEND;TZID=Europe/Brussels:20270203T081000
+SUMMARY:Amateur | Rust / 10 min mobiliteit
+DESCRIPTION:WEEK 13/15 | AMATEUR SCHEMA. De werkweek telt mee als belasting
+ . Herstel gaat voor. Motivatie: Rustig lopen maakt je duurvermogen sterker
+ . BELANGRIJK: voer slechts een van de twee schema’s uit\, nooit samen. S
+ chakel per week over als werkdruk of herstel dat vraagt\; verdubbel nooit 
+ een gemiste training. Voortdurende pijn\, ziek zijn of zware vermoeidheid 
+ = terugschakelen. Op basis van ca. 12\,5-15\,2 km/week in november: marath
+ onfinish op 21 februari is niet gegarandeerd\; overweeg kortere afstand of
+  uitstel bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is een DAG
+ HERINNERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rust / 10 min mobiliteit
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bb7ce3fa-0f07-5c5a-bf24-8f8b95db17f7@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270204T080000
+DTEND;TZID=Europe/Brussels:20270204T081000
+SUMMARY:Amateur | Rustige duurloop 4 km
+DESCRIPTION:WEEK 13/15 | AMATEUR SCHEMA. Comfortabel\, zonder snelheidsdoel
+ . Bij stress mag je 10-15 min wandelen in plaats daarvan. Motivatie: Goede
+  techniek vandaag\, sterkere benen morgen. BELANGRIJK: voer slechts een va
+ n de twee schema’s uit\, nooit samen. Schakel per week over als werkdruk
+  of herstel dat vraagt\; verdubbel nooit een gemiste training. Voortdurend
+ e pijn\, ziek zijn of zware vermoeidheid = terugschakelen. Op basis van ca
+ . 12\,5-15\,2 km/week in november: marathonfinish op 21 februari is niet g
+ egarandeerd\; overweeg kortere afstand of uitstel bij onvoldoende voorbere
+ iding. Dit agendapunt om 08:00 is een DAGHERINNERING\; de training zelf pl
+ an je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rustige duurloop 4 km
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f205d441-ae44-50ca-919b-309be2e00112@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270205T080000
+DTEND;TZID=Europe/Brussels:20270205T081000
+SUMMARY:Amateur | Rust
+DESCRIPTION:WEEK 13/15 | AMATEUR SCHEMA. Volledige rust\, geen schuldgevoel
+ . Motivatie: Je hoeft geen record te breken om vooruitgang te boeken. BELA
+ NGRIJK: voer slechts een van de twee schema’s uit\, nooit samen. Schakel
+  per week over als werkdruk of herstel dat vraagt\; verdubbel nooit een ge
+ miste training. Voortdurende pijn\, ziek zijn of zware vermoeidheid = teru
+ gschakelen. Op basis van ca. 12\,5-15\,2 km/week in november: marathonfini
+ sh op 21 februari is niet gegarandeerd\; overweeg kortere afstand of uitst
+ el bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is een DAGHERINN
+ ERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rust
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c7d58392-e5c5-5f45-beb9-e9b04da7fdd9@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270206T080000
+DTEND;TZID=Europe/Brussels:20270206T081000
+SUMMARY:Amateur | Optioneel wandelen + core 10 min
+DESCRIPTION:WEEK 13/15 | AMATEUR SCHEMA. 20 min wandelen en 10 min side pla
+ nk/bird dog\, of volledige rust. Motivatie: Herstel is training\, geen ach
+ terstand. BELANGRIJK: voer slechts een van de twee schema’s uit\, nooit 
+ samen. Schakel per week over als werkdruk of herstel dat vraagt\; verdubbe
+ l nooit een gemiste training. Voortdurende pijn\, ziek zijn of zware vermo
+ eidheid = terugschakelen. Op basis van ca. 12\,5-15\,2 km/week in november
+ : marathonfinish op 21 februari is niet gegarandeerd\; overweeg kortere af
+ stand of uitstel bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is
+  een DAGHERINNERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Optioneel wandelen + core 10 min
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eaa3bb16-85e2-5e1c-9d53-8571f7247170@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270207T080000
+DTEND;TZID=Europe/Brussels:20270207T081000
+SUMMARY:Amateur | Lange rustige duurloop 11 km
+DESCRIPTION:WEEK 13/15 | AMATEUR SCHEMA. Heel rustig\, eventueel run-walk. 
+ Oefen bevoorrading als >75-90 min. Stop bij pijn\; max circa 3 uur. Motiva
+ tie: Bouw conditie op\, niet alleen kilometers. BELANGRIJK: voer slechts e
+ en van de twee schema’s uit\, nooit samen. Schakel per week over als wer
+ kdruk of herstel dat vraagt\; verdubbel nooit een gemiste training. Voortd
+ urende pijn\, ziek zijn of zware vermoeidheid = terugschakelen. Op basis v
+ an ca. 12\,5-15\,2 km/week in november: marathonfinish op 21 februari is n
+ iet gegarandeerd\; overweeg kortere afstand of uitstel bij onvoldoende voo
+ rbereiding. Dit agendapunt om 08:00 is een DAGHERINNERING\; de training ze
+ lf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Lange rustige duurloop 11 km
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dbdca7fe-a893-5cc6-bf49-d52b4c887f4c@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270208T080000
+DTEND;TZID=Europe/Brussels:20270208T081000
+SUMMARY:Amateur | Core + lichte kracht 20 min
+DESCRIPTION:WEEK 14/15 | AMATEUR SCHEMA. Dead bug\, glute bridge\, squat en
+  calf raise elk 2 sets\, niet zwaar. Ook thuis mogelijk. Motivatie: Consis
+ tentie wint van perfectie. Bouw vandaag aan je basis. BELANGRIJK: voer sle
+ chts een van de twee schema’s uit\, nooit samen. Schakel per week over a
+ ls werkdruk of herstel dat vraagt\; verdubbel nooit een gemiste training. 
+ Voortdurende pijn\, ziek zijn of zware vermoeidheid = terugschakelen. Op b
+ asis van ca. 12\,5-15\,2 km/week in november: marathonfinish op 21 februar
+ i is niet gegarandeerd\; overweeg kortere afstand of uitstel bij onvoldoen
+ de voorbereiding. Dit agendapunt om 08:00 is een DAGHERINNERING\; de train
+ ing zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Core + lichte kracht 20 min
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:77b31410-393c-5d33-afa5-d67f5ef05a01@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270209T080000
+DTEND;TZID=Europe/Brussels:20270209T081000
+SUMMARY:Amateur | Rustige duurloop 3 km
+DESCRIPTION:WEEK 14/15 | AMATEUR SCHEMA. Praattempo\, eventueel run-walk. J
+ e doet genoeg door te verschijnen. Motivatie: Sterk trainen is ook slim he
+ rstellen. BELANGRIJK: voer slechts een van de twee schema’s uit\, nooit 
+ samen. Schakel per week over als werkdruk of herstel dat vraagt\; verdubbe
+ l nooit een gemiste training. Voortdurende pijn\, ziek zijn of zware vermo
+ eidheid = terugschakelen. Op basis van ca. 12\,5-15\,2 km/week in november
+ : marathonfinish op 21 februari is niet gegarandeerd\; overweeg kortere af
+ stand of uitstel bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is
+  een DAGHERINNERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rustige duurloop 3 km
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8f931f4d-b110-5852-aaab-a99797e8f113@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270210T080000
+DTEND;TZID=Europe/Brussels:20270210T081000
+SUMMARY:Amateur | Rust / 10 min mobiliteit
+DESCRIPTION:WEEK 14/15 | AMATEUR SCHEMA. De werkweek telt mee als belasting
+ . Herstel gaat voor. Motivatie: Rustig lopen maakt je duurvermogen sterker
+ . BELANGRIJK: voer slechts een van de twee schema’s uit\, nooit samen. S
+ chakel per week over als werkdruk of herstel dat vraagt\; verdubbel nooit 
+ een gemiste training. Voortdurende pijn\, ziek zijn of zware vermoeidheid 
+ = terugschakelen. Op basis van ca. 12\,5-15\,2 km/week in november: marath
+ onfinish op 21 februari is niet gegarandeerd\; overweeg kortere afstand of
+  uitstel bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is een DAG
+ HERINNERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rust / 10 min mobiliteit
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f0f1939e-aecc-521d-af2d-292d3a4d09bc@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270211T080000
+DTEND;TZID=Europe/Brussels:20270211T081000
+SUMMARY:Amateur | Rustige duurloop 3 km
+DESCRIPTION:WEEK 14/15 | AMATEUR SCHEMA. Comfortabel\, zonder snelheidsdoel
+ . Bij stress mag je 10-15 min wandelen in plaats daarvan. Motivatie: Goede
+  techniek vandaag\, sterkere benen morgen. BELANGRIJK: voer slechts een va
+ n de twee schema’s uit\, nooit samen. Schakel per week over als werkdruk
+  of herstel dat vraagt\; verdubbel nooit een gemiste training. Voortdurend
+ e pijn\, ziek zijn of zware vermoeidheid = terugschakelen. Op basis van ca
+ . 12\,5-15\,2 km/week in november: marathonfinish op 21 februari is niet g
+ egarandeerd\; overweeg kortere afstand of uitstel bij onvoldoende voorbere
+ iding. Dit agendapunt om 08:00 is een DAGHERINNERING\; de training zelf pl
+ an je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rustige duurloop 3 km
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6bbed409-24a6-525a-afb0-8d1ed29ada70@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270212T080000
+DTEND;TZID=Europe/Brussels:20270212T081000
+SUMMARY:Amateur | Rust
+DESCRIPTION:WEEK 14/15 | AMATEUR SCHEMA. Volledige rust\, geen schuldgevoel
+ . Motivatie: Je hoeft geen record te breken om vooruitgang te boeken. BELA
+ NGRIJK: voer slechts een van de twee schema’s uit\, nooit samen. Schakel
+  per week over als werkdruk of herstel dat vraagt\; verdubbel nooit een ge
+ miste training. Voortdurende pijn\, ziek zijn of zware vermoeidheid = teru
+ gschakelen. Op basis van ca. 12\,5-15\,2 km/week in november: marathonfini
+ sh op 21 februari is niet gegarandeerd\; overweeg kortere afstand of uitst
+ el bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is een DAGHERINN
+ ERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rust
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:76879531-d587-5247-b8cc-4952409730d7@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270213T080000
+DTEND;TZID=Europe/Brussels:20270213T081000
+SUMMARY:Amateur | Optioneel wandelen + core 10 min
+DESCRIPTION:WEEK 14/15 | AMATEUR SCHEMA. 20 min wandelen en 10 min side pla
+ nk/bird dog\, of volledige rust. Motivatie: Herstel is training\, geen ach
+ terstand. BELANGRIJK: voer slechts een van de twee schema’s uit\, nooit 
+ samen. Schakel per week over als werkdruk of herstel dat vraagt\; verdubbe
+ l nooit een gemiste training. Voortdurende pijn\, ziek zijn of zware vermo
+ eidheid = terugschakelen. Op basis van ca. 12\,5-15\,2 km/week in november
+ : marathonfinish op 21 februari is niet gegarandeerd\; overweeg kortere af
+ stand of uitstel bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is
+  een DAGHERINNERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Optioneel wandelen + core 10 min
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:65c087f4-8178-57ca-9221-b57db1792056@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270214T080000
+DTEND;TZID=Europe/Brussels:20270214T081000
+SUMMARY:Amateur | Lange rustige duurloop 7 km
+DESCRIPTION:WEEK 14/15 | AMATEUR SCHEMA. Heel rustig\, eventueel run-walk. 
+ Oefen bevoorrading als >75-90 min. Stop bij pijn\; max circa 3 uur. Motiva
+ tie: Bouw conditie op\, niet alleen kilometers. BELANGRIJK: voer slechts e
+ en van de twee schema’s uit\, nooit samen. Schakel per week over als wer
+ kdruk of herstel dat vraagt\; verdubbel nooit een gemiste training. Voortd
+ urende pijn\, ziek zijn of zware vermoeidheid = terugschakelen. Op basis v
+ an ca. 12\,5-15\,2 km/week in november: marathonfinish op 21 februari is n
+ iet gegarandeerd\; overweeg kortere afstand of uitstel bij onvoldoende voo
+ rbereiding. Dit agendapunt om 08:00 is een DAGHERINNERING\; de training ze
+ lf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Lange rustige duurloop 7 km
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d5bc7dca-d48c-5306-a7e3-3ed85012c5cc@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270215T080000
+DTEND;TZID=Europe/Brussels:20270215T081000
+SUMMARY:Amateur | Mobiliteit 10 min
+DESCRIPTION:WEEK 15/15 | AMATEUR SCHEMA. Geen zware training. Motivatie: Co
+ nsistentie wint van perfectie. Bouw vandaag aan je basis. BELANGRIJK: voer
+  slechts een van de twee schema’s uit\, nooit samen. Schakel per week ov
+ er als werkdruk of herstel dat vraagt\; verdubbel nooit een gemiste traini
+ ng. Voortdurende pijn\, ziek zijn of zware vermoeidheid = terugschakelen. 
+ Op basis van ca. 12\,5-15\,2 km/week in november: marathonfinish op 21 feb
+ ruari is niet gegarandeerd\; overweeg kortere afstand of uitstel bij onvol
+ doende voorbereiding. Dit agendapunt om 08:00 is een DAGHERINNERING\; de t
+ raining zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Mobiliteit 10 min
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cbfdc768-4bed-5b81-a8b3-fc499f521de3@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270216T080000
+DTEND;TZID=Europe/Brussels:20270216T081000
+SUMMARY:Amateur | Rustig lopen 2 km of wandelen
+DESCRIPTION:WEEK 15/15 | AMATEUR SCHEMA. Alleen als je je fris voelt. Motiv
+ atie: Sterk trainen is ook slim herstellen. BELANGRIJK: voer slechts een v
+ an de twee schema’s uit\, nooit samen. Schakel per week over als werkdru
+ k of herstel dat vraagt\; verdubbel nooit een gemiste training. Voortduren
+ de pijn\, ziek zijn of zware vermoeidheid = terugschakelen. Op basis van c
+ a. 12\,5-15\,2 km/week in november: marathonfinish op 21 februari is niet 
+ gegarandeerd\; overweeg kortere afstand of uitstel bij onvoldoende voorber
+ eiding. Dit agendapunt om 08:00 is een DAGHERINNERING\; de training zelf p
+ lan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rustig lopen 2 km of wandelen
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e9f665d8-e4ae-594e-b203-402638cadc24@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270217T080000
+DTEND;TZID=Europe/Brussels:20270217T081000
+SUMMARY:Amateur | Rust
+DESCRIPTION:WEEK 15/15 | AMATEUR SCHEMA. Slaap en herstel. Motivatie: Rusti
+ g lopen maakt je duurvermogen sterker. BELANGRIJK: voer slechts een van de
+  twee schema’s uit\, nooit samen. Schakel per week over als werkdruk of 
+ herstel dat vraagt\; verdubbel nooit een gemiste training. Voortdurende pi
+ jn\, ziek zijn of zware vermoeidheid = terugschakelen. Op basis van ca. 12
+ \,5-15\,2 km/week in november: marathonfinish op 21 februari is niet gegar
+ andeerd\; overweeg kortere afstand of uitstel bij onvoldoende voorbereidin
+ g. Dit agendapunt om 08:00 is een DAGHERINNERING\; de training zelf plan j
+ e op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rust
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:43e04ec7-f89b-59e4-94f7-db6a063ffeea@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270218T080000
+DTEND;TZID=Europe/Brussels:20270218T081000
+SUMMARY:Amateur | Rustig lopen 2 km of wandelen
+DESCRIPTION:WEEK 15/15 | AMATEUR SCHEMA. Geen tempowerk. Motivatie: Goede t
+ echniek vandaag\, sterkere benen morgen. BELANGRIJK: voer slechts een van 
+ de twee schema’s uit\, nooit samen. Schakel per week over als werkdruk o
+ f herstel dat vraagt\; verdubbel nooit een gemiste training. Voortdurende 
+ pijn\, ziek zijn of zware vermoeidheid = terugschakelen. Op basis van ca. 
+ 12\,5-15\,2 km/week in november: marathonfinish op 21 februari is niet geg
+ arandeerd\; overweeg kortere afstand of uitstel bij onvoldoende voorbereid
+ ing. Dit agendapunt om 08:00 is een DAGHERINNERING\; de training zelf plan
+  je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rustig lopen 2 km of wandelen
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ce00cded-6c74-5af0-96e6-71e0707fbe70@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270219T080000
+DTEND;TZID=Europe/Brussels:20270219T081000
+SUMMARY:Amateur | Rust en voeding
+DESCRIPTION:WEEK 15/15 | AMATEUR SCHEMA. Bereid route\, kleding en drinken 
+ voor. Motivatie: Je hoeft geen record te breken om vooruitgang te boeken. 
+ BELANGRIJK: voer slechts een van de twee schema’s uit\, nooit samen. Sch
+ akel per week over als werkdruk of herstel dat vraagt\; verdubbel nooit ee
+ n gemiste training. Voortdurende pijn\, ziek zijn of zware vermoeidheid = 
+ terugschakelen. Op basis van ca. 12\,5-15\,2 km/week in november: marathon
+ finish op 21 februari is niet gegarandeerd\; overweeg kortere afstand of u
+ itstel bij onvoldoende voorbereiding. Dit agendapunt om 08:00 is een DAGHE
+ RINNERING\; de training zelf plan je op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rust en voeding
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1d6c5569-c954-5719-88e9-336386761c9e@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270220T080000
+DTEND;TZID=Europe/Brussels:20270220T081000
+SUMMARY:Amateur | Rust
+DESCRIPTION:WEEK 15/15 | AMATEUR SCHEMA. Spaar je benen. Motivatie: Herstel
+  is training\, geen achterstand. BELANGRIJK: voer slechts een van de twee 
+ schema’s uit\, nooit samen. Schakel per week over als werkdruk of herste
+ l dat vraagt\; verdubbel nooit een gemiste training. Voortdurende pijn\, z
+ iek zijn of zware vermoeidheid = terugschakelen. Op basis van ca. 12\,5-15
+ \,2 km/week in november: marathonfinish op 21 februari is niet gegarandeer
+ d\; overweeg kortere afstand of uitstel bij onvoldoende voorbereiding. Dit
+  agendapunt om 08:00 is een DAGHERINNERING\; de training zelf plan je op e
+ en geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: Rust
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0d29316f-8c0e-5710-b0b1-3791fb9a066f@calendar.example
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=Europe/Brussels:20270221T080000
+DTEND;TZID=Europe/Brussels:20270221T081000
+SUMMARY:Amateur | MARATHON 42\,195 km - alleen als verantwoord
+DESCRIPTION:WEEK 15/15 | AMATEUR SCHEMA. Wedstrijddag. Start uitsluitend al
+ s je trainingsopbouw\, gezondheid en herstel dat verantwoord maken. Loop-w
+ andelstrategie mogelijk. Check tijdslimiet en voeding. Een kortere afstand
+  of uitstel is verstandiger als de opbouw onvoldoende was. Motivatie: Bouw
+  conditie op\, niet alleen kilometers. BELANGRIJK: voer slechts een van de
+  twee schema’s uit\, nooit samen. Schakel per week over als werkdruk of 
+ herstel dat vraagt\; verdubbel nooit een gemiste training. Voortdurende pi
+ jn\, ziek zijn of zware vermoeidheid = terugschakelen. Op basis van ca. 12
+ \,5-15\,2 km/week in november: marathonfinish op 21 februari is niet gegar
+ andeerd\; overweeg kortere afstand of uitstel bij onvoldoende voorbereidin
+ g. Dit agendapunt om 08:00 is een DAGHERINNERING\; de training zelf plan j
+ e op een geschikt uur.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Je dagplan: MARATHON 42\,195 km - alleen als verantwoord
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
