@@ -1,0 +1,2114 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Marathon 2027//Training met afstand en duur//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Marathon 2027 | AMATEUR
+X-WR-CALDESC:Kies 1 schema per week. Trainingstijden zijn richttijden.
+X-WR-TIMEZONE:Europe/Brussels
+BEGIN:VEVENT
+UID:2a7b147c-9f35-5eb3-a455-7d6d3e7a8617@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261109T190000
+DTEND;TZID=Europe/Brussels:20261109T192500
+SUMMARY:AMATEUR | Lichte kracht + core · 25 min
+DESCRIPTION:WEEK 1/15 — AMATEUR. Geplande tijd: 25 min. Voorstel startuur
+ : 19:00\; pas zelf aan naar je werkuren. Glute bridge\, squat\, calf raise
+ \, dead bug\, side plank. Kies per week EEN schema\, tel ze niet op. Motiv
+ atie: discipline betekent ook verstandig herstellen. Train op gevoel en he
+ rstel: deze agenda is een planning\, geen bewijs van marathonparaatheid. M
+ eldingen van geabonneerde agenda’s kunnen door iOS worden genegeerd\; te
+ st dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Lichte kracht + core · 25 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7f62ec36-b114-5a5a-b875-97235128ca65@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261110T070000
+DTEND;TZID=Europe/Brussels:20261110T072200
+SUMMARY:AMATEUR | Rustige duurloop · 3 km · ca. 21-24 min
+DESCRIPTION:WEEK 1/15 — AMATEUR. Afstand: 3 km. Geschatte rustige looptij
+ d: ca. 21-24 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkuren
+ . Praattempo\, run-walk is ok. Kies per week EEN schema\, tel ze niet op. 
+ Motivatie: discipline betekent ook verstandig herstellen. Train op gevoel 
+ en herstel: deze agenda is een planning\, geen bewijs van marathonparaathe
+ id. Meldingen van geabonneerde agenda’s kunnen door iOS worden genegeerd
+ \; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: 3 km · ca. 21-24 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:92895868-460a-58ad-8033-844269eb07d7@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261111T190000
+DTEND;TZID=Europe/Brussels:20261111T191000
+SUMMARY:AMATEUR | Mobiliteit / herstel · 10 min
+DESCRIPTION:WEEK 1/15 — AMATEUR. Geplande tijd: 10 min. Voorstel startuur
+ : 19:00\; pas zelf aan naar je werkuren. Korte mobiliteit\; overslaan als 
+ je rust nodig hebt. Kies per week EEN schema\, tel ze niet op. Motivatie: 
+ discipline betekent ook verstandig herstellen. Train op gevoel en herstel:
+  deze agenda is een planning\, geen bewijs van marathonparaatheid. Melding
+ en van geabonneerde agenda’s kunnen door iOS worden genegeerd\; test dit
+  met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Mobiliteit / herstel · 10 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4d340ec1-185e-5c00-8293-3edfc3b6144c@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261112T070000
+DTEND;TZID=Europe/Brussels:20261112T072200
+SUMMARY:AMATEUR | Rustige duurloop · 3 km · ca. 21-24 min
+DESCRIPTION:WEEK 1/15 — AMATEUR. Afstand: 3 km. Geschatte rustige looptij
+ d: ca. 21-24 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkuren
+ . Praattempo\, zonder interval\; houd het haalbaar tijdens werkdruk. Kies 
+ per week EEN schema\, tel ze niet op. Motivatie: discipline betekent ook v
+ erstandig herstellen. Train op gevoel en herstel: deze agenda is een plann
+ ing\, geen bewijs van marathonparaatheid. Meldingen van geabonneerde agend
+ a’s kunnen door iOS worden genegeerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: 3 km · ca. 21-24 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6e11bbfd-6dc6-5c00-88a5-5194c664059c@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261113T180000
+DTEND;TZID=Europe/Brussels:20261113T181000
+SUMMARY:AMATEUR | Rust
+DESCRIPTION:WEEK 1/15 — AMATEUR. Geplande tijd: 0 min. Voorstel startuur:
+  18:00\; pas zelf aan naar je werkuren. Volledige rust. Kies per week EEN 
+ schema\, tel ze niet op. Motivatie: discipline betekent ook verstandig her
+ stellen. Train op gevoel en herstel: deze agenda is een planning\, geen be
+ wijs van marathonparaatheid. Meldingen van geabonneerde agenda’s kunnen 
+ door iOS worden genegeerd\; test dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Rust
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:16a01d3f-7142-53b9-82c3-f0caca3380af@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261114T090000
+DTEND;TZID=Europe/Brussels:20261114T092500
+SUMMARY:AMATEUR | Optioneel wandelen + core · 25 min
+DESCRIPTION:WEEK 1/15 — AMATEUR. Geplande tijd: 25 min. Voorstel startuur
+ : 09:00\; pas zelf aan naar je werkuren. 15 min wandelen en 10 min core\, 
+ of volledige rust. Kies per week EEN schema\, tel ze niet op. Motivatie: d
+ iscipline betekent ook verstandig herstellen. Train op gevoel en herstel: 
+ deze agenda is een planning\, geen bewijs van marathonparaatheid. Meldinge
+ n van geabonneerde agenda’s kunnen door iOS worden genegeerd\; test dit 
+ met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Optioneel wandelen + core · 25 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:75f4498f-7109-5a83-a71d-ff8f673a28cb@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261115T090000
+DTEND;TZID=Europe/Brussels:20261115T094500
+SUMMARY:AMATEUR | Lange rustige duurloop · 6 km · ca. 42-48 min
+DESCRIPTION:WEEK 1/15 — AMATEUR. Afstand: 6 km. Geschatte rustige looptij
+ d: ca. 42-48 min. Voorstel startuur: 09:00\; pas zelf aan naar je werkuren
+ . Heel rustig\, run-walk ok. Oefen koolhydraten en drinken bij >75-90 min.
+  Max rond 3 uur. Kies per week EEN schema\, tel ze niet op. Motivatie: dis
+ cipline betekent ook verstandig herstellen. Train op gevoel en herstel: de
+ ze agenda is een planning\, geen bewijs van marathonparaatheid. Meldingen 
+ van geabonneerde agenda’s kunnen door iOS worden genegeerd\; test dit me
+ t een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: 6 km · ca. 42-48 min · Lange rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:83ae8d74-4ed5-5018-b000-7adff74e10f8@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261116T190000
+DTEND;TZID=Europe/Brussels:20261116T192500
+SUMMARY:AMATEUR | Lichte kracht + core · 25 min
+DESCRIPTION:WEEK 2/15 — AMATEUR. Geplande tijd: 25 min. Voorstel startuur
+ : 19:00\; pas zelf aan naar je werkuren. Glute bridge\, squat\, calf raise
+ \, dead bug\, side plank. Kies per week EEN schema\, tel ze niet op. Motiv
+ atie: discipline betekent ook verstandig herstellen. Train op gevoel en he
+ rstel: deze agenda is een planning\, geen bewijs van marathonparaatheid. M
+ eldingen van geabonneerde agenda’s kunnen door iOS worden genegeerd\; te
+ st dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Lichte kracht + core · 25 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a416d3e9-052d-54be-8dd8-5dd867522dcc@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261117T070000
+DTEND;TZID=Europe/Brussels:20261117T072200
+SUMMARY:AMATEUR | Rustige duurloop · 3 km · ca. 21-24 min
+DESCRIPTION:WEEK 2/15 — AMATEUR. Afstand: 3 km. Geschatte rustige looptij
+ d: ca. 21-24 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkuren
+ . Praattempo\, run-walk is ok. Kies per week EEN schema\, tel ze niet op. 
+ Motivatie: discipline betekent ook verstandig herstellen. Train op gevoel 
+ en herstel: deze agenda is een planning\, geen bewijs van marathonparaathe
+ id. Meldingen van geabonneerde agenda’s kunnen door iOS worden genegeerd
+ \; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: 3 km · ca. 21-24 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c70dbae6-654b-5097-bc8a-fb2370397288@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261118T190000
+DTEND;TZID=Europe/Brussels:20261118T191000
+SUMMARY:AMATEUR | Mobiliteit / herstel · 10 min
+DESCRIPTION:WEEK 2/15 — AMATEUR. Geplande tijd: 10 min. Voorstel startuur
+ : 19:00\; pas zelf aan naar je werkuren. Korte mobiliteit\; overslaan als 
+ je rust nodig hebt. Kies per week EEN schema\, tel ze niet op. Motivatie: 
+ discipline betekent ook verstandig herstellen. Train op gevoel en herstel:
+  deze agenda is een planning\, geen bewijs van marathonparaatheid. Melding
+ en van geabonneerde agenda’s kunnen door iOS worden genegeerd\; test dit
+  met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Mobiliteit / herstel · 10 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d08ab240-05d8-5db5-9c7b-67e7cab1e58a@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261119T070000
+DTEND;TZID=Europe/Brussels:20261119T072200
+SUMMARY:AMATEUR | Rustige duurloop · 3 km · ca. 21-24 min
+DESCRIPTION:WEEK 2/15 — AMATEUR. Afstand: 3 km. Geschatte rustige looptij
+ d: ca. 21-24 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkuren
+ . Praattempo\, zonder interval\; houd het haalbaar tijdens werkdruk. Kies 
+ per week EEN schema\, tel ze niet op. Motivatie: discipline betekent ook v
+ erstandig herstellen. Train op gevoel en herstel: deze agenda is een plann
+ ing\, geen bewijs van marathonparaatheid. Meldingen van geabonneerde agend
+ a’s kunnen door iOS worden genegeerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: 3 km · ca. 21-24 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d8cac1b8-b001-5b8d-96b1-63f0c9518e90@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261120T180000
+DTEND;TZID=Europe/Brussels:20261120T181000
+SUMMARY:AMATEUR | Rust
+DESCRIPTION:WEEK 2/15 — AMATEUR. Geplande tijd: 0 min. Voorstel startuur:
+  18:00\; pas zelf aan naar je werkuren. Volledige rust. Kies per week EEN 
+ schema\, tel ze niet op. Motivatie: discipline betekent ook verstandig her
+ stellen. Train op gevoel en herstel: deze agenda is een planning\, geen be
+ wijs van marathonparaatheid. Meldingen van geabonneerde agenda’s kunnen 
+ door iOS worden genegeerd\; test dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Rust
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:19f41903-91d4-5087-94bc-c458946d7417@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261121T090000
+DTEND;TZID=Europe/Brussels:20261121T092500
+SUMMARY:AMATEUR | Optioneel wandelen + core · 25 min
+DESCRIPTION:WEEK 2/15 — AMATEUR. Geplande tijd: 25 min. Voorstel startuur
+ : 09:00\; pas zelf aan naar je werkuren. 15 min wandelen en 10 min core\, 
+ of volledige rust. Kies per week EEN schema\, tel ze niet op. Motivatie: d
+ iscipline betekent ook verstandig herstellen. Train op gevoel en herstel: 
+ deze agenda is een planning\, geen bewijs van marathonparaatheid. Meldinge
+ n van geabonneerde agenda’s kunnen door iOS worden genegeerd\; test dit 
+ met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Optioneel wandelen + core · 25 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:985510ad-71e5-584e-b3e5-94a7e586bd9d@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261122T090000
+DTEND;TZID=Europe/Brussels:20261122T095200
+SUMMARY:AMATEUR | Lange rustige duurloop · 7 km · ca. 49-56 min
+DESCRIPTION:WEEK 2/15 — AMATEUR. Afstand: 7 km. Geschatte rustige looptij
+ d: ca. 49-56 min. Voorstel startuur: 09:00\; pas zelf aan naar je werkuren
+ . Heel rustig\, run-walk ok. Oefen koolhydraten en drinken bij >75-90 min.
+  Max rond 3 uur. Kies per week EEN schema\, tel ze niet op. Motivatie: dis
+ cipline betekent ook verstandig herstellen. Train op gevoel en herstel: de
+ ze agenda is een planning\, geen bewijs van marathonparaatheid. Meldingen 
+ van geabonneerde agenda’s kunnen door iOS worden genegeerd\; test dit me
+ t een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: 7 km · ca. 49-56 min · Lange rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:48dd6250-888c-5387-b1e2-7928736f5040@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261123T190000
+DTEND;TZID=Europe/Brussels:20261123T192500
+SUMMARY:AMATEUR | Lichte kracht + core · 25 min
+DESCRIPTION:WEEK 3/15 — AMATEUR. Geplande tijd: 25 min. Voorstel startuur
+ : 19:00\; pas zelf aan naar je werkuren. Glute bridge\, squat\, calf raise
+ \, dead bug\, side plank. Kies per week EEN schema\, tel ze niet op. Motiv
+ atie: discipline betekent ook verstandig herstellen. Train op gevoel en he
+ rstel: deze agenda is een planning\, geen bewijs van marathonparaatheid. M
+ eldingen van geabonneerde agenda’s kunnen door iOS worden genegeerd\; te
+ st dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Lichte kracht + core · 25 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bbedc889-ac49-51da-ac0b-695ecdd2c3f7@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261124T070000
+DTEND;TZID=Europe/Brussels:20261124T072200
+SUMMARY:AMATEUR | Rustige duurloop · 3 km · ca. 21-24 min
+DESCRIPTION:WEEK 3/15 — AMATEUR. Afstand: 3 km. Geschatte rustige looptij
+ d: ca. 21-24 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkuren
+ . Praattempo\, run-walk is ok. Kies per week EEN schema\, tel ze niet op. 
+ Motivatie: discipline betekent ook verstandig herstellen. Train op gevoel 
+ en herstel: deze agenda is een planning\, geen bewijs van marathonparaathe
+ id. Meldingen van geabonneerde agenda’s kunnen door iOS worden genegeerd
+ \; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: 3 km · ca. 21-24 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4c8386fa-c9ed-5cea-917a-9e4dd4811d8c@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261125T190000
+DTEND;TZID=Europe/Brussels:20261125T191000
+SUMMARY:AMATEUR | Mobiliteit / herstel · 10 min
+DESCRIPTION:WEEK 3/15 — AMATEUR. Geplande tijd: 10 min. Voorstel startuur
+ : 19:00\; pas zelf aan naar je werkuren. Korte mobiliteit\; overslaan als 
+ je rust nodig hebt. Kies per week EEN schema\, tel ze niet op. Motivatie: 
+ discipline betekent ook verstandig herstellen. Train op gevoel en herstel:
+  deze agenda is een planning\, geen bewijs van marathonparaatheid. Melding
+ en van geabonneerde agenda’s kunnen door iOS worden genegeerd\; test dit
+  met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Mobiliteit / herstel · 10 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dbfd0927-3a5e-5287-a0da-77c7207d8bd1@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261126T070000
+DTEND;TZID=Europe/Brussels:20261126T073000
+SUMMARY:AMATEUR | Rustige duurloop · 4 km · ca. 28-32 min
+DESCRIPTION:WEEK 3/15 — AMATEUR. Afstand: 4 km. Geschatte rustige looptij
+ d: ca. 28-32 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkuren
+ . Praattempo\, zonder interval\; houd het haalbaar tijdens werkdruk. Kies 
+ per week EEN schema\, tel ze niet op. Motivatie: discipline betekent ook v
+ erstandig herstellen. Train op gevoel en herstel: deze agenda is een plann
+ ing\, geen bewijs van marathonparaatheid. Meldingen van geabonneerde agend
+ a’s kunnen door iOS worden genegeerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: 4 km · ca. 28-32 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:16b1a4e4-f905-536d-8622-d52c7cc0d4b7@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261127T180000
+DTEND;TZID=Europe/Brussels:20261127T181000
+SUMMARY:AMATEUR | Rust
+DESCRIPTION:WEEK 3/15 — AMATEUR. Geplande tijd: 0 min. Voorstel startuur:
+  18:00\; pas zelf aan naar je werkuren. Volledige rust. Kies per week EEN 
+ schema\, tel ze niet op. Motivatie: discipline betekent ook verstandig her
+ stellen. Train op gevoel en herstel: deze agenda is een planning\, geen be
+ wijs van marathonparaatheid. Meldingen van geabonneerde agenda’s kunnen 
+ door iOS worden genegeerd\; test dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Rust
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:abb3c0d8-6bc6-5920-9b81-3bea37dc7b55@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261128T090000
+DTEND;TZID=Europe/Brussels:20261128T092500
+SUMMARY:AMATEUR | Optioneel wandelen + core · 25 min
+DESCRIPTION:WEEK 3/15 — AMATEUR. Geplande tijd: 25 min. Voorstel startuur
+ : 09:00\; pas zelf aan naar je werkuren. 15 min wandelen en 10 min core\, 
+ of volledige rust. Kies per week EEN schema\, tel ze niet op. Motivatie: d
+ iscipline betekent ook verstandig herstellen. Train op gevoel en herstel: 
+ deze agenda is een planning\, geen bewijs van marathonparaatheid. Meldinge
+ n van geabonneerde agenda’s kunnen door iOS worden genegeerd\; test dit 
+ met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Optioneel wandelen + core · 25 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5208012e-b165-51a3-9bd2-692e5f477f9a@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261129T090000
+DTEND;TZID=Europe/Brussels:20261129T100000
+SUMMARY:AMATEUR | Lange rustige duurloop · 8 km · ca. 56-64 min
+DESCRIPTION:WEEK 3/15 — AMATEUR. Afstand: 8 km. Geschatte rustige looptij
+ d: ca. 56-64 min. Voorstel startuur: 09:00\; pas zelf aan naar je werkuren
+ . Heel rustig\, run-walk ok. Oefen koolhydraten en drinken bij >75-90 min.
+  Max rond 3 uur. Kies per week EEN schema\, tel ze niet op. Motivatie: dis
+ cipline betekent ook verstandig herstellen. Train op gevoel en herstel: de
+ ze agenda is een planning\, geen bewijs van marathonparaatheid. Meldingen 
+ van geabonneerde agenda’s kunnen door iOS worden genegeerd\; test dit me
+ t een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: 8 km · ca. 56-64 min · Lange rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:69b2de36-9b31-5946-b39e-1ba7aca0fc31@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261130T190000
+DTEND;TZID=Europe/Brussels:20261130T192500
+SUMMARY:AMATEUR | Lichte kracht + core · 25 min
+DESCRIPTION:WEEK 4/15 — AMATEUR. Geplande tijd: 25 min. Voorstel startuur
+ : 19:00\; pas zelf aan naar je werkuren. Glute bridge\, squat\, calf raise
+ \, dead bug\, side plank. Kies per week EEN schema\, tel ze niet op. Motiv
+ atie: discipline betekent ook verstandig herstellen. Train op gevoel en he
+ rstel: deze agenda is een planning\, geen bewijs van marathonparaatheid. M
+ eldingen van geabonneerde agenda’s kunnen door iOS worden genegeerd\; te
+ st dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Lichte kracht + core · 25 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:565051e0-835a-5a59-8c06-ba15e7285b4b@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261201T070000
+DTEND;TZID=Europe/Brussels:20261201T072200
+SUMMARY:AMATEUR | Rustige duurloop · 3 km · ca. 21-24 min
+DESCRIPTION:WEEK 4/15 — AMATEUR. Afstand: 3 km. Geschatte rustige looptij
+ d: ca. 21-24 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkuren
+ . Praattempo\, run-walk is ok. Kies per week EEN schema\, tel ze niet op. 
+ Motivatie: discipline betekent ook verstandig herstellen. Train op gevoel 
+ en herstel: deze agenda is een planning\, geen bewijs van marathonparaathe
+ id. Meldingen van geabonneerde agenda’s kunnen door iOS worden genegeerd
+ \; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: 3 km · ca. 21-24 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:98f990c6-e6c2-51e3-b79a-d4ec40c8c5db@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261202T190000
+DTEND;TZID=Europe/Brussels:20261202T191000
+SUMMARY:AMATEUR | Mobiliteit / herstel · 10 min
+DESCRIPTION:WEEK 4/15 — AMATEUR. Geplande tijd: 10 min. Voorstel startuur
+ : 19:00\; pas zelf aan naar je werkuren. Korte mobiliteit\; overslaan als 
+ je rust nodig hebt. Kies per week EEN schema\, tel ze niet op. Motivatie: 
+ discipline betekent ook verstandig herstellen. Train op gevoel en herstel:
+  deze agenda is een planning\, geen bewijs van marathonparaatheid. Melding
+ en van geabonneerde agenda’s kunnen door iOS worden genegeerd\; test dit
+  met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Mobiliteit / herstel · 10 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a22bd594-21f4-5763-b7e4-f35aca99572f@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261203T070000
+DTEND;TZID=Europe/Brussels:20261203T072200
+SUMMARY:AMATEUR | Rustige duurloop · 3 km · ca. 21-24 min
+DESCRIPTION:WEEK 4/15 — AMATEUR. Afstand: 3 km. Geschatte rustige looptij
+ d: ca. 21-24 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkuren
+ . Praattempo\, zonder interval\; houd het haalbaar tijdens werkdruk. Kies 
+ per week EEN schema\, tel ze niet op. Motivatie: discipline betekent ook v
+ erstandig herstellen. Train op gevoel en herstel: deze agenda is een plann
+ ing\, geen bewijs van marathonparaatheid. Meldingen van geabonneerde agend
+ a’s kunnen door iOS worden genegeerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: 3 km · ca. 21-24 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7b7e54c0-fc9d-5439-8d3f-349549ec5042@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261204T180000
+DTEND;TZID=Europe/Brussels:20261204T181000
+SUMMARY:AMATEUR | Rust
+DESCRIPTION:WEEK 4/15 — AMATEUR. Geplande tijd: 0 min. Voorstel startuur:
+  18:00\; pas zelf aan naar je werkuren. Volledige rust. Kies per week EEN 
+ schema\, tel ze niet op. Motivatie: discipline betekent ook verstandig her
+ stellen. Train op gevoel en herstel: deze agenda is een planning\, geen be
+ wijs van marathonparaatheid. Meldingen van geabonneerde agenda’s kunnen 
+ door iOS worden genegeerd\; test dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Rust
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:084c0d43-2d05-59eb-b289-d16155cc54ea@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261205T090000
+DTEND;TZID=Europe/Brussels:20261205T092500
+SUMMARY:AMATEUR | Optioneel wandelen + core · 25 min
+DESCRIPTION:WEEK 4/15 — AMATEUR. Geplande tijd: 25 min. Voorstel startuur
+ : 09:00\; pas zelf aan naar je werkuren. 15 min wandelen en 10 min core\, 
+ of volledige rust. Kies per week EEN schema\, tel ze niet op. Motivatie: d
+ iscipline betekent ook verstandig herstellen. Train op gevoel en herstel: 
+ deze agenda is een planning\, geen bewijs van marathonparaatheid. Meldinge
+ n van geabonneerde agenda’s kunnen door iOS worden genegeerd\; test dit 
+ met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Optioneel wandelen + core · 25 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3b42a2db-9c8c-5a93-a712-c321dccb7039@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261206T090000
+DTEND;TZID=Europe/Brussels:20261206T094500
+SUMMARY:AMATEUR | Lange rustige duurloop · 6 km · ca. 42-48 min
+DESCRIPTION:WEEK 4/15 — AMATEUR. Afstand: 6 km. Geschatte rustige looptij
+ d: ca. 42-48 min. Voorstel startuur: 09:00\; pas zelf aan naar je werkuren
+ . Heel rustig\, run-walk ok. Oefen koolhydraten en drinken bij >75-90 min.
+  Max rond 3 uur. Kies per week EEN schema\, tel ze niet op. Motivatie: dis
+ cipline betekent ook verstandig herstellen. Train op gevoel en herstel: de
+ ze agenda is een planning\, geen bewijs van marathonparaatheid. Meldingen 
+ van geabonneerde agenda’s kunnen door iOS worden genegeerd\; test dit me
+ t een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: 6 km · ca. 42-48 min · Lange rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a24bc31-e1bc-57c6-9dc0-4576eee7b126@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261207T190000
+DTEND;TZID=Europe/Brussels:20261207T192500
+SUMMARY:AMATEUR | Lichte kracht + core · 25 min
+DESCRIPTION:WEEK 5/15 — AMATEUR. Geplande tijd: 25 min. Voorstel startuur
+ : 19:00\; pas zelf aan naar je werkuren. Glute bridge\, squat\, calf raise
+ \, dead bug\, side plank. Kies per week EEN schema\, tel ze niet op. Motiv
+ atie: discipline betekent ook verstandig herstellen. Train op gevoel en he
+ rstel: deze agenda is een planning\, geen bewijs van marathonparaatheid. M
+ eldingen van geabonneerde agenda’s kunnen door iOS worden genegeerd\; te
+ st dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Lichte kracht + core · 25 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c81f915d-1719-503d-ab40-7f0d17b3fc76@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261208T070000
+DTEND;TZID=Europe/Brussels:20261208T072200
+SUMMARY:AMATEUR | Rustige duurloop · 3 km · ca. 21-24 min
+DESCRIPTION:WEEK 5/15 — AMATEUR. Afstand: 3 km. Geschatte rustige looptij
+ d: ca. 21-24 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkuren
+ . Praattempo\, run-walk is ok. Kies per week EEN schema\, tel ze niet op. 
+ Motivatie: discipline betekent ook verstandig herstellen. Train op gevoel 
+ en herstel: deze agenda is een planning\, geen bewijs van marathonparaathe
+ id. Meldingen van geabonneerde agenda’s kunnen door iOS worden genegeerd
+ \; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: 3 km · ca. 21-24 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:39141fa0-b31f-5549-adbd-86f21633d199@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261209T190000
+DTEND;TZID=Europe/Brussels:20261209T191000
+SUMMARY:AMATEUR | Mobiliteit / herstel · 10 min
+DESCRIPTION:WEEK 5/15 — AMATEUR. Geplande tijd: 10 min. Voorstel startuur
+ : 19:00\; pas zelf aan naar je werkuren. Korte mobiliteit\; overslaan als 
+ je rust nodig hebt. Kies per week EEN schema\, tel ze niet op. Motivatie: 
+ discipline betekent ook verstandig herstellen. Train op gevoel en herstel:
+  deze agenda is een planning\, geen bewijs van marathonparaatheid. Melding
+ en van geabonneerde agenda’s kunnen door iOS worden genegeerd\; test dit
+  met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Mobiliteit / herstel · 10 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f7aa60d9-b07f-597a-85d9-316b147ce6a6@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261210T070000
+DTEND;TZID=Europe/Brussels:20261210T073000
+SUMMARY:AMATEUR | Rustige duurloop · 4 km · ca. 28-32 min
+DESCRIPTION:WEEK 5/15 — AMATEUR. Afstand: 4 km. Geschatte rustige looptij
+ d: ca. 28-32 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkuren
+ . Praattempo\, zonder interval\; houd het haalbaar tijdens werkdruk. Kies 
+ per week EEN schema\, tel ze niet op. Motivatie: discipline betekent ook v
+ erstandig herstellen. Train op gevoel en herstel: deze agenda is een plann
+ ing\, geen bewijs van marathonparaatheid. Meldingen van geabonneerde agend
+ a’s kunnen door iOS worden genegeerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: 4 km · ca. 28-32 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b087e20e-063a-52ee-bb27-5b6e509c4827@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261211T180000
+DTEND;TZID=Europe/Brussels:20261211T181000
+SUMMARY:AMATEUR | Rust
+DESCRIPTION:WEEK 5/15 — AMATEUR. Geplande tijd: 0 min. Voorstel startuur:
+  18:00\; pas zelf aan naar je werkuren. Volledige rust. Kies per week EEN 
+ schema\, tel ze niet op. Motivatie: discipline betekent ook verstandig her
+ stellen. Train op gevoel en herstel: deze agenda is een planning\, geen be
+ wijs van marathonparaatheid. Meldingen van geabonneerde agenda’s kunnen 
+ door iOS worden genegeerd\; test dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Rust
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a6e5f7fa-e0a1-5e7f-a84d-36626da37db0@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261212T090000
+DTEND;TZID=Europe/Brussels:20261212T092500
+SUMMARY:AMATEUR | Optioneel wandelen + core · 25 min
+DESCRIPTION:WEEK 5/15 — AMATEUR. Geplande tijd: 25 min. Voorstel startuur
+ : 09:00\; pas zelf aan naar je werkuren. 15 min wandelen en 10 min core\, 
+ of volledige rust. Kies per week EEN schema\, tel ze niet op. Motivatie: d
+ iscipline betekent ook verstandig herstellen. Train op gevoel en herstel: 
+ deze agenda is een planning\, geen bewijs van marathonparaatheid. Meldinge
+ n van geabonneerde agenda’s kunnen door iOS worden genegeerd\; test dit 
+ met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Optioneel wandelen + core · 25 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:21f834b8-abcf-518f-b7d7-6ab8d250d626@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261213T090000
+DTEND;TZID=Europe/Brussels:20261213T100800
+SUMMARY:AMATEUR | Lange rustige duurloop · 9 km · ca. 63-72 min
+DESCRIPTION:WEEK 5/15 — AMATEUR. Afstand: 9 km. Geschatte rustige looptij
+ d: ca. 63-72 min. Voorstel startuur: 09:00\; pas zelf aan naar je werkuren
+ . Heel rustig\, run-walk ok. Oefen koolhydraten en drinken bij >75-90 min.
+  Max rond 3 uur. Kies per week EEN schema\, tel ze niet op. Motivatie: dis
+ cipline betekent ook verstandig herstellen. Train op gevoel en herstel: de
+ ze agenda is een planning\, geen bewijs van marathonparaatheid. Meldingen 
+ van geabonneerde agenda’s kunnen door iOS worden genegeerd\; test dit me
+ t een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: 9 km · ca. 63-72 min · Lange rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b25cca75-56fc-5f09-89f5-900134710c49@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261214T190000
+DTEND;TZID=Europe/Brussels:20261214T192500
+SUMMARY:AMATEUR | Lichte kracht + core · 25 min
+DESCRIPTION:WEEK 6/15 — AMATEUR. Geplande tijd: 25 min. Voorstel startuur
+ : 19:00\; pas zelf aan naar je werkuren. Glute bridge\, squat\, calf raise
+ \, dead bug\, side plank. Kies per week EEN schema\, tel ze niet op. Motiv
+ atie: discipline betekent ook verstandig herstellen. Train op gevoel en he
+ rstel: deze agenda is een planning\, geen bewijs van marathonparaatheid. M
+ eldingen van geabonneerde agenda’s kunnen door iOS worden genegeerd\; te
+ st dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Lichte kracht + core · 25 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6f8a16cd-5bdd-5fcc-a88e-f92aba778854@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261215T070000
+DTEND;TZID=Europe/Brussels:20261215T073000
+SUMMARY:AMATEUR | Rustige duurloop · 4 km · ca. 28-32 min
+DESCRIPTION:WEEK 6/15 — AMATEUR. Afstand: 4 km. Geschatte rustige looptij
+ d: ca. 28-32 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkuren
+ . Praattempo\, run-walk is ok. Kies per week EEN schema\, tel ze niet op. 
+ Motivatie: discipline betekent ook verstandig herstellen. Train op gevoel 
+ en herstel: deze agenda is een planning\, geen bewijs van marathonparaathe
+ id. Meldingen van geabonneerde agenda’s kunnen door iOS worden genegeerd
+ \; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: 4 km · ca. 28-32 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a0c5e8aa-cd75-53ac-a18e-d2f8d0665f1c@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261216T190000
+DTEND;TZID=Europe/Brussels:20261216T191000
+SUMMARY:AMATEUR | Mobiliteit / herstel · 10 min
+DESCRIPTION:WEEK 6/15 — AMATEUR. Geplande tijd: 10 min. Voorstel startuur
+ : 19:00\; pas zelf aan naar je werkuren. Korte mobiliteit\; overslaan als 
+ je rust nodig hebt. Kies per week EEN schema\, tel ze niet op. Motivatie: 
+ discipline betekent ook verstandig herstellen. Train op gevoel en herstel:
+  deze agenda is een planning\, geen bewijs van marathonparaatheid. Melding
+ en van geabonneerde agenda’s kunnen door iOS worden genegeerd\; test dit
+  met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Mobiliteit / herstel · 10 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a4cdb787-094c-5d3a-93e8-7241718803d6@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261217T070000
+DTEND;TZID=Europe/Brussels:20261217T073000
+SUMMARY:AMATEUR | Rustige duurloop · 4 km · ca. 28-32 min
+DESCRIPTION:WEEK 6/15 — AMATEUR. Afstand: 4 km. Geschatte rustige looptij
+ d: ca. 28-32 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkuren
+ . Praattempo\, zonder interval\; houd het haalbaar tijdens werkdruk. Kies 
+ per week EEN schema\, tel ze niet op. Motivatie: discipline betekent ook v
+ erstandig herstellen. Train op gevoel en herstel: deze agenda is een plann
+ ing\, geen bewijs van marathonparaatheid. Meldingen van geabonneerde agend
+ a’s kunnen door iOS worden genegeerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: 4 km · ca. 28-32 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e23c202f-b7ad-524b-b136-1a4804df24d6@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261218T180000
+DTEND;TZID=Europe/Brussels:20261218T181000
+SUMMARY:AMATEUR | Rust
+DESCRIPTION:WEEK 6/15 — AMATEUR. Geplande tijd: 0 min. Voorstel startuur:
+  18:00\; pas zelf aan naar je werkuren. Volledige rust. Kies per week EEN 
+ schema\, tel ze niet op. Motivatie: discipline betekent ook verstandig her
+ stellen. Train op gevoel en herstel: deze agenda is een planning\, geen be
+ wijs van marathonparaatheid. Meldingen van geabonneerde agenda’s kunnen 
+ door iOS worden genegeerd\; test dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Rust
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fbe74b5a-d01e-5405-9d8f-416b5199d83e@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261219T090000
+DTEND;TZID=Europe/Brussels:20261219T092500
+SUMMARY:AMATEUR | Optioneel wandelen + core · 25 min
+DESCRIPTION:WEEK 6/15 — AMATEUR. Geplande tijd: 25 min. Voorstel startuur
+ : 09:00\; pas zelf aan naar je werkuren. 15 min wandelen en 10 min core\, 
+ of volledige rust. Kies per week EEN schema\, tel ze niet op. Motivatie: d
+ iscipline betekent ook verstandig herstellen. Train op gevoel en herstel: 
+ deze agenda is een planning\, geen bewijs van marathonparaatheid. Meldinge
+ n van geabonneerde agenda’s kunnen door iOS worden genegeerd\; test dit 
+ met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Optioneel wandelen + core · 25 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:08141a4e-6b96-5a05-a2f8-2e80445ad6e1@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261220T090000
+DTEND;TZID=Europe/Brussels:20261220T101500
+SUMMARY:AMATEUR | Lange rustige duurloop · 10 km · ca. 70-80 min
+DESCRIPTION:WEEK 6/15 — AMATEUR. Afstand: 10 km. Geschatte rustige loopti
+ jd: ca. 70-80 min. Voorstel startuur: 09:00\; pas zelf aan naar je werkure
+ n. Heel rustig\, run-walk ok. Oefen koolhydraten en drinken bij >75-90 min
+ . Max rond 3 uur. Kies per week EEN schema\, tel ze niet op. Motivatie: di
+ scipline betekent ook verstandig herstellen. Train op gevoel en herstel: d
+ eze agenda is een planning\, geen bewijs van marathonparaatheid. Meldingen
+  van geabonneerde agenda’s kunnen door iOS worden genegeerd\; test dit m
+ et een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: 10 km · ca. 70-80 min · Lange rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8073a467-874d-579a-8149-770995b3b299@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261221T190000
+DTEND;TZID=Europe/Brussels:20261221T192500
+SUMMARY:AMATEUR | Lichte kracht + core · 25 min
+DESCRIPTION:WEEK 7/15 — AMATEUR. Geplande tijd: 25 min. Voorstel startuur
+ : 19:00\; pas zelf aan naar je werkuren. Glute bridge\, squat\, calf raise
+ \, dead bug\, side plank. Kies per week EEN schema\, tel ze niet op. Motiv
+ atie: discipline betekent ook verstandig herstellen. Train op gevoel en he
+ rstel: deze agenda is een planning\, geen bewijs van marathonparaatheid. M
+ eldingen van geabonneerde agenda’s kunnen door iOS worden genegeerd\; te
+ st dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Lichte kracht + core · 25 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0b165df7-47cc-5eec-8bd8-044dcb62e8bf@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261222T070000
+DTEND;TZID=Europe/Brussels:20261222T073000
+SUMMARY:AMATEUR | Rustige duurloop · 4 km · ca. 28-32 min
+DESCRIPTION:WEEK 7/15 — AMATEUR. Afstand: 4 km. Geschatte rustige looptij
+ d: ca. 28-32 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkuren
+ . Praattempo\, run-walk is ok. Kies per week EEN schema\, tel ze niet op. 
+ Motivatie: discipline betekent ook verstandig herstellen. Train op gevoel 
+ en herstel: deze agenda is een planning\, geen bewijs van marathonparaathe
+ id. Meldingen van geabonneerde agenda’s kunnen door iOS worden genegeerd
+ \; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: 4 km · ca. 28-32 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:82f25eb0-9286-5ff0-9ae0-ac660669c200@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261223T190000
+DTEND;TZID=Europe/Brussels:20261223T191000
+SUMMARY:AMATEUR | Mobiliteit / herstel · 10 min
+DESCRIPTION:WEEK 7/15 — AMATEUR. Geplande tijd: 10 min. Voorstel startuur
+ : 19:00\; pas zelf aan naar je werkuren. Korte mobiliteit\; overslaan als 
+ je rust nodig hebt. Kies per week EEN schema\, tel ze niet op. Motivatie: 
+ discipline betekent ook verstandig herstellen. Train op gevoel en herstel:
+  deze agenda is een planning\, geen bewijs van marathonparaatheid. Melding
+ en van geabonneerde agenda’s kunnen door iOS worden genegeerd\; test dit
+  met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Mobiliteit / herstel · 10 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0e46bc82-1b9c-56aa-b070-b53fe96c121d@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261224T070000
+DTEND;TZID=Europe/Brussels:20261224T073000
+SUMMARY:AMATEUR | Rustige duurloop · 4 km · ca. 28-32 min
+DESCRIPTION:WEEK 7/15 — AMATEUR. Afstand: 4 km. Geschatte rustige looptij
+ d: ca. 28-32 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkuren
+ . Praattempo\, zonder interval\; houd het haalbaar tijdens werkdruk. Kies 
+ per week EEN schema\, tel ze niet op. Motivatie: discipline betekent ook v
+ erstandig herstellen. Train op gevoel en herstel: deze agenda is een plann
+ ing\, geen bewijs van marathonparaatheid. Meldingen van geabonneerde agend
+ a’s kunnen door iOS worden genegeerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: 4 km · ca. 28-32 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1a765846-9cce-5962-838e-ee21f27c3dc3@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261225T180000
+DTEND;TZID=Europe/Brussels:20261225T181000
+SUMMARY:AMATEUR | Rust
+DESCRIPTION:WEEK 7/15 — AMATEUR. Geplande tijd: 0 min. Voorstel startuur:
+  18:00\; pas zelf aan naar je werkuren. Volledige rust. Kies per week EEN 
+ schema\, tel ze niet op. Motivatie: discipline betekent ook verstandig her
+ stellen. Train op gevoel en herstel: deze agenda is een planning\, geen be
+ wijs van marathonparaatheid. Meldingen van geabonneerde agenda’s kunnen 
+ door iOS worden genegeerd\; test dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Rust
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:073aaf02-1972-5e10-965a-f33176430ddc@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261226T090000
+DTEND;TZID=Europe/Brussels:20261226T092500
+SUMMARY:AMATEUR | Optioneel wandelen + core · 25 min
+DESCRIPTION:WEEK 7/15 — AMATEUR. Geplande tijd: 25 min. Voorstel startuur
+ : 09:00\; pas zelf aan naar je werkuren. 15 min wandelen en 10 min core\, 
+ of volledige rust. Kies per week EEN schema\, tel ze niet op. Motivatie: d
+ iscipline betekent ook verstandig herstellen. Train op gevoel en herstel: 
+ deze agenda is een planning\, geen bewijs van marathonparaatheid. Meldinge
+ n van geabonneerde agenda’s kunnen door iOS worden genegeerd\; test dit 
+ met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Optioneel wandelen + core · 25 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e1407f97-b110-5f83-a127-1f752260e276@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261227T090000
+DTEND;TZID=Europe/Brussels:20261227T102200
+SUMMARY:AMATEUR | Lange rustige duurloop · 11 km · ca. 77-88 min
+DESCRIPTION:WEEK 7/15 — AMATEUR. Afstand: 11 km. Geschatte rustige loopti
+ jd: ca. 77-88 min. Voorstel startuur: 09:00\; pas zelf aan naar je werkure
+ n. Heel rustig\, run-walk ok. Oefen koolhydraten en drinken bij >75-90 min
+ . Max rond 3 uur. Kies per week EEN schema\, tel ze niet op. Motivatie: di
+ scipline betekent ook verstandig herstellen. Train op gevoel en herstel: d
+ eze agenda is een planning\, geen bewijs van marathonparaatheid. Meldingen
+  van geabonneerde agenda’s kunnen door iOS worden genegeerd\; test dit m
+ et een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: 11 km · ca. 77-88 min · Lange rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f188cf0b-f99b-555d-a70a-3c15459e488d@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261228T190000
+DTEND;TZID=Europe/Brussels:20261228T192500
+SUMMARY:AMATEUR | Lichte kracht + core · 25 min
+DESCRIPTION:WEEK 8/15 — AMATEUR. Geplande tijd: 25 min. Voorstel startuur
+ : 19:00\; pas zelf aan naar je werkuren. Glute bridge\, squat\, calf raise
+ \, dead bug\, side plank. Kies per week EEN schema\, tel ze niet op. Motiv
+ atie: discipline betekent ook verstandig herstellen. Train op gevoel en he
+ rstel: deze agenda is een planning\, geen bewijs van marathonparaatheid. M
+ eldingen van geabonneerde agenda’s kunnen door iOS worden genegeerd\; te
+ st dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Lichte kracht + core · 25 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9ed0cb87-6a3a-59cb-8354-dce0e5240f88@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261229T070000
+DTEND;TZID=Europe/Brussels:20261229T072200
+SUMMARY:AMATEUR | Rustige duurloop · 3 km · ca. 21-24 min
+DESCRIPTION:WEEK 8/15 — AMATEUR. Afstand: 3 km. Geschatte rustige looptij
+ d: ca. 21-24 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkuren
+ . Praattempo\, run-walk is ok. Kies per week EEN schema\, tel ze niet op. 
+ Motivatie: discipline betekent ook verstandig herstellen. Train op gevoel 
+ en herstel: deze agenda is een planning\, geen bewijs van marathonparaathe
+ id. Meldingen van geabonneerde agenda’s kunnen door iOS worden genegeerd
+ \; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: 3 km · ca. 21-24 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5c84ded8-f8bb-5187-b10d-68f98cb2454e@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261230T190000
+DTEND;TZID=Europe/Brussels:20261230T191000
+SUMMARY:AMATEUR | Mobiliteit / herstel · 10 min
+DESCRIPTION:WEEK 8/15 — AMATEUR. Geplande tijd: 10 min. Voorstel startuur
+ : 19:00\; pas zelf aan naar je werkuren. Korte mobiliteit\; overslaan als 
+ je rust nodig hebt. Kies per week EEN schema\, tel ze niet op. Motivatie: 
+ discipline betekent ook verstandig herstellen. Train op gevoel en herstel:
+  deze agenda is een planning\, geen bewijs van marathonparaatheid. Melding
+ en van geabonneerde agenda’s kunnen door iOS worden genegeerd\; test dit
+  met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Mobiliteit / herstel · 10 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:befc79ed-2d4f-5956-af0d-1ded43cf3067@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261231T070000
+DTEND;TZID=Europe/Brussels:20261231T072200
+SUMMARY:AMATEUR | Rustige duurloop · 3 km · ca. 21-24 min
+DESCRIPTION:WEEK 8/15 — AMATEUR. Afstand: 3 km. Geschatte rustige looptij
+ d: ca. 21-24 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkuren
+ . Praattempo\, zonder interval\; houd het haalbaar tijdens werkdruk. Kies 
+ per week EEN schema\, tel ze niet op. Motivatie: discipline betekent ook v
+ erstandig herstellen. Train op gevoel en herstel: deze agenda is een plann
+ ing\, geen bewijs van marathonparaatheid. Meldingen van geabonneerde agend
+ a’s kunnen door iOS worden genegeerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: 3 km · ca. 21-24 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:76ef7781-5527-541d-97bd-2145039f4e2d@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270101T180000
+DTEND;TZID=Europe/Brussels:20270101T181000
+SUMMARY:AMATEUR | Rust
+DESCRIPTION:WEEK 8/15 — AMATEUR. Geplande tijd: 0 min. Voorstel startuur:
+  18:00\; pas zelf aan naar je werkuren. Volledige rust. Kies per week EEN 
+ schema\, tel ze niet op. Motivatie: discipline betekent ook verstandig her
+ stellen. Train op gevoel en herstel: deze agenda is een planning\, geen be
+ wijs van marathonparaatheid. Meldingen van geabonneerde agenda’s kunnen 
+ door iOS worden genegeerd\; test dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Rust
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7ec650d8-df55-5085-9a92-0e0e1553e2ce@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270102T090000
+DTEND;TZID=Europe/Brussels:20270102T092500
+SUMMARY:AMATEUR | Optioneel wandelen + core · 25 min
+DESCRIPTION:WEEK 8/15 — AMATEUR. Geplande tijd: 25 min. Voorstel startuur
+ : 09:00\; pas zelf aan naar je werkuren. 15 min wandelen en 10 min core\, 
+ of volledige rust. Kies per week EEN schema\, tel ze niet op. Motivatie: d
+ iscipline betekent ook verstandig herstellen. Train op gevoel en herstel: 
+ deze agenda is een planning\, geen bewijs van marathonparaatheid. Meldinge
+ n van geabonneerde agenda’s kunnen door iOS worden genegeerd\; test dit 
+ met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Optioneel wandelen + core · 25 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6078d88b-48ef-57cd-91ef-cd08d0ff73ed@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270103T090000
+DTEND;TZID=Europe/Brussels:20270103T100000
+SUMMARY:AMATEUR | Lange rustige duurloop · 8 km · ca. 56-64 min
+DESCRIPTION:WEEK 8/15 — AMATEUR. Afstand: 8 km. Geschatte rustige looptij
+ d: ca. 56-64 min. Voorstel startuur: 09:00\; pas zelf aan naar je werkuren
+ . Heel rustig\, run-walk ok. Oefen koolhydraten en drinken bij >75-90 min.
+  Max rond 3 uur. Kies per week EEN schema\, tel ze niet op. Motivatie: dis
+ cipline betekent ook verstandig herstellen. Train op gevoel en herstel: de
+ ze agenda is een planning\, geen bewijs van marathonparaatheid. Meldingen 
+ van geabonneerde agenda’s kunnen door iOS worden genegeerd\; test dit me
+ t een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: 8 km · ca. 56-64 min · Lange rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d6a2aa2b-3ac6-5913-a523-af9938bf5dec@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270104T190000
+DTEND;TZID=Europe/Brussels:20270104T192500
+SUMMARY:AMATEUR | Lichte kracht + core · 25 min
+DESCRIPTION:WEEK 9/15 — AMATEUR. Geplande tijd: 25 min. Voorstel startuur
+ : 19:00\; pas zelf aan naar je werkuren. Glute bridge\, squat\, calf raise
+ \, dead bug\, side plank. Kies per week EEN schema\, tel ze niet op. Motiv
+ atie: discipline betekent ook verstandig herstellen. Train op gevoel en he
+ rstel: deze agenda is een planning\, geen bewijs van marathonparaatheid. M
+ eldingen van geabonneerde agenda’s kunnen door iOS worden genegeerd\; te
+ st dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Lichte kracht + core · 25 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5a23ec87-c3af-5046-8165-a02907c98145@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270105T070000
+DTEND;TZID=Europe/Brussels:20270105T073000
+SUMMARY:AMATEUR | Rustige duurloop · 4 km · ca. 28-32 min
+DESCRIPTION:WEEK 9/15 — AMATEUR. Afstand: 4 km. Geschatte rustige looptij
+ d: ca. 28-32 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkuren
+ . Praattempo\, run-walk is ok. Kies per week EEN schema\, tel ze niet op. 
+ Motivatie: discipline betekent ook verstandig herstellen. Train op gevoel 
+ en herstel: deze agenda is een planning\, geen bewijs van marathonparaathe
+ id. Meldingen van geabonneerde agenda’s kunnen door iOS worden genegeerd
+ \; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: 4 km · ca. 28-32 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b13dd66f-34f1-529f-b741-103c72408d7e@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270106T190000
+DTEND;TZID=Europe/Brussels:20270106T191000
+SUMMARY:AMATEUR | Mobiliteit / herstel · 10 min
+DESCRIPTION:WEEK 9/15 — AMATEUR. Geplande tijd: 10 min. Voorstel startuur
+ : 19:00\; pas zelf aan naar je werkuren. Korte mobiliteit\; overslaan als 
+ je rust nodig hebt. Kies per week EEN schema\, tel ze niet op. Motivatie: 
+ discipline betekent ook verstandig herstellen. Train op gevoel en herstel:
+  deze agenda is een planning\, geen bewijs van marathonparaatheid. Melding
+ en van geabonneerde agenda’s kunnen door iOS worden genegeerd\; test dit
+  met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Mobiliteit / herstel · 10 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:16eeac47-a34e-5f90-8b4e-031ad730f499@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270107T070000
+DTEND;TZID=Europe/Brussels:20270107T073800
+SUMMARY:AMATEUR | Rustige duurloop · 5 km · ca. 35-40 min
+DESCRIPTION:WEEK 9/15 — AMATEUR. Afstand: 5 km. Geschatte rustige looptij
+ d: ca. 35-40 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkuren
+ . Praattempo\, zonder interval\; houd het haalbaar tijdens werkdruk. Kies 
+ per week EEN schema\, tel ze niet op. Motivatie: discipline betekent ook v
+ erstandig herstellen. Train op gevoel en herstel: deze agenda is een plann
+ ing\, geen bewijs van marathonparaatheid. Meldingen van geabonneerde agend
+ a’s kunnen door iOS worden genegeerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: 5 km · ca. 35-40 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:94296374-77ce-54a9-81fb-a3c25a53ef99@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270108T180000
+DTEND;TZID=Europe/Brussels:20270108T181000
+SUMMARY:AMATEUR | Rust
+DESCRIPTION:WEEK 9/15 — AMATEUR. Geplande tijd: 0 min. Voorstel startuur:
+  18:00\; pas zelf aan naar je werkuren. Volledige rust. Kies per week EEN 
+ schema\, tel ze niet op. Motivatie: discipline betekent ook verstandig her
+ stellen. Train op gevoel en herstel: deze agenda is een planning\, geen be
+ wijs van marathonparaatheid. Meldingen van geabonneerde agenda’s kunnen 
+ door iOS worden genegeerd\; test dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Rust
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bc462475-1371-53d6-8430-db80b58e8545@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270109T090000
+DTEND;TZID=Europe/Brussels:20270109T092500
+SUMMARY:AMATEUR | Optioneel wandelen + core · 25 min
+DESCRIPTION:WEEK 9/15 — AMATEUR. Geplande tijd: 25 min. Voorstel startuur
+ : 09:00\; pas zelf aan naar je werkuren. 15 min wandelen en 10 min core\, 
+ of volledige rust. Kies per week EEN schema\, tel ze niet op. Motivatie: d
+ iscipline betekent ook verstandig herstellen. Train op gevoel en herstel: 
+ deze agenda is een planning\, geen bewijs van marathonparaatheid. Meldinge
+ n van geabonneerde agenda’s kunnen door iOS worden genegeerd\; test dit 
+ met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Optioneel wandelen + core · 25 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:228cb81d-636c-59cf-ad7a-c46c1578ef5c@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270110T090000
+DTEND;TZID=Europe/Brussels:20270110T103000
+SUMMARY:AMATEUR | Lange rustige duurloop · 12 km · ca. 84-96 min
+DESCRIPTION:WEEK 9/15 — AMATEUR. Afstand: 12 km. Geschatte rustige loopti
+ jd: ca. 84-96 min. Voorstel startuur: 09:00\; pas zelf aan naar je werkure
+ n. Heel rustig\, run-walk ok. Oefen koolhydraten en drinken bij >75-90 min
+ . Max rond 3 uur. Kies per week EEN schema\, tel ze niet op. Motivatie: di
+ scipline betekent ook verstandig herstellen. Train op gevoel en herstel: d
+ eze agenda is een planning\, geen bewijs van marathonparaatheid. Meldingen
+  van geabonneerde agenda’s kunnen door iOS worden genegeerd\; test dit m
+ et een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: 12 km · ca. 84-96 min · Lange rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:082f9be0-354f-5934-9411-05c6d7fb4567@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270111T190000
+DTEND;TZID=Europe/Brussels:20270111T192500
+SUMMARY:AMATEUR | Lichte kracht + core · 25 min
+DESCRIPTION:WEEK 10/15 — AMATEUR. Geplande tijd: 25 min. Voorstel startuu
+ r: 19:00\; pas zelf aan naar je werkuren. Glute bridge\, squat\, calf rais
+ e\, dead bug\, side plank. Kies per week EEN schema\, tel ze niet op. Moti
+ vatie: discipline betekent ook verstandig herstellen. Train op gevoel en h
+ erstel: deze agenda is een planning\, geen bewijs van marathonparaatheid. 
+ Meldingen van geabonneerde agenda’s kunnen door iOS worden genegeerd\; t
+ est dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Lichte kracht + core · 25 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e6dd2647-114b-5b51-bdf5-d4d00c2ee016@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270112T070000
+DTEND;TZID=Europe/Brussels:20270112T073000
+SUMMARY:AMATEUR | Rustige duurloop · 4 km · ca. 28-32 min
+DESCRIPTION:WEEK 10/15 — AMATEUR. Afstand: 4 km. Geschatte rustige loopti
+ jd: ca. 28-32 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkure
+ n. Praattempo\, run-walk is ok. Kies per week EEN schema\, tel ze niet op.
+  Motivatie: discipline betekent ook verstandig herstellen. Train op gevoel
+  en herstel: deze agenda is een planning\, geen bewijs van marathonparaath
+ eid. Meldingen van geabonneerde agenda’s kunnen door iOS worden genegeer
+ d\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: 4 km · ca. 28-32 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5e6a3db9-92e2-5dcc-b902-e8c0e09c055e@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270113T190000
+DTEND;TZID=Europe/Brussels:20270113T191000
+SUMMARY:AMATEUR | Mobiliteit / herstel · 10 min
+DESCRIPTION:WEEK 10/15 — AMATEUR. Geplande tijd: 10 min. Voorstel startuu
+ r: 19:00\; pas zelf aan naar je werkuren. Korte mobiliteit\; overslaan als
+  je rust nodig hebt. Kies per week EEN schema\, tel ze niet op. Motivatie:
+  discipline betekent ook verstandig herstellen. Train op gevoel en herstel
+ : deze agenda is een planning\, geen bewijs van marathonparaatheid. Meldin
+ gen van geabonneerde agenda’s kunnen door iOS worden genegeerd\; test di
+ t met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Mobiliteit / herstel · 10 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c3047c4c-3baa-511d-bd84-1074dce764fb@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270114T070000
+DTEND;TZID=Europe/Brussels:20270114T073800
+SUMMARY:AMATEUR | Rustige duurloop · 5 km · ca. 35-40 min
+DESCRIPTION:WEEK 10/15 — AMATEUR. Afstand: 5 km. Geschatte rustige loopti
+ jd: ca. 35-40 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkure
+ n. Praattempo\, zonder interval\; houd het haalbaar tijdens werkdruk. Kies
+  per week EEN schema\, tel ze niet op. Motivatie: discipline betekent ook 
+ verstandig herstellen. Train op gevoel en herstel: deze agenda is een plan
+ ning\, geen bewijs van marathonparaatheid. Meldingen van geabonneerde agen
+ da’s kunnen door iOS worden genegeerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: 5 km · ca. 35-40 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a8de3980-6c80-5b8d-9c50-089c15606b75@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270115T180000
+DTEND;TZID=Europe/Brussels:20270115T181000
+SUMMARY:AMATEUR | Rust
+DESCRIPTION:WEEK 10/15 — AMATEUR. Geplande tijd: 0 min. Voorstel startuur
+ : 18:00\; pas zelf aan naar je werkuren. Volledige rust. Kies per week EEN
+  schema\, tel ze niet op. Motivatie: discipline betekent ook verstandig he
+ rstellen. Train op gevoel en herstel: deze agenda is een planning\, geen b
+ ewijs van marathonparaatheid. Meldingen van geabonneerde agenda’s kunnen
+  door iOS worden genegeerd\; test dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Rust
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:918a55e0-1817-5cb9-9651-46eb9a87874a@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270116T090000
+DTEND;TZID=Europe/Brussels:20270116T092500
+SUMMARY:AMATEUR | Optioneel wandelen + core · 25 min
+DESCRIPTION:WEEK 10/15 — AMATEUR. Geplande tijd: 25 min. Voorstel startuu
+ r: 09:00\; pas zelf aan naar je werkuren. 15 min wandelen en 10 min core\,
+  of volledige rust. Kies per week EEN schema\, tel ze niet op. Motivatie: 
+ discipline betekent ook verstandig herstellen. Train op gevoel en herstel:
+  deze agenda is een planning\, geen bewijs van marathonparaatheid. Melding
+ en van geabonneerde agenda’s kunnen door iOS worden genegeerd\; test dit
+  met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Optioneel wandelen + core · 25 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5f292df5-af43-5997-b795-e26c0cfd50c4@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270117T090000
+DTEND;TZID=Europe/Brussels:20270117T103800
+SUMMARY:AMATEUR | Lange rustige duurloop · 13 km · ca. 91-104 min
+DESCRIPTION:WEEK 10/15 — AMATEUR. Afstand: 13 km. Geschatte rustige loopt
+ ijd: ca. 91-104 min. Voorstel startuur: 09:00\; pas zelf aan naar je werku
+ ren. Heel rustig\, run-walk ok. Oefen koolhydraten en drinken bij >75-90 m
+ in. Max rond 3 uur. Kies per week EEN schema\, tel ze niet op. Motivatie: 
+ discipline betekent ook verstandig herstellen. Train op gevoel en herstel:
+  deze agenda is een planning\, geen bewijs van marathonparaatheid. Melding
+ en van geabonneerde agenda’s kunnen door iOS worden genegeerd\; test dit
+  met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: 13 km · ca. 91-104 min · Lange rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3018aafb-de76-53ad-bf62-1eccb5ea3058@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270118T190000
+DTEND;TZID=Europe/Brussels:20270118T192500
+SUMMARY:AMATEUR | Lichte kracht + core · 25 min
+DESCRIPTION:WEEK 11/15 — AMATEUR. Geplande tijd: 25 min. Voorstel startuu
+ r: 19:00\; pas zelf aan naar je werkuren. Glute bridge\, squat\, calf rais
+ e\, dead bug\, side plank. Kies per week EEN schema\, tel ze niet op. Moti
+ vatie: discipline betekent ook verstandig herstellen. Train op gevoel en h
+ erstel: deze agenda is een planning\, geen bewijs van marathonparaatheid. 
+ Meldingen van geabonneerde agenda’s kunnen door iOS worden genegeerd\; t
+ est dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Lichte kracht + core · 25 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5ddb1eed-76ec-5911-a08c-7f2f37394327@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270119T070000
+DTEND;TZID=Europe/Brussels:20270119T073800
+SUMMARY:AMATEUR | Rustige duurloop · 5 km · ca. 35-40 min
+DESCRIPTION:WEEK 11/15 — AMATEUR. Afstand: 5 km. Geschatte rustige loopti
+ jd: ca. 35-40 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkure
+ n. Praattempo\, run-walk is ok. Kies per week EEN schema\, tel ze niet op.
+  Motivatie: discipline betekent ook verstandig herstellen. Train op gevoel
+  en herstel: deze agenda is een planning\, geen bewijs van marathonparaath
+ eid. Meldingen van geabonneerde agenda’s kunnen door iOS worden genegeer
+ d\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: 5 km · ca. 35-40 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e10489e6-cb8c-5dbe-9e36-1d552c627e63@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270120T190000
+DTEND;TZID=Europe/Brussels:20270120T191000
+SUMMARY:AMATEUR | Mobiliteit / herstel · 10 min
+DESCRIPTION:WEEK 11/15 — AMATEUR. Geplande tijd: 10 min. Voorstel startuu
+ r: 19:00\; pas zelf aan naar je werkuren. Korte mobiliteit\; overslaan als
+  je rust nodig hebt. Kies per week EEN schema\, tel ze niet op. Motivatie:
+  discipline betekent ook verstandig herstellen. Train op gevoel en herstel
+ : deze agenda is een planning\, geen bewijs van marathonparaatheid. Meldin
+ gen van geabonneerde agenda’s kunnen door iOS worden genegeerd\; test di
+ t met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Mobiliteit / herstel · 10 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b82ed074-f2aa-5fdd-bf3f-c39d13bdc054@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270121T070000
+DTEND;TZID=Europe/Brussels:20270121T073800
+SUMMARY:AMATEUR | Rustige duurloop · 5 km · ca. 35-40 min
+DESCRIPTION:WEEK 11/15 — AMATEUR. Afstand: 5 km. Geschatte rustige loopti
+ jd: ca. 35-40 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkure
+ n. Praattempo\, zonder interval\; houd het haalbaar tijdens werkdruk. Kies
+  per week EEN schema\, tel ze niet op. Motivatie: discipline betekent ook 
+ verstandig herstellen. Train op gevoel en herstel: deze agenda is een plan
+ ning\, geen bewijs van marathonparaatheid. Meldingen van geabonneerde agen
+ da’s kunnen door iOS worden genegeerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: 5 km · ca. 35-40 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e06aaad5-7168-51c3-8002-881f56adb038@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270122T180000
+DTEND;TZID=Europe/Brussels:20270122T181000
+SUMMARY:AMATEUR | Rust
+DESCRIPTION:WEEK 11/15 — AMATEUR. Geplande tijd: 0 min. Voorstel startuur
+ : 18:00\; pas zelf aan naar je werkuren. Volledige rust. Kies per week EEN
+  schema\, tel ze niet op. Motivatie: discipline betekent ook verstandig he
+ rstellen. Train op gevoel en herstel: deze agenda is een planning\, geen b
+ ewijs van marathonparaatheid. Meldingen van geabonneerde agenda’s kunnen
+  door iOS worden genegeerd\; test dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Rust
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9e7a20c1-2e46-51d4-886c-e1b48afbcf30@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270123T090000
+DTEND;TZID=Europe/Brussels:20270123T092500
+SUMMARY:AMATEUR | Optioneel wandelen + core · 25 min
+DESCRIPTION:WEEK 11/15 — AMATEUR. Geplande tijd: 25 min. Voorstel startuu
+ r: 09:00\; pas zelf aan naar je werkuren. 15 min wandelen en 10 min core\,
+  of volledige rust. Kies per week EEN schema\, tel ze niet op. Motivatie: 
+ discipline betekent ook verstandig herstellen. Train op gevoel en herstel:
+  deze agenda is een planning\, geen bewijs van marathonparaatheid. Melding
+ en van geabonneerde agenda’s kunnen door iOS worden genegeerd\; test dit
+  met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Optioneel wandelen + core · 25 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2a509eed-7818-570f-9fc9-e7c8d2121913@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270124T090000
+DTEND;TZID=Europe/Brussels:20270124T104500
+SUMMARY:AMATEUR | Lange rustige duurloop · 14 km · ca. 98-112 min
+DESCRIPTION:WEEK 11/15 — AMATEUR. Afstand: 14 km. Geschatte rustige loopt
+ ijd: ca. 98-112 min. Voorstel startuur: 09:00\; pas zelf aan naar je werku
+ ren. Heel rustig\, run-walk ok. Oefen koolhydraten en drinken bij >75-90 m
+ in. Max rond 3 uur. Kies per week EEN schema\, tel ze niet op. Motivatie: 
+ discipline betekent ook verstandig herstellen. Train op gevoel en herstel:
+  deze agenda is een planning\, geen bewijs van marathonparaatheid. Melding
+ en van geabonneerde agenda’s kunnen door iOS worden genegeerd\; test dit
+  met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: 14 km · ca. 98-112 min · Lange rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4fb5684b-4be9-53af-bada-4455de1667f0@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270125T190000
+DTEND;TZID=Europe/Brussels:20270125T192500
+SUMMARY:AMATEUR | Lichte kracht + core · 25 min
+DESCRIPTION:WEEK 12/15 — AMATEUR. Geplande tijd: 25 min. Voorstel startuu
+ r: 19:00\; pas zelf aan naar je werkuren. Glute bridge\, squat\, calf rais
+ e\, dead bug\, side plank. Kies per week EEN schema\, tel ze niet op. Moti
+ vatie: discipline betekent ook verstandig herstellen. Train op gevoel en h
+ erstel: deze agenda is een planning\, geen bewijs van marathonparaatheid. 
+ Meldingen van geabonneerde agenda’s kunnen door iOS worden genegeerd\; t
+ est dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Lichte kracht + core · 25 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:af56d65e-42e6-5740-b86a-18f1e48a3855@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270126T070000
+DTEND;TZID=Europe/Brussels:20270126T073800
+SUMMARY:AMATEUR | Rustige duurloop · 5 km · ca. 35-40 min
+DESCRIPTION:WEEK 12/15 — AMATEUR. Afstand: 5 km. Geschatte rustige loopti
+ jd: ca. 35-40 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkure
+ n. Praattempo\, run-walk is ok. Kies per week EEN schema\, tel ze niet op.
+  Motivatie: discipline betekent ook verstandig herstellen. Train op gevoel
+  en herstel: deze agenda is een planning\, geen bewijs van marathonparaath
+ eid. Meldingen van geabonneerde agenda’s kunnen door iOS worden genegeer
+ d\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: 5 km · ca. 35-40 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a863d611-caf7-59d4-a848-3b6113edeaf5@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270127T190000
+DTEND;TZID=Europe/Brussels:20270127T191000
+SUMMARY:AMATEUR | Mobiliteit / herstel · 10 min
+DESCRIPTION:WEEK 12/15 — AMATEUR. Geplande tijd: 10 min. Voorstel startuu
+ r: 19:00\; pas zelf aan naar je werkuren. Korte mobiliteit\; overslaan als
+  je rust nodig hebt. Kies per week EEN schema\, tel ze niet op. Motivatie:
+  discipline betekent ook verstandig herstellen. Train op gevoel en herstel
+ : deze agenda is een planning\, geen bewijs van marathonparaatheid. Meldin
+ gen van geabonneerde agenda’s kunnen door iOS worden genegeerd\; test di
+ t met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Mobiliteit / herstel · 10 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0a719966-e856-5779-b9c1-2a059eb1f087@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270128T070000
+DTEND;TZID=Europe/Brussels:20270128T074500
+SUMMARY:AMATEUR | Rustige duurloop · 6 km · ca. 42-48 min
+DESCRIPTION:WEEK 12/15 — AMATEUR. Afstand: 6 km. Geschatte rustige loopti
+ jd: ca. 42-48 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkure
+ n. Praattempo\, zonder interval\; houd het haalbaar tijdens werkdruk. Kies
+  per week EEN schema\, tel ze niet op. Motivatie: discipline betekent ook 
+ verstandig herstellen. Train op gevoel en herstel: deze agenda is een plan
+ ning\, geen bewijs van marathonparaatheid. Meldingen van geabonneerde agen
+ da’s kunnen door iOS worden genegeerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: 6 km · ca. 42-48 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2c1c47c9-f0d0-50f4-8c70-b5ceee8f131d@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270129T180000
+DTEND;TZID=Europe/Brussels:20270129T181000
+SUMMARY:AMATEUR | Rust
+DESCRIPTION:WEEK 12/15 — AMATEUR. Geplande tijd: 0 min. Voorstel startuur
+ : 18:00\; pas zelf aan naar je werkuren. Volledige rust. Kies per week EEN
+  schema\, tel ze niet op. Motivatie: discipline betekent ook verstandig he
+ rstellen. Train op gevoel en herstel: deze agenda is een planning\, geen b
+ ewijs van marathonparaatheid. Meldingen van geabonneerde agenda’s kunnen
+  door iOS worden genegeerd\; test dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Rust
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0249ab87-6794-5fff-bc70-84691775addf@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270130T090000
+DTEND;TZID=Europe/Brussels:20270130T092500
+SUMMARY:AMATEUR | Optioneel wandelen + core · 25 min
+DESCRIPTION:WEEK 12/15 — AMATEUR. Geplande tijd: 25 min. Voorstel startuu
+ r: 09:00\; pas zelf aan naar je werkuren. 15 min wandelen en 10 min core\,
+  of volledige rust. Kies per week EEN schema\, tel ze niet op. Motivatie: 
+ discipline betekent ook verstandig herstellen. Train op gevoel en herstel:
+  deze agenda is een planning\, geen bewijs van marathonparaatheid. Melding
+ en van geabonneerde agenda’s kunnen door iOS worden genegeerd\; test dit
+  met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Optioneel wandelen + core · 25 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e9e9de37-e57c-5b3e-9d97-11c098fbbc81@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270131T090000
+DTEND;TZID=Europe/Brussels:20270131T110000
+SUMMARY:AMATEUR | Lange rustige duurloop · 16 km · ca. 112-128 min
+DESCRIPTION:WEEK 12/15 — AMATEUR. Afstand: 16 km. Geschatte rustige loopt
+ ijd: ca. 112-128 min. Voorstel startuur: 09:00\; pas zelf aan naar je werk
+ uren. Heel rustig\, run-walk ok. Oefen koolhydraten en drinken bij >75-90 
+ min. Max rond 3 uur. Kies per week EEN schema\, tel ze niet op. Motivatie:
+  discipline betekent ook verstandig herstellen. Train op gevoel en herstel
+ : deze agenda is een planning\, geen bewijs van marathonparaatheid. Meldin
+ gen van geabonneerde agenda’s kunnen door iOS worden genegeerd\; test di
+ t met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: 16 km · ca. 112-128 min · Lange rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:944e52de-3e71-5481-bbe9-8c8569c01dca@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270201T190000
+DTEND;TZID=Europe/Brussels:20270201T192500
+SUMMARY:AMATEUR | Lichte kracht + core · 25 min
+DESCRIPTION:WEEK 13/15 — AMATEUR. Geplande tijd: 25 min. Voorstel startuu
+ r: 19:00\; pas zelf aan naar je werkuren. Glute bridge\, squat\, calf rais
+ e\, dead bug\, side plank. Kies per week EEN schema\, tel ze niet op. Moti
+ vatie: discipline betekent ook verstandig herstellen. Train op gevoel en h
+ erstel: deze agenda is een planning\, geen bewijs van marathonparaatheid. 
+ Meldingen van geabonneerde agenda’s kunnen door iOS worden genegeerd\; t
+ est dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Lichte kracht + core · 25 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7be81a2a-ea63-5aeb-bdfe-68226b51ca8d@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270202T070000
+DTEND;TZID=Europe/Brussels:20270202T073000
+SUMMARY:AMATEUR | Rustige duurloop · 4 km · ca. 28-32 min
+DESCRIPTION:WEEK 13/15 — AMATEUR. Afstand: 4 km. Geschatte rustige loopti
+ jd: ca. 28-32 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkure
+ n. Praattempo\, run-walk is ok. Kies per week EEN schema\, tel ze niet op.
+  Motivatie: discipline betekent ook verstandig herstellen. Train op gevoel
+  en herstel: deze agenda is een planning\, geen bewijs van marathonparaath
+ eid. Meldingen van geabonneerde agenda’s kunnen door iOS worden genegeer
+ d\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: 4 km · ca. 28-32 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:538162e7-2908-505f-8071-87a4b4611e90@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270203T190000
+DTEND;TZID=Europe/Brussels:20270203T191000
+SUMMARY:AMATEUR | Mobiliteit / herstel · 10 min
+DESCRIPTION:WEEK 13/15 — AMATEUR. Geplande tijd: 10 min. Voorstel startuu
+ r: 19:00\; pas zelf aan naar je werkuren. Korte mobiliteit\; overslaan als
+  je rust nodig hebt. Kies per week EEN schema\, tel ze niet op. Motivatie:
+  discipline betekent ook verstandig herstellen. Train op gevoel en herstel
+ : deze agenda is een planning\, geen bewijs van marathonparaatheid. Meldin
+ gen van geabonneerde agenda’s kunnen door iOS worden genegeerd\; test di
+ t met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Mobiliteit / herstel · 10 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:df91fe3e-ece6-5a30-83b3-96403b777536@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270204T070000
+DTEND;TZID=Europe/Brussels:20270204T073000
+SUMMARY:AMATEUR | Rustige duurloop · 4 km · ca. 28-32 min
+DESCRIPTION:WEEK 13/15 — AMATEUR. Afstand: 4 km. Geschatte rustige loopti
+ jd: ca. 28-32 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkure
+ n. Praattempo\, zonder interval\; houd het haalbaar tijdens werkdruk. Kies
+  per week EEN schema\, tel ze niet op. Motivatie: discipline betekent ook 
+ verstandig herstellen. Train op gevoel en herstel: deze agenda is een plan
+ ning\, geen bewijs van marathonparaatheid. Meldingen van geabonneerde agen
+ da’s kunnen door iOS worden genegeerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: 4 km · ca. 28-32 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d6463c11-926d-5331-ae32-1bb064d054a7@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270205T180000
+DTEND;TZID=Europe/Brussels:20270205T181000
+SUMMARY:AMATEUR | Rust
+DESCRIPTION:WEEK 13/15 — AMATEUR. Geplande tijd: 0 min. Voorstel startuur
+ : 18:00\; pas zelf aan naar je werkuren. Volledige rust. Kies per week EEN
+  schema\, tel ze niet op. Motivatie: discipline betekent ook verstandig he
+ rstellen. Train op gevoel en herstel: deze agenda is een planning\, geen b
+ ewijs van marathonparaatheid. Meldingen van geabonneerde agenda’s kunnen
+  door iOS worden genegeerd\; test dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Rust
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c0d2d51b-64f2-5176-bb64-eb0d7ef59116@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270206T090000
+DTEND;TZID=Europe/Brussels:20270206T092500
+SUMMARY:AMATEUR | Optioneel wandelen + core · 25 min
+DESCRIPTION:WEEK 13/15 — AMATEUR. Geplande tijd: 25 min. Voorstel startuu
+ r: 09:00\; pas zelf aan naar je werkuren. 15 min wandelen en 10 min core\,
+  of volledige rust. Kies per week EEN schema\, tel ze niet op. Motivatie: 
+ discipline betekent ook verstandig herstellen. Train op gevoel en herstel:
+  deze agenda is een planning\, geen bewijs van marathonparaatheid. Melding
+ en van geabonneerde agenda’s kunnen door iOS worden genegeerd\; test dit
+  met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Optioneel wandelen + core · 25 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8e4fde1e-0618-5181-85cb-75d471e77fbd@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270207T090000
+DTEND;TZID=Europe/Brussels:20270207T102200
+SUMMARY:AMATEUR | Lange rustige duurloop · 11 km · ca. 77-88 min
+DESCRIPTION:WEEK 13/15 — AMATEUR. Afstand: 11 km. Geschatte rustige loopt
+ ijd: ca. 77-88 min. Voorstel startuur: 09:00\; pas zelf aan naar je werkur
+ en. Heel rustig\, run-walk ok. Oefen koolhydraten en drinken bij >75-90 mi
+ n. Max rond 3 uur. Kies per week EEN schema\, tel ze niet op. Motivatie: d
+ iscipline betekent ook verstandig herstellen. Train op gevoel en herstel: 
+ deze agenda is een planning\, geen bewijs van marathonparaatheid. Meldinge
+ n van geabonneerde agenda’s kunnen door iOS worden genegeerd\; test dit 
+ met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: 11 km · ca. 77-88 min · Lange rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2fe00c00-cc5f-5006-8dd2-2dc009b35a13@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270208T190000
+DTEND;TZID=Europe/Brussels:20270208T192500
+SUMMARY:AMATEUR | Lichte kracht + core · 25 min
+DESCRIPTION:WEEK 14/15 — AMATEUR. Geplande tijd: 25 min. Voorstel startuu
+ r: 19:00\; pas zelf aan naar je werkuren. Glute bridge\, squat\, calf rais
+ e\, dead bug\, side plank. Kies per week EEN schema\, tel ze niet op. Moti
+ vatie: discipline betekent ook verstandig herstellen. Train op gevoel en h
+ erstel: deze agenda is een planning\, geen bewijs van marathonparaatheid. 
+ Meldingen van geabonneerde agenda’s kunnen door iOS worden genegeerd\; t
+ est dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Lichte kracht + core · 25 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:494cc9d5-bd36-5c73-8184-dd4c420aac27@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270209T070000
+DTEND;TZID=Europe/Brussels:20270209T072200
+SUMMARY:AMATEUR | Rustige duurloop · 3 km · ca. 21-24 min
+DESCRIPTION:WEEK 14/15 — AMATEUR. Afstand: 3 km. Geschatte rustige loopti
+ jd: ca. 21-24 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkure
+ n. Praattempo\, run-walk is ok. Kies per week EEN schema\, tel ze niet op.
+  Motivatie: discipline betekent ook verstandig herstellen. Train op gevoel
+  en herstel: deze agenda is een planning\, geen bewijs van marathonparaath
+ eid. Meldingen van geabonneerde agenda’s kunnen door iOS worden genegeer
+ d\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: 3 km · ca. 21-24 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:444af606-17ce-584d-aa83-981f6b803bf8@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270210T190000
+DTEND;TZID=Europe/Brussels:20270210T191000
+SUMMARY:AMATEUR | Mobiliteit / herstel · 10 min
+DESCRIPTION:WEEK 14/15 — AMATEUR. Geplande tijd: 10 min. Voorstel startuu
+ r: 19:00\; pas zelf aan naar je werkuren. Korte mobiliteit\; overslaan als
+  je rust nodig hebt. Kies per week EEN schema\, tel ze niet op. Motivatie:
+  discipline betekent ook verstandig herstellen. Train op gevoel en herstel
+ : deze agenda is een planning\, geen bewijs van marathonparaatheid. Meldin
+ gen van geabonneerde agenda’s kunnen door iOS worden genegeerd\; test di
+ t met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Mobiliteit / herstel · 10 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c21adda5-2925-5796-b9b4-f781377c3160@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270211T070000
+DTEND;TZID=Europe/Brussels:20270211T072200
+SUMMARY:AMATEUR | Rustige duurloop · 3 km · ca. 21-24 min
+DESCRIPTION:WEEK 14/15 — AMATEUR. Afstand: 3 km. Geschatte rustige loopti
+ jd: ca. 21-24 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkure
+ n. Praattempo\, zonder interval\; houd het haalbaar tijdens werkdruk. Kies
+  per week EEN schema\, tel ze niet op. Motivatie: discipline betekent ook 
+ verstandig herstellen. Train op gevoel en herstel: deze agenda is een plan
+ ning\, geen bewijs van marathonparaatheid. Meldingen van geabonneerde agen
+ da’s kunnen door iOS worden genegeerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: 3 km · ca. 21-24 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8d68bf8f-de18-5f62-9808-e575cc7e220a@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270212T180000
+DTEND;TZID=Europe/Brussels:20270212T181000
+SUMMARY:AMATEUR | Rust
+DESCRIPTION:WEEK 14/15 — AMATEUR. Geplande tijd: 0 min. Voorstel startuur
+ : 18:00\; pas zelf aan naar je werkuren. Volledige rust. Kies per week EEN
+  schema\, tel ze niet op. Motivatie: discipline betekent ook verstandig he
+ rstellen. Train op gevoel en herstel: deze agenda is een planning\, geen b
+ ewijs van marathonparaatheid. Meldingen van geabonneerde agenda’s kunnen
+  door iOS worden genegeerd\; test dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Rust
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d773374a-e9b0-5e8c-82bb-884a77cc00fd@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270213T090000
+DTEND;TZID=Europe/Brussels:20270213T092500
+SUMMARY:AMATEUR | Optioneel wandelen + core · 25 min
+DESCRIPTION:WEEK 14/15 — AMATEUR. Geplande tijd: 25 min. Voorstel startuu
+ r: 09:00\; pas zelf aan naar je werkuren. 15 min wandelen en 10 min core\,
+  of volledige rust. Kies per week EEN schema\, tel ze niet op. Motivatie: 
+ discipline betekent ook verstandig herstellen. Train op gevoel en herstel:
+  deze agenda is een planning\, geen bewijs van marathonparaatheid. Melding
+ en van geabonneerde agenda’s kunnen door iOS worden genegeerd\; test dit
+  met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Optioneel wandelen + core · 25 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:efbdce41-74f3-585c-a97c-e3678e584a84@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270214T090000
+DTEND;TZID=Europe/Brussels:20270214T095200
+SUMMARY:AMATEUR | Lange rustige duurloop · 7 km · ca. 49-56 min
+DESCRIPTION:WEEK 14/15 — AMATEUR. Afstand: 7 km. Geschatte rustige loopti
+ jd: ca. 49-56 min. Voorstel startuur: 09:00\; pas zelf aan naar je werkure
+ n. Heel rustig\, run-walk ok. Oefen koolhydraten en drinken bij >75-90 min
+ . Max rond 3 uur. Kies per week EEN schema\, tel ze niet op. Motivatie: di
+ scipline betekent ook verstandig herstellen. Train op gevoel en herstel: d
+ eze agenda is een planning\, geen bewijs van marathonparaatheid. Meldingen
+  van geabonneerde agenda’s kunnen door iOS worden genegeerd\; test dit m
+ et een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: 7 km · ca. 49-56 min · Lange rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2f76ae27-347f-5241-abaf-fc7443cb6745@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270215T190000
+DTEND;TZID=Europe/Brussels:20270215T191000
+SUMMARY:AMATEUR | Mobiliteit · 10 min
+DESCRIPTION:WEEK 15/15 — AMATEUR. Geplande tijd: 10 min. Voorstel startuu
+ r: 19:00\; pas zelf aan naar je werkuren. Wedstrijdweek: houd alles ontspa
+ nnen\, geen zware inspanning. Kies per week EEN schema\, tel ze niet op. M
+ otivatie: discipline betekent ook verstandig herstellen. Train op gevoel e
+ n herstel: deze agenda is een planning\, geen bewijs van marathonparaathei
+ d. Meldingen van geabonneerde agenda’s kunnen door iOS worden genegeerd\
+ ; test dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Mobiliteit · 10 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d481d03f-13e9-57ef-9a0f-0a6c7507c628@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270216T070000
+DTEND;TZID=Europe/Brussels:20270216T072000
+SUMMARY:AMATEUR | Rustige loop of wandeling · 2 km · ca. 14-16 min
+DESCRIPTION:WEEK 15/15 — AMATEUR. Afstand: 2 km. Geschatte rustige loopti
+ jd: ca. 14-16 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkure
+ n. Wedstrijdweek: houd alles ontspannen\, geen zware inspanning. Kies per 
+ week EEN schema\, tel ze niet op. Motivatie: discipline betekent ook verst
+ andig herstellen. Train op gevoel en herstel: deze agenda is een planning\
+ , geen bewijs van marathonparaatheid. Meldingen van geabonneerde agenda’
+ s kunnen door iOS worden genegeerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: 2 km · ca. 14-16 min · Rustige loop of wandeling
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:631b7770-325e-54ec-a82c-9f2d8f770270@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270217T190000
+DTEND;TZID=Europe/Brussels:20270217T191000
+SUMMARY:AMATEUR | Rust
+DESCRIPTION:WEEK 15/15 — AMATEUR. Geplande tijd: 0 min. Voorstel startuur
+ : 19:00\; pas zelf aan naar je werkuren. Wedstrijdweek: houd alles ontspan
+ nen\, geen zware inspanning. Kies per week EEN schema\, tel ze niet op. Mo
+ tivatie: discipline betekent ook verstandig herstellen. Train op gevoel en
+  herstel: deze agenda is een planning\, geen bewijs van marathonparaatheid
+ . Meldingen van geabonneerde agenda’s kunnen door iOS worden genegeerd\;
+  test dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Rust
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ee369b9c-2427-5cc0-84a8-6cc1b1c2da2c@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270218T070000
+DTEND;TZID=Europe/Brussels:20270218T072000
+SUMMARY:AMATEUR | Rustige loop of wandeling · 2 km · ca. 14-16 min
+DESCRIPTION:WEEK 15/15 — AMATEUR. Afstand: 2 km. Geschatte rustige loopti
+ jd: ca. 14-16 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkure
+ n. Wedstrijdweek: houd alles ontspannen\, geen zware inspanning. Kies per 
+ week EEN schema\, tel ze niet op. Motivatie: discipline betekent ook verst
+ andig herstellen. Train op gevoel en herstel: deze agenda is een planning\
+ , geen bewijs van marathonparaatheid. Meldingen van geabonneerde agenda’
+ s kunnen door iOS worden genegeerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: 2 km · ca. 14-16 min · Rustige loop of wandeling
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b2fbe23c-755e-5b86-a2fb-f59349b449ba@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270219T180000
+DTEND;TZID=Europe/Brussels:20270219T181000
+SUMMARY:AMATEUR | Rust
+DESCRIPTION:WEEK 15/15 — AMATEUR. Geplande tijd: 0 min. Voorstel startuur
+ : 18:00\; pas zelf aan naar je werkuren. Wedstrijdweek: houd alles ontspan
+ nen\, geen zware inspanning. Kies per week EEN schema\, tel ze niet op. Mo
+ tivatie: discipline betekent ook verstandig herstellen. Train op gevoel en
+  herstel: deze agenda is een planning\, geen bewijs van marathonparaatheid
+ . Meldingen van geabonneerde agenda’s kunnen door iOS worden genegeerd\;
+  test dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Rust
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:566453e9-1798-5c0c-9d7a-b083afa8cce8@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270220T090000
+DTEND;TZID=Europe/Brussels:20270220T091000
+SUMMARY:AMATEUR | Rust
+DESCRIPTION:WEEK 15/15 — AMATEUR. Geplande tijd: 0 min. Voorstel startuur
+ : 09:00\; pas zelf aan naar je werkuren. Wedstrijdweek: houd alles ontspan
+ nen\, geen zware inspanning. Kies per week EEN schema\, tel ze niet op. Mo
+ tivatie: discipline betekent ook verstandig herstellen. Train op gevoel en
+  herstel: deze agenda is een planning\, geen bewijs van marathonparaatheid
+ . Meldingen van geabonneerde agenda’s kunnen door iOS worden genegeerd\;
+  test dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: Rust
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:95b0a89c-2c82-5ee8-9d08-a3d268e7d37e@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270221T090000
+DTEND;TZID=Europe/Brussels:20270221T141600
+SUMMARY:AMATEUR | MARATHON (voorwaardelijk) · 42\,195 km · duur afhankeli
+ jk van jouw tempo
+DESCRIPTION:WEEK 15/15 — AMATEUR. Afstand: 42\,195 km. Geschatte rustige 
+ looptijd: duur afhankelijk van jouw tempo. Voorstel startuur: 09:00\; pas 
+ zelf aan naar je werkuren. Start alleen wanneer de voorbereiding\, je gezo
+ ndheid en je herstel dit verantwoord maken. Aangezien je basis 12-15 km/we
+ ek is\, is uitlopen niet gegarandeerd. Overweeg kortere afstand of uitstel
+ . Controleer officieel startuur. Kies per week EEN schema\, tel ze niet op
+ . Motivatie: discipline betekent ook verstandig herstellen. Train op gevoe
+ l en herstel: deze agenda is een planning\, geen bewijs van marathonparaat
+ heid. Meldingen van geabonneerde agenda’s kunnen door iOS worden genegee
+ rd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMATEUR: 42\,195 km · duur afhankelijk van jouw tempo · MARAT
+ HON (voorwaardelijk)
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

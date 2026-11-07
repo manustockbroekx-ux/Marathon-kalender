@@ -1,0 +1,2156 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Marathon 2027//Training met afstand en duur//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Marathon 2027 | AMBITIEUS
+X-WR-CALDESC:Kies 1 schema per week. Trainingstijden zijn richttijden.
+X-WR-TIMEZONE:Europe/Brussels
+BEGIN:VEVENT
+UID:9b0d30bd-2f47-5139-97ca-61526b17b993@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261109T190000
+DTEND;TZID=Europe/Brussels:20261109T194000
+SUMMARY:AMBITIEUS | Kracht + core · 40 min
+DESCRIPTION:WEEK 1/15 — AMBITIEUS. Geplande tijd: 40 min. Voorstel startu
+ ur: 19:00\; pas zelf aan naar je werkuren. Squat\, hip hinge\, calf raises
+ \, dead bug en heupstabiliteit\; geen spierfalen. Kies per week EEN schema
+ \, tel ze niet op. Motivatie: discipline betekent ook verstandig herstelle
+ n. Train op gevoel en herstel: deze agenda is een planning\, geen bewijs v
+ an marathonparaatheid. Meldingen van geabonneerde agenda’s kunnen door i
+ OS worden genegeerd\; test dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: Kracht + core · 40 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:54894709-8979-519b-bb05-7648ab39d859@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261110T070000
+DTEND;TZID=Europe/Brussels:20261110T072200
+SUMMARY:AMBITIEUS | Rustige duurloop · 3 km · ca. 21-24 min
+DESCRIPTION:WEEK 1/15 — AMBITIEUS. Afstand: 3 km. Geschatte rustige loopt
+ ijd: ca. 21-24 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkur
+ en. Praattempo\; loop-wandel mag. Rustiger dan je normale 9-11 km/u is pri
+ ma. Kies per week EEN schema\, tel ze niet op. Motivatie: discipline betek
+ ent ook verstandig herstellen. Train op gevoel en herstel: deze agenda is 
+ een planning\, geen bewijs van marathonparaatheid. Meldingen van geabonnee
+ rde agenda’s kunnen door iOS worden genegeerd\; test dit met een apart i
+ tem.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 3 km · ca. 21-24 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ba75b594-dc9f-5230-afd7-733139a37d2f@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261111T190000
+DTEND;TZID=Europe/Brussels:20261111T193000
+SUMMARY:AMBITIEUS | Bovenlichaam + core · 30 min
+DESCRIPTION:WEEK 1/15 — AMBITIEUS. Geplande tijd: 30 min. Voorstel startu
+ ur: 19:00\; pas zelf aan naar je werkuren. Push-ups\, rows\, side planks\,
+  bird dog en mobiliteit. Kies per week EEN schema\, tel ze niet op. Motiva
+ tie: discipline betekent ook verstandig herstellen. Train op gevoel en her
+ stel: deze agenda is een planning\, geen bewijs van marathonparaatheid. Me
+ ldingen van geabonneerde agenda’s kunnen door iOS worden genegeerd\; tes
+ t dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: Bovenlichaam + core · 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4aacbcdb-dbaa-59d2-b938-1be02fd737f5@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261112T070000
+DTEND;TZID=Europe/Brussels:20261112T072200
+SUMMARY:AMBITIEUS | Rustige duurloop · 3 km · ca. 21-24 min
+DESCRIPTION:WEEK 1/15 — AMBITIEUS. Afstand: 3 km. Geschatte rustige loopt
+ ijd: ca. 21-24 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkur
+ en. Praattempo. Alleen als je goed hersteld bent mag het laatste deel iets
+  vlotter. Kies per week EEN schema\, tel ze niet op. Motivatie: discipline
+  betekent ook verstandig herstellen. Train op gevoel en herstel: deze agen
+ da is een planning\, geen bewijs van marathonparaatheid. Meldingen van gea
+ bonneerde agenda’s kunnen door iOS worden genegeerd\; test dit met een a
+ part item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 3 km · ca. 21-24 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d4271ed2-60e8-5577-acaa-820eaa1b89bc@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261113T180000
+DTEND;TZID=Europe/Brussels:20261113T182000
+SUMMARY:AMBITIEUS | Rust / lichte wandeling · 20 min
+DESCRIPTION:WEEK 1/15 — AMBITIEUS. Geplande tijd: 20 min. Voorstel startu
+ ur: 18:00\; pas zelf aan naar je werkuren. Wandelen is optioneel\; herstel
+  telt mee. Kies per week EEN schema\, tel ze niet op. Motivatie: disciplin
+ e betekent ook verstandig herstellen. Train op gevoel en herstel: deze age
+ nda is een planning\, geen bewijs van marathonparaatheid. Meldingen van ge
+ abonneerde agenda’s kunnen door iOS worden genegeerd\; test dit met een 
+ apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: Rust / lichte wandeling · 20 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eeac07c5-2990-5884-aeba-aa0e60cde25f@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261114T090000
+DTEND;TZID=Europe/Brussels:20261114T091500
+SUMMARY:AMBITIEUS | Herstelloop · 2 km · ca. 14-16 min
+DESCRIPTION:WEEK 1/15 — AMBITIEUS. Afstand: 2 km. Geschatte rustige loopt
+ ijd: ca. 14-16 min. Voorstel startuur: 09:00\; pas zelf aan naar je werkur
+ en. Extra langzaam. Bij vermoeidheid vervangen door rust. Kies per week EE
+ N schema\, tel ze niet op. Motivatie: discipline betekent ook verstandig h
+ erstellen. Train op gevoel en herstel: deze agenda is een planning\, geen 
+ bewijs van marathonparaatheid. Meldingen van geabonneerde agenda’s kunne
+ n door iOS worden genegeerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 2 km · ca. 14-16 min · Herstelloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5a179cb2-12bd-598c-8c97-e0679c955bfc@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261115T090000
+DTEND;TZID=Europe/Brussels:20261115T095200
+SUMMARY:AMBITIEUS | Lange rustige duurloop · 7 km · ca. 49-56 min
+DESCRIPTION:WEEK 1/15 — AMBITIEUS. Afstand: 7 km. Geschatte rustige loopt
+ ijd: ca. 49-56 min. Voorstel startuur: 09:00\; pas zelf aan naar je werkur
+ en. Rustig\, eventueel run-walk. Voeding/drinken oefenen vanaf 75-90 minut
+ en. Max rond 3 uur\; inkorten mag. Kies per week EEN schema\, tel ze niet 
+ op. Motivatie: discipline betekent ook verstandig herstellen. Train op gev
+ oel en herstel: deze agenda is een planning\, geen bewijs van marathonpara
+ atheid. Meldingen van geabonneerde agenda’s kunnen door iOS worden geneg
+ eerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 7 km · ca. 49-56 min · Lange rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ed98b995-50bc-505a-a7a5-99629070ffee@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261116T190000
+DTEND;TZID=Europe/Brussels:20261116T194000
+SUMMARY:AMBITIEUS | Kracht + core · 40 min
+DESCRIPTION:WEEK 2/15 — AMBITIEUS. Geplande tijd: 40 min. Voorstel startu
+ ur: 19:00\; pas zelf aan naar je werkuren. Squat\, hip hinge\, calf raises
+ \, dead bug en heupstabiliteit\; geen spierfalen. Kies per week EEN schema
+ \, tel ze niet op. Motivatie: discipline betekent ook verstandig herstelle
+ n. Train op gevoel en herstel: deze agenda is een planning\, geen bewijs v
+ an marathonparaatheid. Meldingen van geabonneerde agenda’s kunnen door i
+ OS worden genegeerd\; test dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: Kracht + core · 40 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5e769ae3-6a17-5a97-ab2f-245ee915aedb@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261117T070000
+DTEND;TZID=Europe/Brussels:20261117T072200
+SUMMARY:AMBITIEUS | Rustige duurloop · 3 km · ca. 21-24 min
+DESCRIPTION:WEEK 2/15 — AMBITIEUS. Afstand: 3 km. Geschatte rustige loopt
+ ijd: ca. 21-24 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkur
+ en. Praattempo\; loop-wandel mag. Rustiger dan je normale 9-11 km/u is pri
+ ma. Kies per week EEN schema\, tel ze niet op. Motivatie: discipline betek
+ ent ook verstandig herstellen. Train op gevoel en herstel: deze agenda is 
+ een planning\, geen bewijs van marathonparaatheid. Meldingen van geabonnee
+ rde agenda’s kunnen door iOS worden genegeerd\; test dit met een apart i
+ tem.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 3 km · ca. 21-24 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5de0198d-8c86-5af4-9627-891885270ef6@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261118T190000
+DTEND;TZID=Europe/Brussels:20261118T193000
+SUMMARY:AMBITIEUS | Bovenlichaam + core · 30 min
+DESCRIPTION:WEEK 2/15 — AMBITIEUS. Geplande tijd: 30 min. Voorstel startu
+ ur: 19:00\; pas zelf aan naar je werkuren. Push-ups\, rows\, side planks\,
+  bird dog en mobiliteit. Kies per week EEN schema\, tel ze niet op. Motiva
+ tie: discipline betekent ook verstandig herstellen. Train op gevoel en her
+ stel: deze agenda is een planning\, geen bewijs van marathonparaatheid. Me
+ ldingen van geabonneerde agenda’s kunnen door iOS worden genegeerd\; tes
+ t dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: Bovenlichaam + core · 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:de64ea50-b8a4-5e65-b1e7-879433b94322@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261119T070000
+DTEND;TZID=Europe/Brussels:20261119T073000
+SUMMARY:AMBITIEUS | Rustige duurloop · 4 km · ca. 28-32 min
+DESCRIPTION:WEEK 2/15 — AMBITIEUS. Afstand: 4 km. Geschatte rustige loopt
+ ijd: ca. 28-32 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkur
+ en. Praattempo. Alleen als je goed hersteld bent mag het laatste deel iets
+  vlotter. Kies per week EEN schema\, tel ze niet op. Motivatie: discipline
+  betekent ook verstandig herstellen. Train op gevoel en herstel: deze agen
+ da is een planning\, geen bewijs van marathonparaatheid. Meldingen van gea
+ bonneerde agenda’s kunnen door iOS worden genegeerd\; test dit met een a
+ part item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 4 km · ca. 28-32 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d9fc47bd-af78-580c-8ccf-e681f651c821@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261120T180000
+DTEND;TZID=Europe/Brussels:20261120T182000
+SUMMARY:AMBITIEUS | Rust / lichte wandeling · 20 min
+DESCRIPTION:WEEK 2/15 — AMBITIEUS. Geplande tijd: 20 min. Voorstel startu
+ ur: 18:00\; pas zelf aan naar je werkuren. Wandelen is optioneel\; herstel
+  telt mee. Kies per week EEN schema\, tel ze niet op. Motivatie: disciplin
+ e betekent ook verstandig herstellen. Train op gevoel en herstel: deze age
+ nda is een planning\, geen bewijs van marathonparaatheid. Meldingen van ge
+ abonneerde agenda’s kunnen door iOS worden genegeerd\; test dit met een 
+ apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: Rust / lichte wandeling · 20 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3cb77cd0-8be2-5d8c-9ec4-3e483d225880@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261121T090000
+DTEND;TZID=Europe/Brussels:20261121T091500
+SUMMARY:AMBITIEUS | Herstelloop · 2 km · ca. 14-16 min
+DESCRIPTION:WEEK 2/15 — AMBITIEUS. Afstand: 2 km. Geschatte rustige loopt
+ ijd: ca. 14-16 min. Voorstel startuur: 09:00\; pas zelf aan naar je werkur
+ en. Extra langzaam. Bij vermoeidheid vervangen door rust. Kies per week EE
+ N schema\, tel ze niet op. Motivatie: discipline betekent ook verstandig h
+ erstellen. Train op gevoel en herstel: deze agenda is een planning\, geen 
+ bewijs van marathonparaatheid. Meldingen van geabonneerde agenda’s kunne
+ n door iOS worden genegeerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 2 km · ca. 14-16 min · Herstelloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:133b11cd-1560-5c32-a061-8d9e9049749a@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261122T090000
+DTEND;TZID=Europe/Brussels:20261122T100000
+SUMMARY:AMBITIEUS | Lange rustige duurloop · 8 km · ca. 56-64 min
+DESCRIPTION:WEEK 2/15 — AMBITIEUS. Afstand: 8 km. Geschatte rustige loopt
+ ijd: ca. 56-64 min. Voorstel startuur: 09:00\; pas zelf aan naar je werkur
+ en. Rustig\, eventueel run-walk. Voeding/drinken oefenen vanaf 75-90 minut
+ en. Max rond 3 uur\; inkorten mag. Kies per week EEN schema\, tel ze niet 
+ op. Motivatie: discipline betekent ook verstandig herstellen. Train op gev
+ oel en herstel: deze agenda is een planning\, geen bewijs van marathonpara
+ atheid. Meldingen van geabonneerde agenda’s kunnen door iOS worden geneg
+ eerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 8 km · ca. 56-64 min · Lange rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:899f9305-8397-5d63-9743-93eff5a4d43f@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261123T190000
+DTEND;TZID=Europe/Brussels:20261123T194000
+SUMMARY:AMBITIEUS | Kracht + core · 40 min
+DESCRIPTION:WEEK 3/15 — AMBITIEUS. Geplande tijd: 40 min. Voorstel startu
+ ur: 19:00\; pas zelf aan naar je werkuren. Squat\, hip hinge\, calf raises
+ \, dead bug en heupstabiliteit\; geen spierfalen. Kies per week EEN schema
+ \, tel ze niet op. Motivatie: discipline betekent ook verstandig herstelle
+ n. Train op gevoel en herstel: deze agenda is een planning\, geen bewijs v
+ an marathonparaatheid. Meldingen van geabonneerde agenda’s kunnen door i
+ OS worden genegeerd\; test dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: Kracht + core · 40 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7365f723-042f-55c6-bc52-ca2c7435148a@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261124T070000
+DTEND;TZID=Europe/Brussels:20261124T073000
+SUMMARY:AMBITIEUS | Rustige duurloop · 4 km · ca. 28-32 min
+DESCRIPTION:WEEK 3/15 — AMBITIEUS. Afstand: 4 km. Geschatte rustige loopt
+ ijd: ca. 28-32 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkur
+ en. Praattempo\; loop-wandel mag. Rustiger dan je normale 9-11 km/u is pri
+ ma. Kies per week EEN schema\, tel ze niet op. Motivatie: discipline betek
+ ent ook verstandig herstellen. Train op gevoel en herstel: deze agenda is 
+ een planning\, geen bewijs van marathonparaatheid. Meldingen van geabonnee
+ rde agenda’s kunnen door iOS worden genegeerd\; test dit met een apart i
+ tem.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 4 km · ca. 28-32 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7c796dae-8360-5d88-ba56-5d8a07314652@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261125T190000
+DTEND;TZID=Europe/Brussels:20261125T193000
+SUMMARY:AMBITIEUS | Bovenlichaam + core · 30 min
+DESCRIPTION:WEEK 3/15 — AMBITIEUS. Geplande tijd: 30 min. Voorstel startu
+ ur: 19:00\; pas zelf aan naar je werkuren. Push-ups\, rows\, side planks\,
+  bird dog en mobiliteit. Kies per week EEN schema\, tel ze niet op. Motiva
+ tie: discipline betekent ook verstandig herstellen. Train op gevoel en her
+ stel: deze agenda is een planning\, geen bewijs van marathonparaatheid. Me
+ ldingen van geabonneerde agenda’s kunnen door iOS worden genegeerd\; tes
+ t dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: Bovenlichaam + core · 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f25729d0-360e-57b9-b916-b733e8d00f04@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261126T070000
+DTEND;TZID=Europe/Brussels:20261126T073000
+SUMMARY:AMBITIEUS | Rustige duurloop · 4 km · ca. 28-32 min
+DESCRIPTION:WEEK 3/15 — AMBITIEUS. Afstand: 4 km. Geschatte rustige loopt
+ ijd: ca. 28-32 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkur
+ en. Praattempo. Alleen als je goed hersteld bent mag het laatste deel iets
+  vlotter. Kies per week EEN schema\, tel ze niet op. Motivatie: discipline
+  betekent ook verstandig herstellen. Train op gevoel en herstel: deze agen
+ da is een planning\, geen bewijs van marathonparaatheid. Meldingen van gea
+ bonneerde agenda’s kunnen door iOS worden genegeerd\; test dit met een a
+ part item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 4 km · ca. 28-32 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d225f15b-af84-53ec-ab7a-285e9b8473ce@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261127T180000
+DTEND;TZID=Europe/Brussels:20261127T182000
+SUMMARY:AMBITIEUS | Rust / lichte wandeling · 20 min
+DESCRIPTION:WEEK 3/15 — AMBITIEUS. Geplande tijd: 20 min. Voorstel startu
+ ur: 18:00\; pas zelf aan naar je werkuren. Wandelen is optioneel\; herstel
+  telt mee. Kies per week EEN schema\, tel ze niet op. Motivatie: disciplin
+ e betekent ook verstandig herstellen. Train op gevoel en herstel: deze age
+ nda is een planning\, geen bewijs van marathonparaatheid. Meldingen van ge
+ abonneerde agenda’s kunnen door iOS worden genegeerd\; test dit met een 
+ apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: Rust / lichte wandeling · 20 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5b59bd4e-e978-5340-afa0-38ae6c9fd4f4@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261128T090000
+DTEND;TZID=Europe/Brussels:20261128T091500
+SUMMARY:AMBITIEUS | Herstelloop · 2 km · ca. 14-16 min
+DESCRIPTION:WEEK 3/15 — AMBITIEUS. Afstand: 2 km. Geschatte rustige loopt
+ ijd: ca. 14-16 min. Voorstel startuur: 09:00\; pas zelf aan naar je werkur
+ en. Extra langzaam. Bij vermoeidheid vervangen door rust. Kies per week EE
+ N schema\, tel ze niet op. Motivatie: discipline betekent ook verstandig h
+ erstellen. Train op gevoel en herstel: deze agenda is een planning\, geen 
+ bewijs van marathonparaatheid. Meldingen van geabonneerde agenda’s kunne
+ n door iOS worden genegeerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 2 km · ca. 14-16 min · Herstelloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7abd4ef7-61d3-51ee-bdbf-75ad7c19502e@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261129T090000
+DTEND;TZID=Europe/Brussels:20261129T100800
+SUMMARY:AMBITIEUS | Lange rustige duurloop · 9 km · ca. 63-72 min
+DESCRIPTION:WEEK 3/15 — AMBITIEUS. Afstand: 9 km. Geschatte rustige loopt
+ ijd: ca. 63-72 min. Voorstel startuur: 09:00\; pas zelf aan naar je werkur
+ en. Rustig\, eventueel run-walk. Voeding/drinken oefenen vanaf 75-90 minut
+ en. Max rond 3 uur\; inkorten mag. Kies per week EEN schema\, tel ze niet 
+ op. Motivatie: discipline betekent ook verstandig herstellen. Train op gev
+ oel en herstel: deze agenda is een planning\, geen bewijs van marathonpara
+ atheid. Meldingen van geabonneerde agenda’s kunnen door iOS worden geneg
+ eerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 9 km · ca. 63-72 min · Lange rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bbb67d08-7957-5aa1-9540-d3a727bac1a3@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261130T190000
+DTEND;TZID=Europe/Brussels:20261130T194000
+SUMMARY:AMBITIEUS | Kracht + core · 40 min
+DESCRIPTION:WEEK 4/15 — AMBITIEUS. Geplande tijd: 40 min. Voorstel startu
+ ur: 19:00\; pas zelf aan naar je werkuren. Squat\, hip hinge\, calf raises
+ \, dead bug en heupstabiliteit\; geen spierfalen. Kies per week EEN schema
+ \, tel ze niet op. Motivatie: discipline betekent ook verstandig herstelle
+ n. Train op gevoel en herstel: deze agenda is een planning\, geen bewijs v
+ an marathonparaatheid. Meldingen van geabonneerde agenda’s kunnen door i
+ OS worden genegeerd\; test dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: Kracht + core · 40 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:020f29b3-e3a8-596f-945f-d5ce63b9c24d@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261201T070000
+DTEND;TZID=Europe/Brussels:20261201T072200
+SUMMARY:AMBITIEUS | Rustige duurloop · 3 km · ca. 21-24 min
+DESCRIPTION:WEEK 4/15 — AMBITIEUS. Afstand: 3 km. Geschatte rustige loopt
+ ijd: ca. 21-24 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkur
+ en. Praattempo\; loop-wandel mag. Rustiger dan je normale 9-11 km/u is pri
+ ma. Kies per week EEN schema\, tel ze niet op. Motivatie: discipline betek
+ ent ook verstandig herstellen. Train op gevoel en herstel: deze agenda is 
+ een planning\, geen bewijs van marathonparaatheid. Meldingen van geabonnee
+ rde agenda’s kunnen door iOS worden genegeerd\; test dit met een apart i
+ tem.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 3 km · ca. 21-24 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:15cacfd5-1d5a-5691-97e9-31372a975375@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261202T190000
+DTEND;TZID=Europe/Brussels:20261202T193000
+SUMMARY:AMBITIEUS | Bovenlichaam + core · 30 min
+DESCRIPTION:WEEK 4/15 — AMBITIEUS. Geplande tijd: 30 min. Voorstel startu
+ ur: 19:00\; pas zelf aan naar je werkuren. Push-ups\, rows\, side planks\,
+  bird dog en mobiliteit. Kies per week EEN schema\, tel ze niet op. Motiva
+ tie: discipline betekent ook verstandig herstellen. Train op gevoel en her
+ stel: deze agenda is een planning\, geen bewijs van marathonparaatheid. Me
+ ldingen van geabonneerde agenda’s kunnen door iOS worden genegeerd\; tes
+ t dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: Bovenlichaam + core · 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1a2bf71b-a8ea-517b-b646-77e2d2b58e81@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261203T070000
+DTEND;TZID=Europe/Brussels:20261203T072200
+SUMMARY:AMBITIEUS | Rustige duurloop · 3 km · ca. 21-24 min
+DESCRIPTION:WEEK 4/15 — AMBITIEUS. Afstand: 3 km. Geschatte rustige loopt
+ ijd: ca. 21-24 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkur
+ en. Praattempo. Alleen als je goed hersteld bent mag het laatste deel iets
+  vlotter. Kies per week EEN schema\, tel ze niet op. Motivatie: discipline
+  betekent ook verstandig herstellen. Train op gevoel en herstel: deze agen
+ da is een planning\, geen bewijs van marathonparaatheid. Meldingen van gea
+ bonneerde agenda’s kunnen door iOS worden genegeerd\; test dit met een a
+ part item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 3 km · ca. 21-24 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f423be7f-0b72-52c1-b3e3-fef9f07c07e1@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261204T180000
+DTEND;TZID=Europe/Brussels:20261204T182000
+SUMMARY:AMBITIEUS | Rust / lichte wandeling · 20 min
+DESCRIPTION:WEEK 4/15 — AMBITIEUS. Geplande tijd: 20 min. Voorstel startu
+ ur: 18:00\; pas zelf aan naar je werkuren. Wandelen is optioneel\; herstel
+  telt mee. Kies per week EEN schema\, tel ze niet op. Motivatie: disciplin
+ e betekent ook verstandig herstellen. Train op gevoel en herstel: deze age
+ nda is een planning\, geen bewijs van marathonparaatheid. Meldingen van ge
+ abonneerde agenda’s kunnen door iOS worden genegeerd\; test dit met een 
+ apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: Rust / lichte wandeling · 20 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20cf3970-472e-500d-b579-83d37970919d@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261205T090000
+DTEND;TZID=Europe/Brussels:20261205T091500
+SUMMARY:AMBITIEUS | Herstelloop · 2 km · ca. 14-16 min
+DESCRIPTION:WEEK 4/15 — AMBITIEUS. Afstand: 2 km. Geschatte rustige loopt
+ ijd: ca. 14-16 min. Voorstel startuur: 09:00\; pas zelf aan naar je werkur
+ en. Extra langzaam. Bij vermoeidheid vervangen door rust. Kies per week EE
+ N schema\, tel ze niet op. Motivatie: discipline betekent ook verstandig h
+ erstellen. Train op gevoel en herstel: deze agenda is een planning\, geen 
+ bewijs van marathonparaatheid. Meldingen van geabonneerde agenda’s kunne
+ n door iOS worden genegeerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 2 km · ca. 14-16 min · Herstelloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dd772860-19ba-51bc-9743-0f11915a4502@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261206T090000
+DTEND;TZID=Europe/Brussels:20261206T095200
+SUMMARY:AMBITIEUS | Lange rustige duurloop · 7 km · ca. 49-56 min
+DESCRIPTION:WEEK 4/15 — AMBITIEUS. Afstand: 7 km. Geschatte rustige loopt
+ ijd: ca. 49-56 min. Voorstel startuur: 09:00\; pas zelf aan naar je werkur
+ en. Rustig\, eventueel run-walk. Voeding/drinken oefenen vanaf 75-90 minut
+ en. Max rond 3 uur\; inkorten mag. Kies per week EEN schema\, tel ze niet 
+ op. Motivatie: discipline betekent ook verstandig herstellen. Train op gev
+ oel en herstel: deze agenda is een planning\, geen bewijs van marathonpara
+ atheid. Meldingen van geabonneerde agenda’s kunnen door iOS worden geneg
+ eerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 7 km · ca. 49-56 min · Lange rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63ab892c-fb83-5267-aa98-836215abfc17@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261207T190000
+DTEND;TZID=Europe/Brussels:20261207T194000
+SUMMARY:AMBITIEUS | Kracht + core · 40 min
+DESCRIPTION:WEEK 5/15 — AMBITIEUS. Geplande tijd: 40 min. Voorstel startu
+ ur: 19:00\; pas zelf aan naar je werkuren. Squat\, hip hinge\, calf raises
+ \, dead bug en heupstabiliteit\; geen spierfalen. Kies per week EEN schema
+ \, tel ze niet op. Motivatie: discipline betekent ook verstandig herstelle
+ n. Train op gevoel en herstel: deze agenda is een planning\, geen bewijs v
+ an marathonparaatheid. Meldingen van geabonneerde agenda’s kunnen door i
+ OS worden genegeerd\; test dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: Kracht + core · 40 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bbc5c94a-b2d1-5d17-9396-f6f2b3b6a508@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261208T070000
+DTEND;TZID=Europe/Brussels:20261208T073000
+SUMMARY:AMBITIEUS | Rustige duurloop · 4 km · ca. 28-32 min
+DESCRIPTION:WEEK 5/15 — AMBITIEUS. Afstand: 4 km. Geschatte rustige loopt
+ ijd: ca. 28-32 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkur
+ en. Praattempo\; loop-wandel mag. Rustiger dan je normale 9-11 km/u is pri
+ ma. Kies per week EEN schema\, tel ze niet op. Motivatie: discipline betek
+ ent ook verstandig herstellen. Train op gevoel en herstel: deze agenda is 
+ een planning\, geen bewijs van marathonparaatheid. Meldingen van geabonnee
+ rde agenda’s kunnen door iOS worden genegeerd\; test dit met een apart i
+ tem.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 4 km · ca. 28-32 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:25892693-aabc-519c-a306-e7c13ec56cef@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261209T190000
+DTEND;TZID=Europe/Brussels:20261209T193000
+SUMMARY:AMBITIEUS | Bovenlichaam + core · 30 min
+DESCRIPTION:WEEK 5/15 — AMBITIEUS. Geplande tijd: 30 min. Voorstel startu
+ ur: 19:00\; pas zelf aan naar je werkuren. Push-ups\, rows\, side planks\,
+  bird dog en mobiliteit. Kies per week EEN schema\, tel ze niet op. Motiva
+ tie: discipline betekent ook verstandig herstellen. Train op gevoel en her
+ stel: deze agenda is een planning\, geen bewijs van marathonparaatheid. Me
+ ldingen van geabonneerde agenda’s kunnen door iOS worden genegeerd\; tes
+ t dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: Bovenlichaam + core · 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:46420d53-cef6-5239-92c8-fa654ab94b80@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261210T070000
+DTEND;TZID=Europe/Brussels:20261210T073800
+SUMMARY:AMBITIEUS | Rustige duurloop · 5 km · ca. 35-40 min
+DESCRIPTION:WEEK 5/15 — AMBITIEUS. Afstand: 5 km. Geschatte rustige loopt
+ ijd: ca. 35-40 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkur
+ en. Praattempo. Alleen als je goed hersteld bent mag het laatste deel iets
+  vlotter. Kies per week EEN schema\, tel ze niet op. Motivatie: discipline
+  betekent ook verstandig herstellen. Train op gevoel en herstel: deze agen
+ da is een planning\, geen bewijs van marathonparaatheid. Meldingen van gea
+ bonneerde agenda’s kunnen door iOS worden genegeerd\; test dit met een a
+ part item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 5 km · ca. 35-40 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10a7d0bc-a94d-5da8-970d-f721fd0077e2@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261211T180000
+DTEND;TZID=Europe/Brussels:20261211T182000
+SUMMARY:AMBITIEUS | Rust / lichte wandeling · 20 min
+DESCRIPTION:WEEK 5/15 — AMBITIEUS. Geplande tijd: 20 min. Voorstel startu
+ ur: 18:00\; pas zelf aan naar je werkuren. Wandelen is optioneel\; herstel
+  telt mee. Kies per week EEN schema\, tel ze niet op. Motivatie: disciplin
+ e betekent ook verstandig herstellen. Train op gevoel en herstel: deze age
+ nda is een planning\, geen bewijs van marathonparaatheid. Meldingen van ge
+ abonneerde agenda’s kunnen door iOS worden genegeerd\; test dit met een 
+ apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: Rust / lichte wandeling · 20 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:da81d1f7-3809-561d-a27e-0a2632eb3611@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261212T090000
+DTEND;TZID=Europe/Brussels:20261212T092200
+SUMMARY:AMBITIEUS | Herstelloop · 3 km · ca. 21-24 min
+DESCRIPTION:WEEK 5/15 — AMBITIEUS. Afstand: 3 km. Geschatte rustige loopt
+ ijd: ca. 21-24 min. Voorstel startuur: 09:00\; pas zelf aan naar je werkur
+ en. Extra langzaam. Bij vermoeidheid vervangen door rust. Kies per week EE
+ N schema\, tel ze niet op. Motivatie: discipline betekent ook verstandig h
+ erstellen. Train op gevoel en herstel: deze agenda is een planning\, geen 
+ bewijs van marathonparaatheid. Meldingen van geabonneerde agenda’s kunne
+ n door iOS worden genegeerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 3 km · ca. 21-24 min · Herstelloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:82afb4fc-a6ab-58f9-9dc0-4aa38b7e52be@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261213T090000
+DTEND;TZID=Europe/Brussels:20261213T102200
+SUMMARY:AMBITIEUS | Lange rustige duurloop · 11 km · ca. 77-88 min
+DESCRIPTION:WEEK 5/15 — AMBITIEUS. Afstand: 11 km. Geschatte rustige loop
+ tijd: ca. 77-88 min. Voorstel startuur: 09:00\; pas zelf aan naar je werku
+ ren. Rustig\, eventueel run-walk. Voeding/drinken oefenen vanaf 75-90 minu
+ ten. Max rond 3 uur\; inkorten mag. Kies per week EEN schema\, tel ze niet
+  op. Motivatie: discipline betekent ook verstandig herstellen. Train op ge
+ voel en herstel: deze agenda is een planning\, geen bewijs van marathonpar
+ aatheid. Meldingen van geabonneerde agenda’s kunnen door iOS worden gene
+ geerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 11 km · ca. 77-88 min · Lange rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:28522b37-3d6b-5b15-9d05-6daee527cc8a@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261214T190000
+DTEND;TZID=Europe/Brussels:20261214T194000
+SUMMARY:AMBITIEUS | Kracht + core · 40 min
+DESCRIPTION:WEEK 6/15 — AMBITIEUS. Geplande tijd: 40 min. Voorstel startu
+ ur: 19:00\; pas zelf aan naar je werkuren. Squat\, hip hinge\, calf raises
+ \, dead bug en heupstabiliteit\; geen spierfalen. Kies per week EEN schema
+ \, tel ze niet op. Motivatie: discipline betekent ook verstandig herstelle
+ n. Train op gevoel en herstel: deze agenda is een planning\, geen bewijs v
+ an marathonparaatheid. Meldingen van geabonneerde agenda’s kunnen door i
+ OS worden genegeerd\; test dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: Kracht + core · 40 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:07df9b6d-38b6-517a-8a9d-dd393a6ec289@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261215T070000
+DTEND;TZID=Europe/Brussels:20261215T073000
+SUMMARY:AMBITIEUS | Rustige duurloop · 4 km · ca. 28-32 min
+DESCRIPTION:WEEK 6/15 — AMBITIEUS. Afstand: 4 km. Geschatte rustige loopt
+ ijd: ca. 28-32 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkur
+ en. Praattempo\; loop-wandel mag. Rustiger dan je normale 9-11 km/u is pri
+ ma. Kies per week EEN schema\, tel ze niet op. Motivatie: discipline betek
+ ent ook verstandig herstellen. Train op gevoel en herstel: deze agenda is 
+ een planning\, geen bewijs van marathonparaatheid. Meldingen van geabonnee
+ rde agenda’s kunnen door iOS worden genegeerd\; test dit met een apart i
+ tem.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 4 km · ca. 28-32 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6ea029e1-dd29-573d-935c-80978a906ffe@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261216T190000
+DTEND;TZID=Europe/Brussels:20261216T193000
+SUMMARY:AMBITIEUS | Bovenlichaam + core · 30 min
+DESCRIPTION:WEEK 6/15 — AMBITIEUS. Geplande tijd: 30 min. Voorstel startu
+ ur: 19:00\; pas zelf aan naar je werkuren. Push-ups\, rows\, side planks\,
+  bird dog en mobiliteit. Kies per week EEN schema\, tel ze niet op. Motiva
+ tie: discipline betekent ook verstandig herstellen. Train op gevoel en her
+ stel: deze agenda is een planning\, geen bewijs van marathonparaatheid. Me
+ ldingen van geabonneerde agenda’s kunnen door iOS worden genegeerd\; tes
+ t dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: Bovenlichaam + core · 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a360d119-86ce-5db4-a84d-80fb8d004c0a@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261217T070000
+DTEND;TZID=Europe/Brussels:20261217T073800
+SUMMARY:AMBITIEUS | Rustige duurloop · 5 km · ca. 35-40 min
+DESCRIPTION:WEEK 6/15 — AMBITIEUS. Afstand: 5 km. Geschatte rustige loopt
+ ijd: ca. 35-40 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkur
+ en. Praattempo. Alleen als je goed hersteld bent mag het laatste deel iets
+  vlotter. Kies per week EEN schema\, tel ze niet op. Motivatie: discipline
+  betekent ook verstandig herstellen. Train op gevoel en herstel: deze agen
+ da is een planning\, geen bewijs van marathonparaatheid. Meldingen van gea
+ bonneerde agenda’s kunnen door iOS worden genegeerd\; test dit met een a
+ part item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 5 km · ca. 35-40 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f110c33f-6c60-53dc-be0e-d88fc016bb95@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261218T180000
+DTEND;TZID=Europe/Brussels:20261218T182000
+SUMMARY:AMBITIEUS | Rust / lichte wandeling · 20 min
+DESCRIPTION:WEEK 6/15 — AMBITIEUS. Geplande tijd: 20 min. Voorstel startu
+ ur: 18:00\; pas zelf aan naar je werkuren. Wandelen is optioneel\; herstel
+  telt mee. Kies per week EEN schema\, tel ze niet op. Motivatie: disciplin
+ e betekent ook verstandig herstellen. Train op gevoel en herstel: deze age
+ nda is een planning\, geen bewijs van marathonparaatheid. Meldingen van ge
+ abonneerde agenda’s kunnen door iOS worden genegeerd\; test dit met een 
+ apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: Rust / lichte wandeling · 20 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6d19ecd1-ddca-5930-8b76-b282f65648be@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261219T090000
+DTEND;TZID=Europe/Brussels:20261219T092200
+SUMMARY:AMBITIEUS | Herstelloop · 3 km · ca. 21-24 min
+DESCRIPTION:WEEK 6/15 — AMBITIEUS. Afstand: 3 km. Geschatte rustige loopt
+ ijd: ca. 21-24 min. Voorstel startuur: 09:00\; pas zelf aan naar je werkur
+ en. Extra langzaam. Bij vermoeidheid vervangen door rust. Kies per week EE
+ N schema\, tel ze niet op. Motivatie: discipline betekent ook verstandig h
+ erstellen. Train op gevoel en herstel: deze agenda is een planning\, geen 
+ bewijs van marathonparaatheid. Meldingen van geabonneerde agenda’s kunne
+ n door iOS worden genegeerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 3 km · ca. 21-24 min · Herstelloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:238023fa-2892-5259-b858-441ed1f6770f@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261220T090000
+DTEND;TZID=Europe/Brussels:20261220T103000
+SUMMARY:AMBITIEUS | Lange rustige duurloop · 12 km · ca. 84-96 min
+DESCRIPTION:WEEK 6/15 — AMBITIEUS. Afstand: 12 km. Geschatte rustige loop
+ tijd: ca. 84-96 min. Voorstel startuur: 09:00\; pas zelf aan naar je werku
+ ren. Rustig\, eventueel run-walk. Voeding/drinken oefenen vanaf 75-90 minu
+ ten. Max rond 3 uur\; inkorten mag. Kies per week EEN schema\, tel ze niet
+  op. Motivatie: discipline betekent ook verstandig herstellen. Train op ge
+ voel en herstel: deze agenda is een planning\, geen bewijs van marathonpar
+ aatheid. Meldingen van geabonneerde agenda’s kunnen door iOS worden gene
+ geerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 12 km · ca. 84-96 min · Lange rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:60fb818f-f487-5ec1-a480-77ad7c6f39c4@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261221T190000
+DTEND;TZID=Europe/Brussels:20261221T194000
+SUMMARY:AMBITIEUS | Kracht + core · 40 min
+DESCRIPTION:WEEK 7/15 — AMBITIEUS. Geplande tijd: 40 min. Voorstel startu
+ ur: 19:00\; pas zelf aan naar je werkuren. Squat\, hip hinge\, calf raises
+ \, dead bug en heupstabiliteit\; geen spierfalen. Kies per week EEN schema
+ \, tel ze niet op. Motivatie: discipline betekent ook verstandig herstelle
+ n. Train op gevoel en herstel: deze agenda is een planning\, geen bewijs v
+ an marathonparaatheid. Meldingen van geabonneerde agenda’s kunnen door i
+ OS worden genegeerd\; test dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: Kracht + core · 40 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3e0abe60-0a79-5815-863e-eee8743d31a4@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261222T070000
+DTEND;TZID=Europe/Brussels:20261222T073800
+SUMMARY:AMBITIEUS | Rustige duurloop · 5 km · ca. 35-40 min
+DESCRIPTION:WEEK 7/15 — AMBITIEUS. Afstand: 5 km. Geschatte rustige loopt
+ ijd: ca. 35-40 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkur
+ en. Praattempo\; loop-wandel mag. Rustiger dan je normale 9-11 km/u is pri
+ ma. Kies per week EEN schema\, tel ze niet op. Motivatie: discipline betek
+ ent ook verstandig herstellen. Train op gevoel en herstel: deze agenda is 
+ een planning\, geen bewijs van marathonparaatheid. Meldingen van geabonnee
+ rde agenda’s kunnen door iOS worden genegeerd\; test dit met een apart i
+ tem.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 5 km · ca. 35-40 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79cc5fa6-664a-5b6d-bf59-85322e5e0375@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261223T190000
+DTEND;TZID=Europe/Brussels:20261223T193000
+SUMMARY:AMBITIEUS | Bovenlichaam + core · 30 min
+DESCRIPTION:WEEK 7/15 — AMBITIEUS. Geplande tijd: 30 min. Voorstel startu
+ ur: 19:00\; pas zelf aan naar je werkuren. Push-ups\, rows\, side planks\,
+  bird dog en mobiliteit. Kies per week EEN schema\, tel ze niet op. Motiva
+ tie: discipline betekent ook verstandig herstellen. Train op gevoel en her
+ stel: deze agenda is een planning\, geen bewijs van marathonparaatheid. Me
+ ldingen van geabonneerde agenda’s kunnen door iOS worden genegeerd\; tes
+ t dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: Bovenlichaam + core · 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a1af4817-03a4-5bd8-8929-1fa814ea59a4@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261224T070000
+DTEND;TZID=Europe/Brussels:20261224T073800
+SUMMARY:AMBITIEUS | Rustige duurloop · 5 km · ca. 35-40 min
+DESCRIPTION:WEEK 7/15 — AMBITIEUS. Afstand: 5 km. Geschatte rustige loopt
+ ijd: ca. 35-40 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkur
+ en. Praattempo. Alleen als je goed hersteld bent mag het laatste deel iets
+  vlotter. Kies per week EEN schema\, tel ze niet op. Motivatie: discipline
+  betekent ook verstandig herstellen. Train op gevoel en herstel: deze agen
+ da is een planning\, geen bewijs van marathonparaatheid. Meldingen van gea
+ bonneerde agenda’s kunnen door iOS worden genegeerd\; test dit met een a
+ part item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 5 km · ca. 35-40 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5f7a5eb1-13f9-5776-95b8-f5a432ecf2e3@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261225T180000
+DTEND;TZID=Europe/Brussels:20261225T182000
+SUMMARY:AMBITIEUS | Rust / lichte wandeling · 20 min
+DESCRIPTION:WEEK 7/15 — AMBITIEUS. Geplande tijd: 20 min. Voorstel startu
+ ur: 18:00\; pas zelf aan naar je werkuren. Wandelen is optioneel\; herstel
+  telt mee. Kies per week EEN schema\, tel ze niet op. Motivatie: disciplin
+ e betekent ook verstandig herstellen. Train op gevoel en herstel: deze age
+ nda is een planning\, geen bewijs van marathonparaatheid. Meldingen van ge
+ abonneerde agenda’s kunnen door iOS worden genegeerd\; test dit met een 
+ apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: Rust / lichte wandeling · 20 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:111dac71-2da8-5629-86d1-089e81f8bab7@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261226T090000
+DTEND;TZID=Europe/Brussels:20261226T092200
+SUMMARY:AMBITIEUS | Herstelloop · 3 km · ca. 21-24 min
+DESCRIPTION:WEEK 7/15 — AMBITIEUS. Afstand: 3 km. Geschatte rustige loopt
+ ijd: ca. 21-24 min. Voorstel startuur: 09:00\; pas zelf aan naar je werkur
+ en. Extra langzaam. Bij vermoeidheid vervangen door rust. Kies per week EE
+ N schema\, tel ze niet op. Motivatie: discipline betekent ook verstandig h
+ erstellen. Train op gevoel en herstel: deze agenda is een planning\, geen 
+ bewijs van marathonparaatheid. Meldingen van geabonneerde agenda’s kunne
+ n door iOS worden genegeerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 3 km · ca. 21-24 min · Herstelloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:529730c0-f043-5300-a82f-538d9d7c584f@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261227T090000
+DTEND;TZID=Europe/Brussels:20261227T103800
+SUMMARY:AMBITIEUS | Lange rustige duurloop · 13 km · ca. 91-104 min
+DESCRIPTION:WEEK 7/15 — AMBITIEUS. Afstand: 13 km. Geschatte rustige loop
+ tijd: ca. 91-104 min. Voorstel startuur: 09:00\; pas zelf aan naar je werk
+ uren. Rustig\, eventueel run-walk. Voeding/drinken oefenen vanaf 75-90 min
+ uten. Max rond 3 uur\; inkorten mag. Kies per week EEN schema\, tel ze nie
+ t op. Motivatie: discipline betekent ook verstandig herstellen. Train op g
+ evoel en herstel: deze agenda is een planning\, geen bewijs van marathonpa
+ raatheid. Meldingen van geabonneerde agenda’s kunnen door iOS worden gen
+ egeerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 13 km · ca. 91-104 min · Lange rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b3307860-ec7a-5c4d-9ef9-57ab7d4b35a6@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261228T190000
+DTEND;TZID=Europe/Brussels:20261228T194000
+SUMMARY:AMBITIEUS | Kracht + core · 40 min
+DESCRIPTION:WEEK 8/15 — AMBITIEUS. Geplande tijd: 40 min. Voorstel startu
+ ur: 19:00\; pas zelf aan naar je werkuren. Squat\, hip hinge\, calf raises
+ \, dead bug en heupstabiliteit\; geen spierfalen. Kies per week EEN schema
+ \, tel ze niet op. Motivatie: discipline betekent ook verstandig herstelle
+ n. Train op gevoel en herstel: deze agenda is een planning\, geen bewijs v
+ an marathonparaatheid. Meldingen van geabonneerde agenda’s kunnen door i
+ OS worden genegeerd\; test dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: Kracht + core · 40 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4aa6d5eb-505d-59f6-9f67-daec879b011b@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261229T070000
+DTEND;TZID=Europe/Brussels:20261229T073000
+SUMMARY:AMBITIEUS | Rustige duurloop · 4 km · ca. 28-32 min
+DESCRIPTION:WEEK 8/15 — AMBITIEUS. Afstand: 4 km. Geschatte rustige loopt
+ ijd: ca. 28-32 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkur
+ en. Praattempo\; loop-wandel mag. Rustiger dan je normale 9-11 km/u is pri
+ ma. Kies per week EEN schema\, tel ze niet op. Motivatie: discipline betek
+ ent ook verstandig herstellen. Train op gevoel en herstel: deze agenda is 
+ een planning\, geen bewijs van marathonparaatheid. Meldingen van geabonnee
+ rde agenda’s kunnen door iOS worden genegeerd\; test dit met een apart i
+ tem.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 4 km · ca. 28-32 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3908f4a7-7bb6-5468-b1f7-a08dd3d3190c@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261230T190000
+DTEND;TZID=Europe/Brussels:20261230T193000
+SUMMARY:AMBITIEUS | Bovenlichaam + core · 30 min
+DESCRIPTION:WEEK 8/15 — AMBITIEUS. Geplande tijd: 30 min. Voorstel startu
+ ur: 19:00\; pas zelf aan naar je werkuren. Push-ups\, rows\, side planks\,
+  bird dog en mobiliteit. Kies per week EEN schema\, tel ze niet op. Motiva
+ tie: discipline betekent ook verstandig herstellen. Train op gevoel en her
+ stel: deze agenda is een planning\, geen bewijs van marathonparaatheid. Me
+ ldingen van geabonneerde agenda’s kunnen door iOS worden genegeerd\; tes
+ t dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: Bovenlichaam + core · 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7066355b-e071-5f03-93e8-c4a62b0719f5@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20261231T070000
+DTEND;TZID=Europe/Brussels:20261231T073000
+SUMMARY:AMBITIEUS | Rustige duurloop · 4 km · ca. 28-32 min
+DESCRIPTION:WEEK 8/15 — AMBITIEUS. Afstand: 4 km. Geschatte rustige loopt
+ ijd: ca. 28-32 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkur
+ en. Praattempo. Alleen als je goed hersteld bent mag het laatste deel iets
+  vlotter. Kies per week EEN schema\, tel ze niet op. Motivatie: discipline
+  betekent ook verstandig herstellen. Train op gevoel en herstel: deze agen
+ da is een planning\, geen bewijs van marathonparaatheid. Meldingen van gea
+ bonneerde agenda’s kunnen door iOS worden genegeerd\; test dit met een a
+ part item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 4 km · ca. 28-32 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d434f967-7de7-57b9-ab6a-e7323ee8965b@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270101T180000
+DTEND;TZID=Europe/Brussels:20270101T182000
+SUMMARY:AMBITIEUS | Rust / lichte wandeling · 20 min
+DESCRIPTION:WEEK 8/15 — AMBITIEUS. Geplande tijd: 20 min. Voorstel startu
+ ur: 18:00\; pas zelf aan naar je werkuren. Wandelen is optioneel\; herstel
+  telt mee. Kies per week EEN schema\, tel ze niet op. Motivatie: disciplin
+ e betekent ook verstandig herstellen. Train op gevoel en herstel: deze age
+ nda is een planning\, geen bewijs van marathonparaatheid. Meldingen van ge
+ abonneerde agenda’s kunnen door iOS worden genegeerd\; test dit met een 
+ apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: Rust / lichte wandeling · 20 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4814f475-1aad-51ca-b89c-62ce1e15dd68@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270102T090000
+DTEND;TZID=Europe/Brussels:20270102T091500
+SUMMARY:AMBITIEUS | Herstelloop · 2 km · ca. 14-16 min
+DESCRIPTION:WEEK 8/15 — AMBITIEUS. Afstand: 2 km. Geschatte rustige loopt
+ ijd: ca. 14-16 min. Voorstel startuur: 09:00\; pas zelf aan naar je werkur
+ en. Extra langzaam. Bij vermoeidheid vervangen door rust. Kies per week EE
+ N schema\, tel ze niet op. Motivatie: discipline betekent ook verstandig h
+ erstellen. Train op gevoel en herstel: deze agenda is een planning\, geen 
+ bewijs van marathonparaatheid. Meldingen van geabonneerde agenda’s kunne
+ n door iOS worden genegeerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 2 km · ca. 14-16 min · Herstelloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d9fb614a-92cd-5882-b257-3f222c8ba03f@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270103T090000
+DTEND;TZID=Europe/Brussels:20270103T101500
+SUMMARY:AMBITIEUS | Lange rustige duurloop · 10 km · ca. 70-80 min
+DESCRIPTION:WEEK 8/15 — AMBITIEUS. Afstand: 10 km. Geschatte rustige loop
+ tijd: ca. 70-80 min. Voorstel startuur: 09:00\; pas zelf aan naar je werku
+ ren. Rustig\, eventueel run-walk. Voeding/drinken oefenen vanaf 75-90 minu
+ ten. Max rond 3 uur\; inkorten mag. Kies per week EEN schema\, tel ze niet
+  op. Motivatie: discipline betekent ook verstandig herstellen. Train op ge
+ voel en herstel: deze agenda is een planning\, geen bewijs van marathonpar
+ aatheid. Meldingen van geabonneerde agenda’s kunnen door iOS worden gene
+ geerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 10 km · ca. 70-80 min · Lange rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fbe7a00b-718b-52ef-8625-1c274b8123e8@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270104T190000
+DTEND;TZID=Europe/Brussels:20270104T194000
+SUMMARY:AMBITIEUS | Kracht + core · 40 min
+DESCRIPTION:WEEK 9/15 — AMBITIEUS. Geplande tijd: 40 min. Voorstel startu
+ ur: 19:00\; pas zelf aan naar je werkuren. Squat\, hip hinge\, calf raises
+ \, dead bug en heupstabiliteit\; geen spierfalen. Kies per week EEN schema
+ \, tel ze niet op. Motivatie: discipline betekent ook verstandig herstelle
+ n. Train op gevoel en herstel: deze agenda is een planning\, geen bewijs v
+ an marathonparaatheid. Meldingen van geabonneerde agenda’s kunnen door i
+ OS worden genegeerd\; test dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: Kracht + core · 40 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3f41f901-5dc2-56bd-a789-745681ff6e8f@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270105T070000
+DTEND;TZID=Europe/Brussels:20270105T073800
+SUMMARY:AMBITIEUS | Rustige duurloop · 5 km · ca. 35-40 min
+DESCRIPTION:WEEK 9/15 — AMBITIEUS. Afstand: 5 km. Geschatte rustige loopt
+ ijd: ca. 35-40 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkur
+ en. Praattempo\; loop-wandel mag. Rustiger dan je normale 9-11 km/u is pri
+ ma. Kies per week EEN schema\, tel ze niet op. Motivatie: discipline betek
+ ent ook verstandig herstellen. Train op gevoel en herstel: deze agenda is 
+ een planning\, geen bewijs van marathonparaatheid. Meldingen van geabonnee
+ rde agenda’s kunnen door iOS worden genegeerd\; test dit met een apart i
+ tem.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 5 km · ca. 35-40 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:34b6dfac-cf19-59db-b21b-b8572b043e03@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270106T190000
+DTEND;TZID=Europe/Brussels:20270106T193000
+SUMMARY:AMBITIEUS | Bovenlichaam + core · 30 min
+DESCRIPTION:WEEK 9/15 — AMBITIEUS. Geplande tijd: 30 min. Voorstel startu
+ ur: 19:00\; pas zelf aan naar je werkuren. Push-ups\, rows\, side planks\,
+  bird dog en mobiliteit. Kies per week EEN schema\, tel ze niet op. Motiva
+ tie: discipline betekent ook verstandig herstellen. Train op gevoel en her
+ stel: deze agenda is een planning\, geen bewijs van marathonparaatheid. Me
+ ldingen van geabonneerde agenda’s kunnen door iOS worden genegeerd\; tes
+ t dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: Bovenlichaam + core · 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d478ee44-2fc3-51b8-b241-bbe8091c7a5b@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270107T070000
+DTEND;TZID=Europe/Brussels:20270107T074500
+SUMMARY:AMBITIEUS | Rustige duurloop · 6 km · ca. 42-48 min
+DESCRIPTION:WEEK 9/15 — AMBITIEUS. Afstand: 6 km. Geschatte rustige loopt
+ ijd: ca. 42-48 min. Voorstel startuur: 07:00\; pas zelf aan naar je werkur
+ en. Praattempo. Alleen als je goed hersteld bent mag het laatste deel iets
+  vlotter. Kies per week EEN schema\, tel ze niet op. Motivatie: discipline
+  betekent ook verstandig herstellen. Train op gevoel en herstel: deze agen
+ da is een planning\, geen bewijs van marathonparaatheid. Meldingen van gea
+ bonneerde agenda’s kunnen door iOS worden genegeerd\; test dit met een a
+ part item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 6 km · ca. 42-48 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9f350a1a-414a-546d-ac02-a6ed2c8e37c9@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270108T180000
+DTEND;TZID=Europe/Brussels:20270108T182000
+SUMMARY:AMBITIEUS | Rust / lichte wandeling · 20 min
+DESCRIPTION:WEEK 9/15 — AMBITIEUS. Geplande tijd: 20 min. Voorstel startu
+ ur: 18:00\; pas zelf aan naar je werkuren. Wandelen is optioneel\; herstel
+  telt mee. Kies per week EEN schema\, tel ze niet op. Motivatie: disciplin
+ e betekent ook verstandig herstellen. Train op gevoel en herstel: deze age
+ nda is een planning\, geen bewijs van marathonparaatheid. Meldingen van ge
+ abonneerde agenda’s kunnen door iOS worden genegeerd\; test dit met een 
+ apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: Rust / lichte wandeling · 20 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:42533aa1-6289-5a20-98d0-9d2f80389b70@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270109T090000
+DTEND;TZID=Europe/Brussels:20270109T092200
+SUMMARY:AMBITIEUS | Herstelloop · 3 km · ca. 21-24 min
+DESCRIPTION:WEEK 9/15 — AMBITIEUS. Afstand: 3 km. Geschatte rustige loopt
+ ijd: ca. 21-24 min. Voorstel startuur: 09:00\; pas zelf aan naar je werkur
+ en. Extra langzaam. Bij vermoeidheid vervangen door rust. Kies per week EE
+ N schema\, tel ze niet op. Motivatie: discipline betekent ook verstandig h
+ erstellen. Train op gevoel en herstel: deze agenda is een planning\, geen 
+ bewijs van marathonparaatheid. Meldingen van geabonneerde agenda’s kunne
+ n door iOS worden genegeerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 3 km · ca. 21-24 min · Herstelloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:674e1169-22a2-536f-adf7-b6a50d40376c@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270110T090000
+DTEND;TZID=Europe/Brussels:20270110T105200
+SUMMARY:AMBITIEUS | Lange rustige duurloop · 15 km · ca. 105-120 min
+DESCRIPTION:WEEK 9/15 — AMBITIEUS. Afstand: 15 km. Geschatte rustige loop
+ tijd: ca. 105-120 min. Voorstel startuur: 09:00\; pas zelf aan naar je wer
+ kuren. Rustig\, eventueel run-walk. Voeding/drinken oefenen vanaf 75-90 mi
+ nuten. Max rond 3 uur\; inkorten mag. Kies per week EEN schema\, tel ze ni
+ et op. Motivatie: discipline betekent ook verstandig herstellen. Train op 
+ gevoel en herstel: deze agenda is een planning\, geen bewijs van marathonp
+ araatheid. Meldingen van geabonneerde agenda’s kunnen door iOS worden ge
+ negeerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 15 km · ca. 105-120 min · Lange rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d982fc6b-4d0d-575e-8fa7-cb6e6b4419a0@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270111T190000
+DTEND;TZID=Europe/Brussels:20270111T194000
+SUMMARY:AMBITIEUS | Kracht + core · 40 min
+DESCRIPTION:WEEK 10/15 — AMBITIEUS. Geplande tijd: 40 min. Voorstel start
+ uur: 19:00\; pas zelf aan naar je werkuren. Squat\, hip hinge\, calf raise
+ s\, dead bug en heupstabiliteit\; geen spierfalen. Kies per week EEN schem
+ a\, tel ze niet op. Motivatie: discipline betekent ook verstandig herstell
+ en. Train op gevoel en herstel: deze agenda is een planning\, geen bewijs 
+ van marathonparaatheid. Meldingen van geabonneerde agenda’s kunnen door 
+ iOS worden genegeerd\; test dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: Kracht + core · 40 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d9141979-3303-55da-9293-51c36cff56f8@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270112T070000
+DTEND;TZID=Europe/Brussels:20270112T073800
+SUMMARY:AMBITIEUS | Rustige duurloop · 5 km · ca. 35-40 min
+DESCRIPTION:WEEK 10/15 — AMBITIEUS. Afstand: 5 km. Geschatte rustige loop
+ tijd: ca. 35-40 min. Voorstel startuur: 07:00\; pas zelf aan naar je werku
+ ren. Praattempo\; loop-wandel mag. Rustiger dan je normale 9-11 km/u is pr
+ ima. Kies per week EEN schema\, tel ze niet op. Motivatie: discipline bete
+ kent ook verstandig herstellen. Train op gevoel en herstel: deze agenda is
+  een planning\, geen bewijs van marathonparaatheid. Meldingen van geabonne
+ erde agenda’s kunnen door iOS worden genegeerd\; test dit met een apart 
+ item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 5 km · ca. 35-40 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:94514b82-3d36-5c9a-a239-676e56e26737@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270113T190000
+DTEND;TZID=Europe/Brussels:20270113T193000
+SUMMARY:AMBITIEUS | Bovenlichaam + core · 30 min
+DESCRIPTION:WEEK 10/15 — AMBITIEUS. Geplande tijd: 30 min. Voorstel start
+ uur: 19:00\; pas zelf aan naar je werkuren. Push-ups\, rows\, side planks\
+ , bird dog en mobiliteit. Kies per week EEN schema\, tel ze niet op. Motiv
+ atie: discipline betekent ook verstandig herstellen. Train op gevoel en he
+ rstel: deze agenda is een planning\, geen bewijs van marathonparaatheid. M
+ eldingen van geabonneerde agenda’s kunnen door iOS worden genegeerd\; te
+ st dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: Bovenlichaam + core · 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10457352-3d39-59cc-9199-72313e7eb621@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270114T070000
+DTEND;TZID=Europe/Brussels:20270114T074500
+SUMMARY:AMBITIEUS | Rustige duurloop · 6 km · ca. 42-48 min
+DESCRIPTION:WEEK 10/15 — AMBITIEUS. Afstand: 6 km. Geschatte rustige loop
+ tijd: ca. 42-48 min. Voorstel startuur: 07:00\; pas zelf aan naar je werku
+ ren. Praattempo. Alleen als je goed hersteld bent mag het laatste deel iet
+ s vlotter. Kies per week EEN schema\, tel ze niet op. Motivatie: disciplin
+ e betekent ook verstandig herstellen. Train op gevoel en herstel: deze age
+ nda is een planning\, geen bewijs van marathonparaatheid. Meldingen van ge
+ abonneerde agenda’s kunnen door iOS worden genegeerd\; test dit met een 
+ apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 6 km · ca. 42-48 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:22a10615-1c91-57f4-a910-10614b64a458@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270115T180000
+DTEND;TZID=Europe/Brussels:20270115T182000
+SUMMARY:AMBITIEUS | Rust / lichte wandeling · 20 min
+DESCRIPTION:WEEK 10/15 — AMBITIEUS. Geplande tijd: 20 min. Voorstel start
+ uur: 18:00\; pas zelf aan naar je werkuren. Wandelen is optioneel\; herste
+ l telt mee. Kies per week EEN schema\, tel ze niet op. Motivatie: discipli
+ ne betekent ook verstandig herstellen. Train op gevoel en herstel: deze ag
+ enda is een planning\, geen bewijs van marathonparaatheid. Meldingen van g
+ eabonneerde agenda’s kunnen door iOS worden genegeerd\; test dit met een
+  apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: Rust / lichte wandeling · 20 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:40ca63c5-3cfe-526a-a317-4ab7883933d1@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270116T090000
+DTEND;TZID=Europe/Brussels:20270116T093000
+SUMMARY:AMBITIEUS | Herstelloop · 4 km · ca. 28-32 min
+DESCRIPTION:WEEK 10/15 — AMBITIEUS. Afstand: 4 km. Geschatte rustige loop
+ tijd: ca. 28-32 min. Voorstel startuur: 09:00\; pas zelf aan naar je werku
+ ren. Extra langzaam. Bij vermoeidheid vervangen door rust. Kies per week E
+ EN schema\, tel ze niet op. Motivatie: discipline betekent ook verstandig 
+ herstellen. Train op gevoel en herstel: deze agenda is een planning\, geen
+  bewijs van marathonparaatheid. Meldingen van geabonneerde agenda’s kunn
+ en door iOS worden genegeerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 4 km · ca. 28-32 min · Herstelloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3acea7dc-089b-5951-8b47-3c653a2b77e9@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270117T090000
+DTEND;TZID=Europe/Brussels:20270117T110800
+SUMMARY:AMBITIEUS | Lange rustige duurloop · 17 km · ca. 119-136 min
+DESCRIPTION:WEEK 10/15 — AMBITIEUS. Afstand: 17 km. Geschatte rustige loo
+ ptijd: ca. 119-136 min. Voorstel startuur: 09:00\; pas zelf aan naar je we
+ rkuren. Rustig\, eventueel run-walk. Voeding/drinken oefenen vanaf 75-90 m
+ inuten. Max rond 3 uur\; inkorten mag. Kies per week EEN schema\, tel ze n
+ iet op. Motivatie: discipline betekent ook verstandig herstellen. Train op
+  gevoel en herstel: deze agenda is een planning\, geen bewijs van marathon
+ paraatheid. Meldingen van geabonneerde agenda’s kunnen door iOS worden g
+ enegeerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 17 km · ca. 119-136 min · Lange rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5030840e-3f87-5968-9f57-fa8d052e598c@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270118T190000
+DTEND;TZID=Europe/Brussels:20270118T194000
+SUMMARY:AMBITIEUS | Kracht + core · 40 min
+DESCRIPTION:WEEK 11/15 — AMBITIEUS. Geplande tijd: 40 min. Voorstel start
+ uur: 19:00\; pas zelf aan naar je werkuren. Squat\, hip hinge\, calf raise
+ s\, dead bug en heupstabiliteit\; geen spierfalen. Kies per week EEN schem
+ a\, tel ze niet op. Motivatie: discipline betekent ook verstandig herstell
+ en. Train op gevoel en herstel: deze agenda is een planning\, geen bewijs 
+ van marathonparaatheid. Meldingen van geabonneerde agenda’s kunnen door 
+ iOS worden genegeerd\; test dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: Kracht + core · 40 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c37df8dd-ae40-564e-b0cf-c35258e6a22e@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270119T070000
+DTEND;TZID=Europe/Brussels:20270119T073800
+SUMMARY:AMBITIEUS | Rustige duurloop · 5 km · ca. 35-40 min
+DESCRIPTION:WEEK 11/15 — AMBITIEUS. Afstand: 5 km. Geschatte rustige loop
+ tijd: ca. 35-40 min. Voorstel startuur: 07:00\; pas zelf aan naar je werku
+ ren. Praattempo\; loop-wandel mag. Rustiger dan je normale 9-11 km/u is pr
+ ima. Kies per week EEN schema\, tel ze niet op. Motivatie: discipline bete
+ kent ook verstandig herstellen. Train op gevoel en herstel: deze agenda is
+  een planning\, geen bewijs van marathonparaatheid. Meldingen van geabonne
+ erde agenda’s kunnen door iOS worden genegeerd\; test dit met een apart 
+ item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 5 km · ca. 35-40 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3f0e4be4-f4fa-5514-bdbe-3454fd8d8ca9@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270120T190000
+DTEND;TZID=Europe/Brussels:20270120T193000
+SUMMARY:AMBITIEUS | Bovenlichaam + core · 30 min
+DESCRIPTION:WEEK 11/15 — AMBITIEUS. Geplande tijd: 30 min. Voorstel start
+ uur: 19:00\; pas zelf aan naar je werkuren. Push-ups\, rows\, side planks\
+ , bird dog en mobiliteit. Kies per week EEN schema\, tel ze niet op. Motiv
+ atie: discipline betekent ook verstandig herstellen. Train op gevoel en he
+ rstel: deze agenda is een planning\, geen bewijs van marathonparaatheid. M
+ eldingen van geabonneerde agenda’s kunnen door iOS worden genegeerd\; te
+ st dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: Bovenlichaam + core · 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:87e2b8cd-f515-5034-995e-142931a29f93@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270121T070000
+DTEND;TZID=Europe/Brussels:20270121T075200
+SUMMARY:AMBITIEUS | Rustige duurloop · 7 km · ca. 49-56 min
+DESCRIPTION:WEEK 11/15 — AMBITIEUS. Afstand: 7 km. Geschatte rustige loop
+ tijd: ca. 49-56 min. Voorstel startuur: 07:00\; pas zelf aan naar je werku
+ ren. Praattempo. Alleen als je goed hersteld bent mag het laatste deel iet
+ s vlotter. Kies per week EEN schema\, tel ze niet op. Motivatie: disciplin
+ e betekent ook verstandig herstellen. Train op gevoel en herstel: deze age
+ nda is een planning\, geen bewijs van marathonparaatheid. Meldingen van ge
+ abonneerde agenda’s kunnen door iOS worden genegeerd\; test dit met een 
+ apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 7 km · ca. 49-56 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c2ab59f2-529c-5174-8ab4-1e9ef88c5860@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270122T180000
+DTEND;TZID=Europe/Brussels:20270122T182000
+SUMMARY:AMBITIEUS | Rust / lichte wandeling · 20 min
+DESCRIPTION:WEEK 11/15 — AMBITIEUS. Geplande tijd: 20 min. Voorstel start
+ uur: 18:00\; pas zelf aan naar je werkuren. Wandelen is optioneel\; herste
+ l telt mee. Kies per week EEN schema\, tel ze niet op. Motivatie: discipli
+ ne betekent ook verstandig herstellen. Train op gevoel en herstel: deze ag
+ enda is een planning\, geen bewijs van marathonparaatheid. Meldingen van g
+ eabonneerde agenda’s kunnen door iOS worden genegeerd\; test dit met een
+  apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: Rust / lichte wandeling · 20 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:392affbd-4224-5fc0-aa43-f8576661ce60@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270123T090000
+DTEND;TZID=Europe/Brussels:20270123T093000
+SUMMARY:AMBITIEUS | Herstelloop · 4 km · ca. 28-32 min
+DESCRIPTION:WEEK 11/15 — AMBITIEUS. Afstand: 4 km. Geschatte rustige loop
+ tijd: ca. 28-32 min. Voorstel startuur: 09:00\; pas zelf aan naar je werku
+ ren. Extra langzaam. Bij vermoeidheid vervangen door rust. Kies per week E
+ EN schema\, tel ze niet op. Motivatie: discipline betekent ook verstandig 
+ herstellen. Train op gevoel en herstel: deze agenda is een planning\, geen
+  bewijs van marathonparaatheid. Meldingen van geabonneerde agenda’s kunn
+ en door iOS worden genegeerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 4 km · ca. 28-32 min · Herstelloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:59fe92f0-d955-5093-82ff-6b9628c8ce1e@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270124T090000
+DTEND;TZID=Europe/Brussels:20270124T112200
+SUMMARY:AMBITIEUS | Lange rustige duurloop · 19 km · ca. 133-152 min
+DESCRIPTION:WEEK 11/15 — AMBITIEUS. Afstand: 19 km. Geschatte rustige loo
+ ptijd: ca. 133-152 min. Voorstel startuur: 09:00\; pas zelf aan naar je we
+ rkuren. Rustig\, eventueel run-walk. Voeding/drinken oefenen vanaf 75-90 m
+ inuten. Max rond 3 uur\; inkorten mag. Kies per week EEN schema\, tel ze n
+ iet op. Motivatie: discipline betekent ook verstandig herstellen. Train op
+  gevoel en herstel: deze agenda is een planning\, geen bewijs van marathon
+ paraatheid. Meldingen van geabonneerde agenda’s kunnen door iOS worden g
+ enegeerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 19 km · ca. 133-152 min · Lange rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b6a462f7-c121-5d93-a6e3-92b1cb45ebe5@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270125T190000
+DTEND;TZID=Europe/Brussels:20270125T194000
+SUMMARY:AMBITIEUS | Kracht + core · 40 min
+DESCRIPTION:WEEK 12/15 — AMBITIEUS. Geplande tijd: 40 min. Voorstel start
+ uur: 19:00\; pas zelf aan naar je werkuren. Squat\, hip hinge\, calf raise
+ s\, dead bug en heupstabiliteit\; geen spierfalen. Kies per week EEN schem
+ a\, tel ze niet op. Motivatie: discipline betekent ook verstandig herstell
+ en. Train op gevoel en herstel: deze agenda is een planning\, geen bewijs 
+ van marathonparaatheid. Meldingen van geabonneerde agenda’s kunnen door 
+ iOS worden genegeerd\; test dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: Kracht + core · 40 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0f8b295e-61ec-517d-93d7-6f2d378c2f45@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270126T070000
+DTEND;TZID=Europe/Brussels:20270126T074500
+SUMMARY:AMBITIEUS | Rustige duurloop · 6 km · ca. 42-48 min
+DESCRIPTION:WEEK 12/15 — AMBITIEUS. Afstand: 6 km. Geschatte rustige loop
+ tijd: ca. 42-48 min. Voorstel startuur: 07:00\; pas zelf aan naar je werku
+ ren. Praattempo\; loop-wandel mag. Rustiger dan je normale 9-11 km/u is pr
+ ima. Kies per week EEN schema\, tel ze niet op. Motivatie: discipline bete
+ kent ook verstandig herstellen. Train op gevoel en herstel: deze agenda is
+  een planning\, geen bewijs van marathonparaatheid. Meldingen van geabonne
+ erde agenda’s kunnen door iOS worden genegeerd\; test dit met een apart 
+ item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 6 km · ca. 42-48 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9e930313-c99b-53aa-af82-4ae6dc2e3d72@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270127T190000
+DTEND;TZID=Europe/Brussels:20270127T193000
+SUMMARY:AMBITIEUS | Bovenlichaam + core · 30 min
+DESCRIPTION:WEEK 12/15 — AMBITIEUS. Geplande tijd: 30 min. Voorstel start
+ uur: 19:00\; pas zelf aan naar je werkuren. Push-ups\, rows\, side planks\
+ , bird dog en mobiliteit. Kies per week EEN schema\, tel ze niet op. Motiv
+ atie: discipline betekent ook verstandig herstellen. Train op gevoel en he
+ rstel: deze agenda is een planning\, geen bewijs van marathonparaatheid. M
+ eldingen van geabonneerde agenda’s kunnen door iOS worden genegeerd\; te
+ st dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: Bovenlichaam + core · 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5326e13e-8bfc-56f8-9bcb-bec56d28dd79@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270128T070000
+DTEND;TZID=Europe/Brussels:20270128T075200
+SUMMARY:AMBITIEUS | Rustige duurloop · 7 km · ca. 49-56 min
+DESCRIPTION:WEEK 12/15 — AMBITIEUS. Afstand: 7 km. Geschatte rustige loop
+ tijd: ca. 49-56 min. Voorstel startuur: 07:00\; pas zelf aan naar je werku
+ ren. Praattempo. Alleen als je goed hersteld bent mag het laatste deel iet
+ s vlotter. Kies per week EEN schema\, tel ze niet op. Motivatie: disciplin
+ e betekent ook verstandig herstellen. Train op gevoel en herstel: deze age
+ nda is een planning\, geen bewijs van marathonparaatheid. Meldingen van ge
+ abonneerde agenda’s kunnen door iOS worden genegeerd\; test dit met een 
+ apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 7 km · ca. 49-56 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6fede8aa-b61d-5ea5-afc5-d7dec237ce64@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270129T180000
+DTEND;TZID=Europe/Brussels:20270129T182000
+SUMMARY:AMBITIEUS | Rust / lichte wandeling · 20 min
+DESCRIPTION:WEEK 12/15 — AMBITIEUS. Geplande tijd: 20 min. Voorstel start
+ uur: 18:00\; pas zelf aan naar je werkuren. Wandelen is optioneel\; herste
+ l telt mee. Kies per week EEN schema\, tel ze niet op. Motivatie: discipli
+ ne betekent ook verstandig herstellen. Train op gevoel en herstel: deze ag
+ enda is een planning\, geen bewijs van marathonparaatheid. Meldingen van g
+ eabonneerde agenda’s kunnen door iOS worden genegeerd\; test dit met een
+  apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: Rust / lichte wandeling · 20 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c120095f-1d0d-5548-971d-2e64a97c364b@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270130T090000
+DTEND;TZID=Europe/Brussels:20270130T093000
+SUMMARY:AMBITIEUS | Herstelloop · 4 km · ca. 28-32 min
+DESCRIPTION:WEEK 12/15 — AMBITIEUS. Afstand: 4 km. Geschatte rustige loop
+ tijd: ca. 28-32 min. Voorstel startuur: 09:00\; pas zelf aan naar je werku
+ ren. Extra langzaam. Bij vermoeidheid vervangen door rust. Kies per week E
+ EN schema\, tel ze niet op. Motivatie: discipline betekent ook verstandig 
+ herstellen. Train op gevoel en herstel: deze agenda is een planning\, geen
+  bewijs van marathonparaatheid. Meldingen van geabonneerde agenda’s kunn
+ en door iOS worden genegeerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 4 km · ca. 28-32 min · Herstelloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1847a8ad-b357-5577-a4ae-89c9ac8e7c0f@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270131T090000
+DTEND;TZID=Europe/Brussels:20270131T113800
+SUMMARY:AMBITIEUS | Lange rustige duurloop · 21 km · ca. 147-168 min
+DESCRIPTION:WEEK 12/15 — AMBITIEUS. Afstand: 21 km. Geschatte rustige loo
+ ptijd: ca. 147-168 min. Voorstel startuur: 09:00\; pas zelf aan naar je we
+ rkuren. Rustig\, eventueel run-walk. Voeding/drinken oefenen vanaf 75-90 m
+ inuten. Max rond 3 uur\; inkorten mag. Kies per week EEN schema\, tel ze n
+ iet op. Motivatie: discipline betekent ook verstandig herstellen. Train op
+  gevoel en herstel: deze agenda is een planning\, geen bewijs van marathon
+ paraatheid. Meldingen van geabonneerde agenda’s kunnen door iOS worden g
+ enegeerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 21 km · ca. 147-168 min · Lange rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fb1fcc6b-8034-51dd-af3d-dcd038129c8a@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270201T190000
+DTEND;TZID=Europe/Brussels:20270201T194000
+SUMMARY:AMBITIEUS | Kracht + core · 40 min
+DESCRIPTION:WEEK 13/15 — AMBITIEUS. Geplande tijd: 40 min. Voorstel start
+ uur: 19:00\; pas zelf aan naar je werkuren. Squat\, hip hinge\, calf raise
+ s\, dead bug en heupstabiliteit\; geen spierfalen. Kies per week EEN schem
+ a\, tel ze niet op. Motivatie: discipline betekent ook verstandig herstell
+ en. Train op gevoel en herstel: deze agenda is een planning\, geen bewijs 
+ van marathonparaatheid. Meldingen van geabonneerde agenda’s kunnen door 
+ iOS worden genegeerd\; test dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: Kracht + core · 40 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:75b4ac1f-d2a8-58b0-9f98-7d14fedb5c2f@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270202T070000
+DTEND;TZID=Europe/Brussels:20270202T073000
+SUMMARY:AMBITIEUS | Rustige duurloop · 4 km · ca. 28-32 min
+DESCRIPTION:WEEK 13/15 — AMBITIEUS. Afstand: 4 km. Geschatte rustige loop
+ tijd: ca. 28-32 min. Voorstel startuur: 07:00\; pas zelf aan naar je werku
+ ren. Praattempo\; loop-wandel mag. Rustiger dan je normale 9-11 km/u is pr
+ ima. Kies per week EEN schema\, tel ze niet op. Motivatie: discipline bete
+ kent ook verstandig herstellen. Train op gevoel en herstel: deze agenda is
+  een planning\, geen bewijs van marathonparaatheid. Meldingen van geabonne
+ erde agenda’s kunnen door iOS worden genegeerd\; test dit met een apart 
+ item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 4 km · ca. 28-32 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0e6761ec-782a-5a8f-9816-eface5e54544@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270203T190000
+DTEND;TZID=Europe/Brussels:20270203T193000
+SUMMARY:AMBITIEUS | Bovenlichaam + core · 30 min
+DESCRIPTION:WEEK 13/15 — AMBITIEUS. Geplande tijd: 30 min. Voorstel start
+ uur: 19:00\; pas zelf aan naar je werkuren. Push-ups\, rows\, side planks\
+ , bird dog en mobiliteit. Kies per week EEN schema\, tel ze niet op. Motiv
+ atie: discipline betekent ook verstandig herstellen. Train op gevoel en he
+ rstel: deze agenda is een planning\, geen bewijs van marathonparaatheid. M
+ eldingen van geabonneerde agenda’s kunnen door iOS worden genegeerd\; te
+ st dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: Bovenlichaam + core · 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6735b299-2ada-5f5d-881e-63e76c73d34f@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270204T070000
+DTEND;TZID=Europe/Brussels:20270204T073800
+SUMMARY:AMBITIEUS | Rustige duurloop · 5 km · ca. 35-40 min
+DESCRIPTION:WEEK 13/15 — AMBITIEUS. Afstand: 5 km. Geschatte rustige loop
+ tijd: ca. 35-40 min. Voorstel startuur: 07:00\; pas zelf aan naar je werku
+ ren. Praattempo. Alleen als je goed hersteld bent mag het laatste deel iet
+ s vlotter. Kies per week EEN schema\, tel ze niet op. Motivatie: disciplin
+ e betekent ook verstandig herstellen. Train op gevoel en herstel: deze age
+ nda is een planning\, geen bewijs van marathonparaatheid. Meldingen van ge
+ abonneerde agenda’s kunnen door iOS worden genegeerd\; test dit met een 
+ apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 5 km · ca. 35-40 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1a9c891b-0b2c-5216-8391-0e8a1ca98226@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270205T180000
+DTEND;TZID=Europe/Brussels:20270205T182000
+SUMMARY:AMBITIEUS | Rust / lichte wandeling · 20 min
+DESCRIPTION:WEEK 13/15 — AMBITIEUS. Geplande tijd: 20 min. Voorstel start
+ uur: 18:00\; pas zelf aan naar je werkuren. Wandelen is optioneel\; herste
+ l telt mee. Kies per week EEN schema\, tel ze niet op. Motivatie: discipli
+ ne betekent ook verstandig herstellen. Train op gevoel en herstel: deze ag
+ enda is een planning\, geen bewijs van marathonparaatheid. Meldingen van g
+ eabonneerde agenda’s kunnen door iOS worden genegeerd\; test dit met een
+  apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: Rust / lichte wandeling · 20 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:54bd335e-5bee-56fa-8540-28f1cd61e7c0@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270206T090000
+DTEND;TZID=Europe/Brussels:20270206T092200
+SUMMARY:AMBITIEUS | Herstelloop · 3 km · ca. 21-24 min
+DESCRIPTION:WEEK 13/15 — AMBITIEUS. Afstand: 3 km. Geschatte rustige loop
+ tijd: ca. 21-24 min. Voorstel startuur: 09:00\; pas zelf aan naar je werku
+ ren. Extra langzaam. Bij vermoeidheid vervangen door rust. Kies per week E
+ EN schema\, tel ze niet op. Motivatie: discipline betekent ook verstandig 
+ herstellen. Train op gevoel en herstel: deze agenda is een planning\, geen
+  bewijs van marathonparaatheid. Meldingen van geabonneerde agenda’s kunn
+ en door iOS worden genegeerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 3 km · ca. 21-24 min · Herstelloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2554d689-f21f-5d92-ac5a-8d3609d08802@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270207T090000
+DTEND;TZID=Europe/Brussels:20270207T105200
+SUMMARY:AMBITIEUS | Lange rustige duurloop · 15 km · ca. 105-120 min
+DESCRIPTION:WEEK 13/15 — AMBITIEUS. Afstand: 15 km. Geschatte rustige loo
+ ptijd: ca. 105-120 min. Voorstel startuur: 09:00\; pas zelf aan naar je we
+ rkuren. Rustig\, eventueel run-walk. Voeding/drinken oefenen vanaf 75-90 m
+ inuten. Max rond 3 uur\; inkorten mag. Kies per week EEN schema\, tel ze n
+ iet op. Motivatie: discipline betekent ook verstandig herstellen. Train op
+  gevoel en herstel: deze agenda is een planning\, geen bewijs van marathon
+ paraatheid. Meldingen van geabonneerde agenda’s kunnen door iOS worden g
+ enegeerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 15 km · ca. 105-120 min · Lange rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8ccf0a43-4de2-5f22-a59f-3df18df7fd60@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270208T190000
+DTEND;TZID=Europe/Brussels:20270208T194000
+SUMMARY:AMBITIEUS | Kracht + core · 40 min
+DESCRIPTION:WEEK 14/15 — AMBITIEUS. Geplande tijd: 40 min. Voorstel start
+ uur: 19:00\; pas zelf aan naar je werkuren. Squat\, hip hinge\, calf raise
+ s\, dead bug en heupstabiliteit\; geen spierfalen. Kies per week EEN schem
+ a\, tel ze niet op. Motivatie: discipline betekent ook verstandig herstell
+ en. Train op gevoel en herstel: deze agenda is een planning\, geen bewijs 
+ van marathonparaatheid. Meldingen van geabonneerde agenda’s kunnen door 
+ iOS worden genegeerd\; test dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: Kracht + core · 40 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:26e7ba31-36e7-5bd7-8e1b-195b7a9f94d9@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270209T070000
+DTEND;TZID=Europe/Brussels:20270209T072200
+SUMMARY:AMBITIEUS | Rustige duurloop · 3 km · ca. 21-24 min
+DESCRIPTION:WEEK 14/15 — AMBITIEUS. Afstand: 3 km. Geschatte rustige loop
+ tijd: ca. 21-24 min. Voorstel startuur: 07:00\; pas zelf aan naar je werku
+ ren. Praattempo\; loop-wandel mag. Rustiger dan je normale 9-11 km/u is pr
+ ima. Kies per week EEN schema\, tel ze niet op. Motivatie: discipline bete
+ kent ook verstandig herstellen. Train op gevoel en herstel: deze agenda is
+  een planning\, geen bewijs van marathonparaatheid. Meldingen van geabonne
+ erde agenda’s kunnen door iOS worden genegeerd\; test dit met een apart 
+ item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 3 km · ca. 21-24 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bb3f64a2-985a-579b-81db-6ff06416b38f@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270210T190000
+DTEND;TZID=Europe/Brussels:20270210T193000
+SUMMARY:AMBITIEUS | Bovenlichaam + core · 30 min
+DESCRIPTION:WEEK 14/15 — AMBITIEUS. Geplande tijd: 30 min. Voorstel start
+ uur: 19:00\; pas zelf aan naar je werkuren. Push-ups\, rows\, side planks\
+ , bird dog en mobiliteit. Kies per week EEN schema\, tel ze niet op. Motiv
+ atie: discipline betekent ook verstandig herstellen. Train op gevoel en he
+ rstel: deze agenda is een planning\, geen bewijs van marathonparaatheid. M
+ eldingen van geabonneerde agenda’s kunnen door iOS worden genegeerd\; te
+ st dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: Bovenlichaam + core · 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dfdf39f1-5ee2-518a-af6f-1edac358523a@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270211T070000
+DTEND;TZID=Europe/Brussels:20270211T073000
+SUMMARY:AMBITIEUS | Rustige duurloop · 4 km · ca. 28-32 min
+DESCRIPTION:WEEK 14/15 — AMBITIEUS. Afstand: 4 km. Geschatte rustige loop
+ tijd: ca. 28-32 min. Voorstel startuur: 07:00\; pas zelf aan naar je werku
+ ren. Praattempo. Alleen als je goed hersteld bent mag het laatste deel iet
+ s vlotter. Kies per week EEN schema\, tel ze niet op. Motivatie: disciplin
+ e betekent ook verstandig herstellen. Train op gevoel en herstel: deze age
+ nda is een planning\, geen bewijs van marathonparaatheid. Meldingen van ge
+ abonneerde agenda’s kunnen door iOS worden genegeerd\; test dit met een 
+ apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 4 km · ca. 28-32 min · Rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4437d3d3-9061-5345-84be-c8204e3f0015@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270212T180000
+DTEND;TZID=Europe/Brussels:20270212T182000
+SUMMARY:AMBITIEUS | Rust / lichte wandeling · 20 min
+DESCRIPTION:WEEK 14/15 — AMBITIEUS. Geplande tijd: 20 min. Voorstel start
+ uur: 18:00\; pas zelf aan naar je werkuren. Wandelen is optioneel\; herste
+ l telt mee. Kies per week EEN schema\, tel ze niet op. Motivatie: discipli
+ ne betekent ook verstandig herstellen. Train op gevoel en herstel: deze ag
+ enda is een planning\, geen bewijs van marathonparaatheid. Meldingen van g
+ eabonneerde agenda’s kunnen door iOS worden genegeerd\; test dit met een
+  apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: Rust / lichte wandeling · 20 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2fff9c37-1617-524c-83d9-5911751b4d41@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270213T090000
+DTEND;TZID=Europe/Brussels:20270213T091500
+SUMMARY:AMBITIEUS | Herstelloop · 2 km · ca. 14-16 min
+DESCRIPTION:WEEK 14/15 — AMBITIEUS. Afstand: 2 km. Geschatte rustige loop
+ tijd: ca. 14-16 min. Voorstel startuur: 09:00\; pas zelf aan naar je werku
+ ren. Extra langzaam. Bij vermoeidheid vervangen door rust. Kies per week E
+ EN schema\, tel ze niet op. Motivatie: discipline betekent ook verstandig 
+ herstellen. Train op gevoel en herstel: deze agenda is een planning\, geen
+  bewijs van marathonparaatheid. Meldingen van geabonneerde agenda’s kunn
+ en door iOS worden genegeerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 2 km · ca. 14-16 min · Herstelloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9b07d82e-cbca-5b94-a179-70a02c8937c9@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270214T090000
+DTEND;TZID=Europe/Brussels:20270214T100800
+SUMMARY:AMBITIEUS | Lange rustige duurloop · 9 km · ca. 63-72 min
+DESCRIPTION:WEEK 14/15 — AMBITIEUS. Afstand: 9 km. Geschatte rustige loop
+ tijd: ca. 63-72 min. Voorstel startuur: 09:00\; pas zelf aan naar je werku
+ ren. Rustig\, eventueel run-walk. Voeding/drinken oefenen vanaf 75-90 minu
+ ten. Max rond 3 uur\; inkorten mag. Kies per week EEN schema\, tel ze niet
+  op. Motivatie: discipline betekent ook verstandig herstellen. Train op ge
+ voel en herstel: deze agenda is een planning\, geen bewijs van marathonpar
+ aatheid. Meldingen van geabonneerde agenda’s kunnen door iOS worden gene
+ geerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 9 km · ca. 63-72 min · Lange rustige duurloop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:65834be5-eadc-57bc-977d-8c79ff8ad009@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270215T190000
+DTEND;TZID=Europe/Brussels:20270215T191500
+SUMMARY:AMBITIEUS | Mobiliteit · 15 min
+DESCRIPTION:WEEK 15/15 — AMBITIEUS. Geplande tijd: 15 min. Voorstel start
+ uur: 19:00\; pas zelf aan naar je werkuren. Wedstrijdweek: houd alles onts
+ pannen\, geen zware inspanning. Kies per week EEN schema\, tel ze niet op.
+  Motivatie: discipline betekent ook verstandig herstellen. Train op gevoel
+  en herstel: deze agenda is een planning\, geen bewijs van marathonparaath
+ eid. Meldingen van geabonneerde agenda’s kunnen door iOS worden genegeer
+ d\; test dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: Mobiliteit · 15 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1ec4bf7a-369d-561b-9f96-1b949a562d9b@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270216T070000
+DTEND;TZID=Europe/Brussels:20270216T072200
+SUMMARY:AMBITIEUS | Rustige loop · 3 km · ca. 21-24 min
+DESCRIPTION:WEEK 15/15 — AMBITIEUS. Afstand: 3 km. Geschatte rustige loop
+ tijd: ca. 21-24 min. Voorstel startuur: 07:00\; pas zelf aan naar je werku
+ ren. Wedstrijdweek: houd alles ontspannen\, geen zware inspanning. Kies pe
+ r week EEN schema\, tel ze niet op. Motivatie: discipline betekent ook ver
+ standig herstellen. Train op gevoel en herstel: deze agenda is een plannin
+ g\, geen bewijs van marathonparaatheid. Meldingen van geabonneerde agenda
+ ’s kunnen door iOS worden genegeerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 3 km · ca. 21-24 min · Rustige loop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b37f1b81-8804-5553-93b8-2677f5a5108f@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270217T190000
+DTEND;TZID=Europe/Brussels:20270217T191500
+SUMMARY:AMBITIEUS | Herstel / mobiliteit · 15 min
+DESCRIPTION:WEEK 15/15 — AMBITIEUS. Geplande tijd: 15 min. Voorstel start
+ uur: 19:00\; pas zelf aan naar je werkuren. Wedstrijdweek: houd alles onts
+ pannen\, geen zware inspanning. Kies per week EEN schema\, tel ze niet op.
+  Motivatie: discipline betekent ook verstandig herstellen. Train op gevoel
+  en herstel: deze agenda is een planning\, geen bewijs van marathonparaath
+ eid. Meldingen van geabonneerde agenda’s kunnen door iOS worden genegeer
+ d\; test dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: Herstel / mobiliteit · 15 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5ab79c90-d274-5bc4-8468-767e86728922@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270218T070000
+DTEND;TZID=Europe/Brussels:20270218T072200
+SUMMARY:AMBITIEUS | Rustige loop · 3 km · ca. 21-24 min
+DESCRIPTION:WEEK 15/15 — AMBITIEUS. Afstand: 3 km. Geschatte rustige loop
+ tijd: ca. 21-24 min. Voorstel startuur: 07:00\; pas zelf aan naar je werku
+ ren. Wedstrijdweek: houd alles ontspannen\, geen zware inspanning. Kies pe
+ r week EEN schema\, tel ze niet op. Motivatie: discipline betekent ook ver
+ standig herstellen. Train op gevoel en herstel: deze agenda is een plannin
+ g\, geen bewijs van marathonparaatheid. Meldingen van geabonneerde agenda
+ ’s kunnen door iOS worden genegeerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 3 km · ca. 21-24 min · Rustige loop
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:98e5302a-d269-57ff-b904-6e0292b6ecc2@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270219T180000
+DTEND;TZID=Europe/Brussels:20270219T181000
+SUMMARY:AMBITIEUS | Rust
+DESCRIPTION:WEEK 15/15 — AMBITIEUS. Geplande tijd: 0 min. Voorstel startu
+ ur: 18:00\; pas zelf aan naar je werkuren. Wedstrijdweek: houd alles ontsp
+ annen\, geen zware inspanning. Kies per week EEN schema\, tel ze niet op. 
+ Motivatie: discipline betekent ook verstandig herstellen. Train op gevoel 
+ en herstel: deze agenda is een planning\, geen bewijs van marathonparaathe
+ id. Meldingen van geabonneerde agenda’s kunnen door iOS worden genegeerd
+ \; test dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: Rust
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a5297d2d-d514-5246-96ff-71b327f8837f@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270220T090000
+DTEND;TZID=Europe/Brussels:20270220T091500
+SUMMARY:AMBITIEUS | Optionele wandeling · 15 min
+DESCRIPTION:WEEK 15/15 — AMBITIEUS. Geplande tijd: 15 min. Voorstel start
+ uur: 09:00\; pas zelf aan naar je werkuren. Wedstrijdweek: houd alles onts
+ pannen\, geen zware inspanning. Kies per week EEN schema\, tel ze niet op.
+  Motivatie: discipline betekent ook verstandig herstellen. Train op gevoel
+  en herstel: deze agenda is een planning\, geen bewijs van marathonparaath
+ eid. Meldingen van geabonneerde agenda’s kunnen door iOS worden genegeer
+ d\; test dit met een apart item.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: Optionele wandeling · 15 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1dc440bf-31f1-5466-94dd-f72bca2e652c@marathon
+DTSTAMP:20261107T210000Z
+DTSTART;TZID=Europe/Brussels:20270221T090000
+DTEND;TZID=Europe/Brussels:20270221T141600
+SUMMARY:AMBITIEUS | MARATHON (voorwaardelijk) · 42\,195 km · duur afhanke
+ lijk van jouw tempo
+DESCRIPTION:WEEK 15/15 — AMBITIEUS. Afstand: 42\,195 km. Geschatte rustig
+ e looptijd: duur afhankelijk van jouw tempo. Voorstel startuur: 09:00\; pa
+ s zelf aan naar je werkuren. Start alleen wanneer de voorbereiding\, je ge
+ zondheid en je herstel dit verantwoord maken. Aangezien je basis 12-15 km/
+ week is\, is uitlopen niet gegarandeerd. Overweeg kortere afstand of uitst
+ el. Controleer officieel startuur. Kies per week EEN schema\, tel ze niet 
+ op. Motivatie: discipline betekent ook verstandig herstellen. Train op gev
+ oel en herstel: deze agenda is een planning\, geen bewijs van marathonpara
+ atheid. Meldingen van geabonneerde agenda’s kunnen door iOS worden geneg
+ eerd\; test dit met een apart item.
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMBITIEUS: 42\,195 km · duur afhankelijk van jouw tempo · MAR
+ ATHON (voorwaardelijk)
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
