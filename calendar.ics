@@ -1,0 +1,1478 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Persoonlijke planning//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Studie werk marathon nov-dec 2026
+X-WR-TIMEZONE:Europe/Brussels
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+BEGIN:STANDARD
+DTSTART:20261025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:d71f673c51845360906bea2173d02096@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261109T083000
+DTEND;TZID=Europe/Brussels:20261109T094500
+SUMMARY:Kennisleer: 5 pagina’s + sterktes
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:79ac5fe1a0805db6ba44b484e1b677cf@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261109T101500
+DTEND;TZID=Europe/Brussels:20261109T113000
+SUMMARY:Kennisleer: presentatie voorbereiden en oefenen
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6ef142b9466050e89661138928a6d727@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261109T203000
+DTEND;TZID=Europe/Brussels:20261109T204500
+SUMMARY:Morgen voorbereiden (15 min)
+DESCRIPTION:Kies één prioriteit\; geen extra zwaar studiewerk.
+CATEGORIES:PLANNING
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e58c9dda32705776b9950560eabb6ea7@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261110T083000
+DTEND;TZID=Europe/Brussels:20261110T090000
+SUMMARY:Kennisleer: korte herhaling presentatie
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a30c6345cbd9566bae50ef6640279fad@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261110T090000
+DTEND;TZID=Europe/Brussels:20261110T093000
+SUMMARY:Deadline: presentatie Kennisleer
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6c0e7ac4f53457c6b495a9d17b17da85@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261110T170000
+DTEND;TZID=Europe/Brussels:20261110T174500
+SUMMARY:Rustige looptraining
+DESCRIPTION:30–50 min praattempo\; alleen als herstel en medische situati
+ e dit toelaten.
+CATEGORIES:SPORT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:74839bc19dea544c872e6f1ca93d34ff@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261110T203000
+DTEND;TZID=Europe/Brussels:20261110T204500
+SUMMARY:Morgen voorbereiden (15 min)
+DESCRIPTION:Kies één prioriteit\; geen extra zwaar studiewerk.
+CATEGORIES:PLANNING
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:28c9c85f32a153a9862a13602c3acc97@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261111T083000
+DTEND;TZID=Europe/Brussels:20261111T093000
+SUMMARY:Welvaartsstaat: videolessen 1–2
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c034b8388fc3581a9d11a5cbb8e4e031@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261111T101500
+DTEND;TZID=Europe/Brussels:20261111T110000
+SUMMARY:Opiniestuk: standpunt en structuur
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a5a38220c7685f8caa869ad2542a830d@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261111T130000
+DTEND;TZID=Europe/Brussels:20261111T140000
+SUMMARY:Werk: recht pagina’s 1–5
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a56b31065aaf5bfbaae5460c04fc49ea@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261111T203000
+DTEND;TZID=Europe/Brussels:20261111T204500
+SUMMARY:Morgen voorbereiden (15 min)
+DESCRIPTION:Kies één prioriteit\; geen extra zwaar studiewerk.
+CATEGORIES:PLANNING
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9776197c1bb155278868201fc414cbbf@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261112T083000
+DTEND;TZID=Europe/Brussels:20261112T094500
+SUMMARY:EU: hoofdstuk 1\, eerste helft
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:232c450978455fd3aaf6f5f3f4da7699@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261112T101500
+DTEND;TZID=Europe/Brussels:20261112T111500
+SUMMARY:Opiniestuk: inleiding en argument 1
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:df7130061f0055b9b45f265fb29086ad@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261112T130000
+DTEND;TZID=Europe/Brussels:20261112T140000
+SUMMARY:Werk: recht pagina’s 6–10
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:11ce15f9b9fa5b6a81fab6ea3ea0038c@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261112T170000
+DTEND;TZID=Europe/Brussels:20261112T174500
+SUMMARY:Rustige looptraining
+DESCRIPTION:40–50 min praattempo\; geen verplichte intervallen.
+CATEGORIES:SPORT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:10e3e834863b5d41b6462aa51f759178@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261112T203000
+DTEND;TZID=Europe/Brussels:20261112T204500
+SUMMARY:Morgen voorbereiden (15 min)
+DESCRIPTION:Kies één prioriteit\; geen extra zwaar studiewerk.
+CATEGORIES:PLANNING
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ed06419a023d53e781dde80925eeae27@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261113T083000
+DTEND;TZID=Europe/Brussels:20261113T093000
+SUMMARY:Welvaartsstaat: videolessen 3–4
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:953ebd6dd53653aeada47f03b05f339c@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261113T101500
+DTEND;TZID=Europe/Brussels:20261113T113000
+SUMMARY:Opiniestuk: volledige eerste versie
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:240adcd7ceea5165a8f622bb8ba5a9d0@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261113T130000
+DTEND;TZID=Europe/Brussels:20261113T140000
+SUMMARY:Werk: ambassades bellen en afspraken vragen
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:75543b98758c5226b371083608d5e89a@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261113T203000
+DTEND;TZID=Europe/Brussels:20261113T204500
+SUMMARY:Morgen voorbereiden (15 min)
+DESCRIPTION:Kies één prioriteit\; geen extra zwaar studiewerk.
+CATEGORIES:PLANNING
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5564d3d1b1f9525b96e59aa860d2bac6@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261114T100000
+DTEND;TZID=Europe/Brussels:20261114T120000
+SUMMARY:Jack coachen (tijd nog bevestigen)
+DESCRIPTION:Voorlopig tijdslot\; vervang door werkelijke coachinguren.
+CATEGORIES:COACHING
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6559afeb7e8554a4be97da26644c0f6c@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261114T140000
+DTEND;TZID=Europe/Brussels:20261114T150000
+SUMMARY:Opiniestuk: nalezen en verbeteren
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:db75b610c0665a4e8394c8656b8548e4@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261115T090000
+DTEND;TZID=Europe/Brussels:20261115T103000
+SUMMARY:Lange duurloop (tijdslot voorlopig)
+DESCRIPTION:Afstand en duur volgens bestaand trainingsschema en medische be
+ lastbaarheid\; pas tijdslot aan.
+CATEGORIES:SPORT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7ac5ca8a2c625b6ab9d5f99ddb52e81e@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261115T160000
+DTEND;TZID=Europe/Brussels:20261115T164500
+SUMMARY:Opiniestuk: eindcontrole en klaarzetten
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:690d4259aa0a5c66b130eb57ce1aa186@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261116T083000
+DTEND;TZID=Europe/Brussels:20261116T090000
+SUMMARY:Deadline: opiniestuk indienen
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8c2e0aa23d675c5b9e7bba50cb725c85@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261116T090000
+DTEND;TZID=Europe/Brussels:20261116T101500
+SUMMARY:Wetenschap & maatschappij: onderwerp en vraag
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:24cb7c2743da536fa298293c0f66a4c8@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261116T130000
+DTEND;TZID=Europe/Brussels:20261116T134500
+SUMMARY:Werk: ambassades opvolgmails
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e74d6b3166435df790732ee707a180fe@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261116T203000
+DTEND;TZID=Europe/Brussels:20261116T204500
+SUMMARY:Morgen voorbereiden (15 min)
+DESCRIPTION:Kies één prioriteit\; geen extra zwaar studiewerk.
+CATEGORIES:PLANNING
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b78745143e445854acf2360145e999a4@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261117T083000
+DTEND;TZID=Europe/Brussels:20261117T100000
+SUMMARY:EU: hoofdstuk 2
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4c0eed26402451f5845500aae7ab27b7@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261117T170000
+DTEND;TZID=Europe/Brussels:20261117T174500
+SUMMARY:Rustige looptraining
+DESCRIPTION:30–50 min praattempo\; alleen als herstel en medische situati
+ e dit toelaten.
+CATEGORIES:SPORT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:aeb5da003e7756819b77083505bff482@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261117T203000
+DTEND;TZID=Europe/Brussels:20261117T204500
+SUMMARY:Morgen voorbereiden (15 min)
+DESCRIPTION:Kies één prioriteit\; geen extra zwaar studiewerk.
+CATEGORIES:PLANNING
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8e7c80927cc85e21a127564fe84a36a6@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261118T083000
+DTEND;TZID=Europe/Brussels:20261118T094500
+SUMMARY:Wetenschap & maatschappij: bronnen
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:db94e610411b5e61a1f64e002d56ac60@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261118T101500
+DTEND;TZID=Europe/Brussels:20261118T110000
+SUMMARY:Wetenschap & maatschappij: structuur
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8c364469459b577082d83a76c06cc2d3@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261118T130000
+DTEND;TZID=Europe/Brussels:20261118T140000
+SUMMARY:Existentiële ethiek: weekhoofdstuk
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1f49acefa41653e2a87a7788af427d8a@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261118T203000
+DTEND;TZID=Europe/Brussels:20261118T204500
+SUMMARY:Morgen voorbereiden (15 min)
+DESCRIPTION:Kies één prioriteit\; geen extra zwaar studiewerk.
+CATEGORIES:PLANNING
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:816a075df16653c7a05a238ee86ff161@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261119T083000
+DTEND;TZID=Europe/Brussels:20261119T094500
+SUMMARY:Wetenschap & maatschappij: eerste slides
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:76112f3c42dc50b9a829290d8f59715d@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261119T170000
+DTEND;TZID=Europe/Brussels:20261119T174500
+SUMMARY:Rustige looptraining
+DESCRIPTION:40–50 min praattempo\; geen verplichte intervallen.
+CATEGORIES:SPORT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:15aaf676b6f45dd4bc939335a72fadd9@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261119T203000
+DTEND;TZID=Europe/Brussels:20261119T204500
+SUMMARY:Morgen voorbereiden (15 min)
+DESCRIPTION:Kies één prioriteit\; geen extra zwaar studiewerk.
+CATEGORIES:PLANNING
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5f4f41e849f5521ba5486541e26b83d0@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261120T083000
+DTEND;TZID=Europe/Brussels:20261120T100000
+SUMMARY:EU: hoofdstuk 3
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:af5604d10938510a82b49de6828add54@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261120T101500
+DTEND;TZID=Europe/Brussels:20261120T111500
+SUMMARY:Wetenschap & maatschappij: slides verder
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ffe246f1337e59409d092e7ad3fc4ff0@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261120T203000
+DTEND;TZID=Europe/Brussels:20261120T204500
+SUMMARY:Morgen voorbereiden (15 min)
+DESCRIPTION:Kies één prioriteit\; geen extra zwaar studiewerk.
+CATEGORIES:PLANNING
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:62304a831ea95dc7bd397e80ddb06cfd@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261121T100000
+DTEND;TZID=Europe/Brussels:20261121T120000
+SUMMARY:Jack coachen (tijd nog bevestigen)
+DESCRIPTION:Voorlopig tijdslot\; vervang door werkelijke coachinguren.
+CATEGORIES:COACHING
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fb4ed4deaaf759ceb885d0a3ffd46403@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261121T150000
+DTEND;TZID=Europe/Brussels:20261121T154500
+SUMMARY:Buffer: herhalen of achterstand (optioneel)
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:352f82642fbf5454822d1200859a644d@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261122T090000
+DTEND;TZID=Europe/Brussels:20261122T103000
+SUMMARY:Lange duurloop (tijdslot voorlopig)
+DESCRIPTION:Afstand en duur volgens bestaand trainingsschema en medische be
+ lastbaarheid\; pas tijdslot aan.
+CATEGORIES:SPORT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e58e0e4fbd0c5d609cd5f49f2a0711a4@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261123T083000
+DTEND;TZID=Europe/Brussels:20261123T094500
+SUMMARY:Wetenschap & maatschappij: slides afmaken
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c1dc1d2e7bdf5769b08faf412959c937@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261123T101500
+DTEND;TZID=Europe/Brussels:20261123T110000
+SUMMARY:Wetenschap & maatschappij: bronnen controleren
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ac059dba4d095c33aa559fb178c3d3bc@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261123T203000
+DTEND;TZID=Europe/Brussels:20261123T204500
+SUMMARY:Morgen voorbereiden (15 min)
+DESCRIPTION:Kies één prioriteit\; geen extra zwaar studiewerk.
+CATEGORIES:PLANNING
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b10ae5d713975368bda37b8e80450810@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261124T083000
+DTEND;TZID=Europe/Brussels:20261124T100000
+SUMMARY:EU: hoofdstuk 4
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:500d8deb103a5df181bdde1d21148893@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261124T170000
+DTEND;TZID=Europe/Brussels:20261124T174500
+SUMMARY:Rustige looptraining
+DESCRIPTION:30–50 min praattempo\; alleen als herstel en medische situati
+ e dit toelaten.
+CATEGORIES:SPORT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7259be7434bf5556b00bbc7197077897@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261124T203000
+DTEND;TZID=Europe/Brussels:20261124T204500
+SUMMARY:Morgen voorbereiden (15 min)
+DESCRIPTION:Kies één prioriteit\; geen extra zwaar studiewerk.
+CATEGORIES:PLANNING
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e3f167dd722e5817a71bfe77905892ce@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261125T083000
+DTEND;TZID=Europe/Brussels:20261125T094500
+SUMMARY:Wetenschap & maatschappij: presentatie oefenen
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:49ccbe03747857d986f8e57dc5fd1dae@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261125T101500
+DTEND;TZID=Europe/Brussels:20261125T111500
+SUMMARY:Existentiële ethiek: weekhoofdstuk
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:77aa58fbe11852b2b9392827ca4dda05@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261125T203000
+DTEND;TZID=Europe/Brussels:20261125T204500
+SUMMARY:Morgen voorbereiden (15 min)
+DESCRIPTION:Kies één prioriteit\; geen extra zwaar studiewerk.
+CATEGORIES:PLANNING
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b391a5ce7a6e54068aafeb9a2be718be@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261126T083000
+DTEND;TZID=Europe/Brussels:20261126T093000
+SUMMARY:Wetenschap & maatschappij: lastige delen oefenen
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1d67f6071bb3532590c5554bac53c2f2@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261126T170000
+DTEND;TZID=Europe/Brussels:20261126T174500
+SUMMARY:Rustige looptraining
+DESCRIPTION:40–50 min praattempo\; geen verplichte intervallen.
+CATEGORIES:SPORT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:047f827f493953b0b8b65b402b02748d@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261126T203000
+DTEND;TZID=Europe/Brussels:20261126T204500
+SUMMARY:Morgen voorbereiden (15 min)
+DESCRIPTION:Kies één prioriteit\; geen extra zwaar studiewerk.
+CATEGORIES:PLANNING
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e8b785d4ea1d5471b45d8021b706453a@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261127T083000
+DTEND;TZID=Europe/Brussels:20261127T100000
+SUMMARY:EU: hoofdstuk 5
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1c414f8db42352df8afcb7159143be78@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261127T101500
+DTEND;TZID=Europe/Brussels:20261127T110000
+SUMMARY:Wetenschap & maatschappij: definitieve slides
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6aa9708948d75c14bdcd306924750445@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261127T130000
+DTEND;TZID=Europe/Brussels:20261127T133000
+SUMMARY:Werk: ambassades opvolgen
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6e86b1125cf85deea9fbc84aee1023b8@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261127T203000
+DTEND;TZID=Europe/Brussels:20261127T204500
+SUMMARY:Morgen voorbereiden (15 min)
+DESCRIPTION:Kies één prioriteit\; geen extra zwaar studiewerk.
+CATEGORIES:PLANNING
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:61bcacba32655732b950f5a245ede30a@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261128T090000
+DTEND;TZID=Europe/Brussels:20261128T103000
+SUMMARY:Lange duurloop (tijdslot voorlopig)
+DESCRIPTION:Afstand en duur volgens bestaand trainingsschema en medische be
+ lastbaarheid\; pas tijdslot aan.
+CATEGORIES:SPORT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:486519a87a5b51f2bc626efbb2d0f3d7@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261129T100000
+DTEND;TZID=Europe/Brussels:20261129T120000
+SUMMARY:Jack indoor coachen (voorlopig)
+DESCRIPTION:Controleer of indoortraining doorgaat en pas het uur aan.
+CATEGORIES:COACHING
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:03c79fe42e235b71986f901437ac5813@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261129T170000
+DTEND;TZID=Europe/Brussels:20261129T172000
+SUMMARY:Wetenschap & maatschappij: laatste controle
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9046ae8ed4275ed191a67a43def0809f@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261130T083000
+DTEND;TZID=Europe/Brussels:20261130T090000
+SUMMARY:Deadline: presentatie Wetenschap & maatschappij
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b89b629fba035fb6b602a19cc46cd0a3@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261130T203000
+DTEND;TZID=Europe/Brussels:20261130T204500
+SUMMARY:Morgen voorbereiden (15 min)
+DESCRIPTION:Kies één prioriteit\; geen extra zwaar studiewerk.
+CATEGORIES:PLANNING
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b91ee21fbdcf5cb8aad1a73fdf4e27a0@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261201T083000
+DTEND;TZID=Europe/Brussels:20261201T100000
+SUMMARY:EU: hoofdstuk 6
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7ff667d3f0c65fae9aad3552d2a2829a@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261201T170000
+DTEND;TZID=Europe/Brussels:20261201T174500
+SUMMARY:Rustige looptraining
+DESCRIPTION:30–50 min praattempo\; alleen als herstel en medische situati
+ e dit toelaten.
+CATEGORIES:SPORT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c9469a07e4bf5a9a969d0261964bb526@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261201T203000
+DTEND;TZID=Europe/Brussels:20261201T204500
+SUMMARY:Morgen voorbereiden (15 min)
+DESCRIPTION:Kies één prioriteit\; geen extra zwaar studiewerk.
+CATEGORIES:PLANNING
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:11955f479c415bfb9f539bcffec54745@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261202T083000
+DTEND;TZID=Europe/Brussels:20261202T094500
+SUMMARY:Fascismepaper: vraag en voorlopige stelling
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e63e559fe4d65b1e9fc8acd5a2e258fc@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261202T101500
+DTEND;TZID=Europe/Brussels:20261202T111500
+SUMMARY:Existentiële ethiek: weekhoofdstuk
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ef2eed6250fe598a8e83dd99917cee49@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261202T203000
+DTEND;TZID=Europe/Brussels:20261202T204500
+SUMMARY:Morgen voorbereiden (15 min)
+DESCRIPTION:Kies één prioriteit\; geen extra zwaar studiewerk.
+CATEGORIES:PLANNING
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d70fb5dd0a045bf983e60a783dd4133c@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261203T083000
+DTEND;TZID=Europe/Brussels:20261203T094500
+SUMMARY:Fascismepaper: academische bronnen
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:03ff00948cca5cdf986991b81437eb51@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261203T170000
+DTEND;TZID=Europe/Brussels:20261203T174500
+SUMMARY:Rustige looptraining
+DESCRIPTION:40–50 min praattempo\; geen verplichte intervallen.
+CATEGORIES:SPORT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:94824f49b07f5b39af26fa4e003222a6@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261203T203000
+DTEND;TZID=Europe/Brussels:20261203T204500
+SUMMARY:Morgen voorbereiden (15 min)
+DESCRIPTION:Kies één prioriteit\; geen extra zwaar studiewerk.
+CATEGORIES:PLANNING
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6725e600e11b5f74a09d5b883e54f192@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261204T083000
+DTEND;TZID=Europe/Brussels:20261204T100000
+SUMMARY:EU: hoofdstuk 7
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:984ad70aec875d918760abb34187b3e3@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261204T130000
+DTEND;TZID=Europe/Brussels:20261204T134500
+SUMMARY:Werk: ambassades opvolgen
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea1d8c46bb645b0b9dbe73a9d6347291@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261204T203000
+DTEND;TZID=Europe/Brussels:20261204T204500
+SUMMARY:Morgen voorbereiden (15 min)
+DESCRIPTION:Kies één prioriteit\; geen extra zwaar studiewerk.
+CATEGORIES:PLANNING
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f329557339635a4d98695a2e614bd0b2@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261205T090000
+DTEND;TZID=Europe/Brussels:20261205T103000
+SUMMARY:Lange duurloop (tijdslot voorlopig)
+DESCRIPTION:Afstand en duur volgens bestaand trainingsschema en medische be
+ lastbaarheid\; pas tijdslot aan.
+CATEGORIES:SPORT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:44009dea350f5b67b7608d1e8e81835a@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261206T100000
+DTEND;TZID=Europe/Brussels:20261206T120000
+SUMMARY:Jack indoor coachen (voorlopig)
+DESCRIPTION:Controleer of indoortraining doorgaat en pas het uur aan.
+CATEGORIES:COACHING
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:18d69a6151325baf8d63b6ab4ccda7de@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261206T160000
+DTEND;TZID=Europe/Brussels:20261206T164500
+SUMMARY:Bachelorproef: 3 onderwerpen bedenken
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:739f12b937ae5248b3ef7216cbaf1cba@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261207T083000
+DTEND;TZID=Europe/Brussels:20261207T094500
+SUMMARY:Fascismepaper: outline en argumenten
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a1b67068d3ae5d2fbcb5c92b16a52d01@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261207T203000
+DTEND;TZID=Europe/Brussels:20261207T204500
+SUMMARY:Morgen voorbereiden (15 min)
+DESCRIPTION:Kies één prioriteit\; geen extra zwaar studiewerk.
+CATEGORIES:PLANNING
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b9b332dd60fe5a9a90223d2be93cb7ac@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261208T083000
+DTEND;TZID=Europe/Brussels:20261208T100000
+SUMMARY:EU: hoofdstuk 8
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:54783bcc568852b48f83b6fddbcdd7c9@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261208T170000
+DTEND;TZID=Europe/Brussels:20261208T174500
+SUMMARY:Rustige looptraining
+DESCRIPTION:30–50 min praattempo\; alleen als herstel en medische situati
+ e dit toelaten.
+CATEGORIES:SPORT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8090c783327c54f4b6ef138d79365f40@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261208T203000
+DTEND;TZID=Europe/Brussels:20261208T204500
+SUMMARY:Morgen voorbereiden (15 min)
+DESCRIPTION:Kies één prioriteit\; geen extra zwaar studiewerk.
+CATEGORIES:PLANNING
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ba7cfe5ccafa51b4b86d70afe6eae605@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261209T083000
+DTEND;TZID=Europe/Brussels:20261209T094500
+SUMMARY:Fascismepaper: inleiding en deel 1
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d0be5fcc68f05b2b8cebba6cddba7061@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261209T101500
+DTEND;TZID=Europe/Brussels:20261209T111500
+SUMMARY:Existentiële ethiek: weekhoofdstuk
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:84ff1a4656ce57589d5c3d0a3302a758@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261209T203000
+DTEND;TZID=Europe/Brussels:20261209T204500
+SUMMARY:Morgen voorbereiden (15 min)
+DESCRIPTION:Kies één prioriteit\; geen extra zwaar studiewerk.
+CATEGORIES:PLANNING
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2a534653b97152a9a63133cfd88a7be2@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261210T083000
+DTEND;TZID=Europe/Brussels:20261210T094500
+SUMMARY:Bachelorproef: onderwerpen vergelijken
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:39503e8c1bd552d68568a90eae7644bc@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261210T170000
+DTEND;TZID=Europe/Brussels:20261210T174500
+SUMMARY:Rustige looptraining
+DESCRIPTION:40–50 min praattempo\; geen verplichte intervallen.
+CATEGORIES:SPORT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f2a71fbf05515b8fb5ec24ba409e7ac4@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261210T203000
+DTEND;TZID=Europe/Brussels:20261210T204500
+SUMMARY:Morgen voorbereiden (15 min)
+DESCRIPTION:Kies één prioriteit\; geen extra zwaar studiewerk.
+CATEGORIES:PLANNING
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f2f40af68f635d49ae5b3b03157ba6ec@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261211T083000
+DTEND;TZID=Europe/Brussels:20261211T100000
+SUMMARY:EU: hoofdstuk 9
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:91a21969379f5e09bcbe60989ed43dba@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261211T101500
+DTEND;TZID=Europe/Brussels:20261211T104500
+SUMMARY:Bachelorproef: voorlopige keuze
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0e3dd1cdc0cb56e5877a74b4ae3b27f3@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261211T203000
+DTEND;TZID=Europe/Brussels:20261211T204500
+SUMMARY:Morgen voorbereiden (15 min)
+DESCRIPTION:Kies één prioriteit\; geen extra zwaar studiewerk.
+CATEGORIES:PLANNING
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4160849fcfef5bf5bba7eb42f54ac94d@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261212T090000
+DTEND;TZID=Europe/Brussels:20261212T103000
+SUMMARY:Lange duurloop (tijdslot voorlopig)
+DESCRIPTION:Afstand en duur volgens bestaand trainingsschema en medische be
+ lastbaarheid\; pas tijdslot aan.
+CATEGORIES:SPORT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:743fa8f3631053b68c280d2ec09dcf8c@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261213T100000
+DTEND;TZID=Europe/Brussels:20261213T120000
+SUMMARY:Jack indoor coachen (voorlopig)
+DESCRIPTION:Controleer of indoortraining doorgaat en pas het uur aan.
+CATEGORIES:COACHING
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6db2c1f0fc0b5dd3924fa8f4ff46dac4@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261214T083000
+DTEND;TZID=Europe/Brussels:20261214T094500
+SUMMARY:Fascismepaper: tweede onderdeel
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4f0a21157e545d65adbc1be231a12d55@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261214T130000
+DTEND;TZID=Europe/Brussels:20261214T134500
+SUMMARY:Werk: professionele opvolging
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c40c7dadfa4f5b6382e2fba59987dc45@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261214T203000
+DTEND;TZID=Europe/Brussels:20261214T204500
+SUMMARY:Morgen voorbereiden (15 min)
+DESCRIPTION:Kies één prioriteit\; geen extra zwaar studiewerk.
+CATEGORIES:PLANNING
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d355cc62b055538d87701862c2449ffe@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261215T083000
+DTEND;TZID=Europe/Brussels:20261215T100000
+SUMMARY:EU: hoofdstuk 10
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:81fdb545614558869faa24a47bf5fb77@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261215T170000
+DTEND;TZID=Europe/Brussels:20261215T174500
+SUMMARY:Rustige looptraining
+DESCRIPTION:30–50 min praattempo\; alleen als herstel en medische situati
+ e dit toelaten.
+CATEGORIES:SPORT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3e69e093c0c9501b8e6d0173e310015b@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261215T203000
+DTEND;TZID=Europe/Brussels:20261215T204500
+SUMMARY:Morgen voorbereiden (15 min)
+DESCRIPTION:Kies één prioriteit\; geen extra zwaar studiewerk.
+CATEGORIES:PLANNING
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:191030528818559e85f08ffec3f4e6c7@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261216T083000
+DTEND;TZID=Europe/Brussels:20261216T094500
+SUMMARY:Fascismepaper: derde deel en tegenargumenten
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4c46f8a38d245cd59e121919ea6c9a70@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261216T101500
+DTEND;TZID=Europe/Brussels:20261216T111500
+SUMMARY:Existentiële ethiek: weekhoofdstuk
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ed0d10081440598e870d8242b5fe4434@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261216T203000
+DTEND;TZID=Europe/Brussels:20261216T204500
+SUMMARY:Morgen voorbereiden (15 min)
+DESCRIPTION:Kies één prioriteit\; geen extra zwaar studiewerk.
+CATEGORIES:PLANNING
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1ff43111d4655ddcbb1e1d7d1829133f@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261217T083000
+DTEND;TZID=Europe/Brussels:20261217T094500
+SUMMARY:Fascismepaper: conclusie en referenties
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:36da925e1a6a514998bbe988c0182b13@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261217T170000
+DTEND;TZID=Europe/Brussels:20261217T174500
+SUMMARY:Rustige looptraining
+DESCRIPTION:40–50 min praattempo\; geen verplichte intervallen.
+CATEGORIES:SPORT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2812e2a0eb7d5e08afb83c0ac2985a53@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261217T203000
+DTEND;TZID=Europe/Brussels:20261217T204500
+SUMMARY:Morgen voorbereiden (15 min)
+DESCRIPTION:Kies één prioriteit\; geen extra zwaar studiewerk.
+CATEGORIES:PLANNING
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a78759b50d6a5becb59e29a5ee9c155a@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261218T083000
+DTEND;TZID=Europe/Brussels:20261218T100000
+SUMMARY:EU: hoofdstuk 11
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:81e24d5a02b05e8db4d4b6894d74d6df@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261218T101500
+DTEND;TZID=Europe/Brussels:20261218T110000
+SUMMARY:Fascismepaper: eerste versie samenstellen
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c0e0a0994c0950b994d1e29dc2cf0b35@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261218T203000
+DTEND;TZID=Europe/Brussels:20261218T204500
+SUMMARY:Morgen voorbereiden (15 min)
+DESCRIPTION:Kies één prioriteit\; geen extra zwaar studiewerk.
+CATEGORIES:PLANNING
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e261d61898dc5b58bf3d02335f127851@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261219T090000
+DTEND;TZID=Europe/Brussels:20261219T103000
+SUMMARY:Lange duurloop (tijdslot voorlopig)
+DESCRIPTION:Afstand en duur volgens bestaand trainingsschema en medische be
+ lastbaarheid\; pas tijdslot aan.
+CATEGORIES:SPORT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a077bc5b230c586f8d4bb1dbc29f1bbf@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261220T100000
+DTEND;TZID=Europe/Brussels:20261220T120000
+SUMMARY:Jack indoor coachen (voorlopig)
+DESCRIPTION:Controleer of indoortraining doorgaat en pas het uur aan.
+CATEGORIES:COACHING
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6f7d95bf720857b4bb57e01e13196b76@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261220T160000
+DTEND;TZID=Europe/Brussels:20261220T164500
+SUMMARY:EU: buffer notities bijwerken (optioneel)
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:52fbac63fc6151b3a21bea6673538512@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261221T083000
+DTEND;TZID=Europe/Brussels:20261221T094500
+SUMMARY:Fascismepaper: kritisch nalezen
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ced624c2c5cb570798b94caccaeedebc@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261221T203000
+DTEND;TZID=Europe/Brussels:20261221T204500
+SUMMARY:Morgen voorbereiden (15 min)
+DESCRIPTION:Kies één prioriteit\; geen extra zwaar studiewerk.
+CATEGORIES:PLANNING
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:409e54fb48735515af6c8c05fa9b8372@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261222T083000
+DTEND;TZID=Europe/Brussels:20261222T094500
+SUMMARY:Fascismepaper: verbeteren en afronden
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6aa20915f09b53199121e4b8c452e7d7@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261222T170000
+DTEND;TZID=Europe/Brussels:20261222T174500
+SUMMARY:Rustige looptraining
+DESCRIPTION:30–50 min praattempo\; alleen als herstel en medische situati
+ e dit toelaten.
+CATEGORIES:SPORT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8fa7f7eab94b5f6593dedcf7b481ca6b@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261222T203000
+DTEND;TZID=Europe/Brussels:20261222T204500
+SUMMARY:Morgen voorbereiden (15 min)
+DESCRIPTION:Kies één prioriteit\; geen extra zwaar studiewerk.
+CATEGORIES:PLANNING
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3beaa8fafd245ff9911331f728189d1c@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261223T083000
+DTEND;TZID=Europe/Brussels:20261223T093000
+SUMMARY:Existentiële ethiek: weekhoofdstuk
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7d9bee182d8850a4ba7a1ee6b2970791@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261223T101500
+DTEND;TZID=Europe/Brussels:20261223T104500
+SUMMARY:Januari: eerste voorbereiding
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d99110bd8f055c35997d5a09c77bb2cf@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261223T203000
+DTEND;TZID=Europe/Brussels:20261223T204500
+SUMMARY:Morgen voorbereiden (15 min)
+DESCRIPTION:Kies één prioriteit\; geen extra zwaar studiewerk.
+CATEGORIES:PLANNING
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dabf3d00b205552eac58593f16ede7fd@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261224T090000
+DTEND;TZID=Europe/Brussels:20261224T091500
+SUMMARY:Vrije dag — geen studie gepland
+DESCRIPTION:Alleen een kalenderherinnering\; geniet van je vrije dag.
+CATEGORIES:RUST
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:60ac9d28fe1157d984f62f91566b7a7d@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261224T170000
+DTEND;TZID=Europe/Brussels:20261224T174500
+SUMMARY:Rustige looptraining
+DESCRIPTION:40–50 min praattempo\; geen verplichte intervallen.
+CATEGORIES:SPORT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9541c3c1838455789e196c3f0e7e0af5@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261225T090000
+DTEND;TZID=Europe/Brussels:20261225T091500
+SUMMARY:Vrije dag — geen studie gepland
+DESCRIPTION:Alleen een kalenderherinnering\; geniet van je vrije dag.
+CATEGORIES:RUST
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:121c70489b0d5fa38d4fce49ef03bdd0@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261226T090000
+DTEND;TZID=Europe/Brussels:20261226T103000
+SUMMARY:Lange duurloop (tijdslot voorlopig)
+DESCRIPTION:Afstand en duur volgens bestaand trainingsschema en medische be
+ lastbaarheid\; pas tijdslot aan.
+CATEGORIES:SPORT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:877bb99ce0275d38ab0000e1d184d76b@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261227T100000
+DTEND;TZID=Europe/Brussels:20261227T120000
+SUMMARY:Jack indoor coachen (voorlopig)
+DESCRIPTION:Controleer of indoortraining doorgaat en pas het uur aan.
+CATEGORIES:COACHING
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4ddfc9e0ddc85d46a07649d114d9c461@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261228T083000
+DTEND;TZID=Europe/Brussels:20261228T094500
+SUMMARY:EU: overzicht 11 hoofdstukken
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:45b364952bcb582b988ee17605479c32@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261228T101500
+DTEND;TZID=Europe/Brussels:20261228T104500
+SUMMARY:Werk: openstaande contacten inventariseren
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:445e7bdc7de9517dac08575a30db1190@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261228T203000
+DTEND;TZID=Europe/Brussels:20261228T204500
+SUMMARY:Morgen voorbereiden (15 min)
+DESCRIPTION:Kies één prioriteit\; geen extra zwaar studiewerk.
+CATEGORIES:PLANNING
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:73f5fd030b8354a2a4ec69c769cd8bb9@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261229T083000
+DTEND;TZID=Europe/Brussels:20261229T094500
+SUMMARY:Bachelorproef: onderzoeksvraag en stappen
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:da24ded0df465cdabd8699f17d2bda61@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261229T170000
+DTEND;TZID=Europe/Brussels:20261229T174500
+SUMMARY:Rustige looptraining
+DESCRIPTION:30–50 min praattempo\; alleen als herstel en medische situati
+ e dit toelaten.
+CATEGORIES:SPORT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4e51345b26195b47932599ac237d36bc@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261229T203000
+DTEND;TZID=Europe/Brussels:20261229T204500
+SUMMARY:Morgen voorbereiden (15 min)
+DESCRIPTION:Kies één prioriteit\; geen extra zwaar studiewerk.
+CATEGORIES:PLANNING
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8697e69b76695236afd0efb4eb2c5572@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261230T083000
+DTEND;TZID=Europe/Brussels:20261230T093000
+SUMMARY:Existentiële ethiek: weekhoofdstuk
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:15cbccf69b7f5f45ac4709097683f55c@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261230T101500
+DTEND;TZID=Europe/Brussels:20261230T110000
+SUMMARY:Januari: prioriteiten en planning
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0e14719dd7ac5cb39371c61386f4f110@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261230T203000
+DTEND;TZID=Europe/Brussels:20261230T204500
+SUMMARY:Morgen voorbereiden (15 min)
+DESCRIPTION:Kies één prioriteit\; geen extra zwaar studiewerk.
+CATEGORIES:PLANNING
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:af0e6c79bf645772b307db26d0337110@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261231T090000
+DTEND;TZID=Europe/Brussels:20261231T094500
+SUMMARY:Jaarreflectie: energie\, richting en vooruitgang
+DESCRIPTION:Richttijd — verplaats naar je werk- en lessenrooster. Geen au
+ tomatische inhaalverplichting.
+CATEGORIES:STUDIE
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
