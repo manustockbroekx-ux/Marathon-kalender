@@ -1,0 +1,4480 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Persoonlijke planning//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Holistisch leefritme november-december 2026
+X-WR-TIMEZONE:Europe/Brussels
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+BEGIN:STANDARD
+DTSTART:20261025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:e307d3f3-30b2-5a18-b41c-780aea1c14a8@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261109T224500
+DTEND;TZID=Europe/Brussels:20261110T073000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:010bf482-b8e0-55a3-84f5-deddc231012b@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261109T073000
+DTEND;TZID=Europe/Brussels:20261109T082000
+SUMMARY:Opstaan\, ontbijt en rustig starten
+DESCRIPTION:Water\, daglicht 10 min\, ontbijt\, eventueel korte wandeling
+ . Geen e-mail bij het opstaan.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:911afc0b-53db-53f4-8cbe-929d8711ca5d@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261109T113500
+DTEND;TZID=Europe/Brussels:20261109T115000
+SUMMARY:Microherstel: buitenlucht / pauze
+DESCRIPTION:Even weg van het bureau\; wandelen of rustig ademhalen. Scher
+ m uit.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cf6b9be7-3da3-5ab3-a371-b0215132b680@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261109T120000
+DTEND;TZID=Europe/Brussels:20261109T123000
+SUMMARY:Lunch zonder scherm
+DESCRIPTION:Eten en herstellen. Laat taken even los.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e495cd96-ae25-5703-adb5-9638929e627f@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261109T181500
+DTEND;TZID=Europe/Brussels:20261109T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7f5550cf-c2d2-5239-8bd5-68b8ea192578@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261109T190000
+DTEND;TZID=Europe/Brussels:20261109T201500
+SUMMARY:Rustige avond: lezen voor plezier
+DESCRIPTION:20–40 min fictie of iets zonder studiedruk\, thee en muziek
+ . Vrijblijvend\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6465861a-86a1-563b-8865-b53055d0294a@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261109T204500
+DTEND;TZID=Europe/Brussels:20261109T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b7e1bef6-b70b-5c99-9cd5-4135e4737cd0@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261109T213000
+DTEND;TZID=Europe/Brussels:20261109T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e08833e3-4613-5295-a0d1-9bc644b472ad@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261110T224500
+DTEND;TZID=Europe/Brussels:20261111T073000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b57a4143-51bf-51d2-863a-6b6637ffb0ff@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261110T073000
+DTEND;TZID=Europe/Brussels:20261110T082000
+SUMMARY:Opstaan\, ontbijt en rustig starten
+DESCRIPTION:Water\, daglicht 10 min\, ontbijt\, eventueel korte wandeling
+ . Geen e-mail bij het opstaan.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0c316fbe-7f78-5718-ba30-8e26538891ab@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261110T113500
+DTEND;TZID=Europe/Brussels:20261110T115000
+SUMMARY:Microherstel: buitenlucht / pauze
+DESCRIPTION:Even weg van het bureau\; wandelen of rustig ademhalen. Scher
+ m uit.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c4acf790-dccf-5f9a-932b-5c29bab2380b@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261110T120000
+DTEND;TZID=Europe/Brussels:20261110T123000
+SUMMARY:Lunch zonder scherm
+DESCRIPTION:Eten en herstellen. Laat taken even los.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1b50ce37-1628-539e-9359-92effe8d1466@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261110T181500
+DTEND;TZID=Europe/Brussels:20261110T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2361b454-7724-5281-b09b-d4063f49cf83@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261110T190000
+DTEND;TZID=Europe/Brussels:20261110T201500
+SUMMARY:Ontspanning: vriend bellen of samen iets doen
+DESCRIPTION:Sociaal contact zonder productiviteitsdoel. Ook 20 minuten is
+  genoeg. Vrijblijvend\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e2d8ea47-9044-5b20-8d5a-90d18c69ebe0@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261110T204500
+DTEND;TZID=Europe/Brussels:20261110T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7af2afe3-018c-5598-bb68-60cf6e394bb9@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261110T213000
+DTEND;TZID=Europe/Brussels:20261110T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8268bb69-ecdf-51a3-9c7f-09e2c5eb5fc4@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261111T224500
+DTEND;TZID=Europe/Brussels:20261112T073000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:75988d63-0ed1-5a46-94dc-f98403de1885@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261111T073000
+DTEND;TZID=Europe/Brussels:20261111T082000
+SUMMARY:Opstaan\, ontbijt en rustig starten
+DESCRIPTION:Water\, daglicht 10 min\, ontbijt\, eventueel korte wandeling
+ . Geen e-mail bij het opstaan.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:641306cd-3612-5316-9b71-b25ef1e81981@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261111T113500
+DTEND;TZID=Europe/Brussels:20261111T115000
+SUMMARY:Microherstel: buitenlucht / pauze
+DESCRIPTION:Even weg van het bureau\; wandelen of rustig ademhalen. Scher
+ m uit.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:03ed444d-e35c-5e66-b444-402efc1022f9@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261111T120000
+DTEND;TZID=Europe/Brussels:20261111T123000
+SUMMARY:Lunch zonder scherm
+DESCRIPTION:Eten en herstellen. Laat taken even los.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:06ba6c4c-8383-5f73-967f-2aeb11824d9a@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261111T181500
+DTEND;TZID=Europe/Brussels:20261111T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:94046f0a-0490-5559-9f27-813e82ea235d@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261111T190000
+DTEND;TZID=Europe/Brussels:20261111T201500
+SUMMARY:Herstelavond: douche\, stretchen en ademruimte
+DESCRIPTION:Licht rekken\, warm douchen\, zonder zware inspanning of sche
+ rmdruk. Vrijblijvend\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f296118f-4dda-5376-a5a0-858722ea4040@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261111T204500
+DTEND;TZID=Europe/Brussels:20261111T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:32dca9fd-9db0-5490-8149-3de759a686cb@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261111T213000
+DTEND;TZID=Europe/Brussels:20261111T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a2d29925-9d68-5665-8a86-65871f634619@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261112T224500
+DTEND;TZID=Europe/Brussels:20261113T073000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fedc247b-fcd1-5fe7-b7a4-5b97ff9db4da@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261112T073000
+DTEND;TZID=Europe/Brussels:20261112T082000
+SUMMARY:Opstaan\, ontbijt en rustig starten
+DESCRIPTION:Water\, daglicht 10 min\, ontbijt\, eventueel korte wandeling
+ . Geen e-mail bij het opstaan.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c7bc384d-afee-5fac-ad3f-9507b1f6c096@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261112T113500
+DTEND;TZID=Europe/Brussels:20261112T115000
+SUMMARY:Microherstel: buitenlucht / pauze
+DESCRIPTION:Even weg van het bureau\; wandelen of rustig ademhalen. Scher
+ m uit.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a9b42178-dd0c-57b3-bbe1-5d8db38a8df6@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261112T120000
+DTEND;TZID=Europe/Brussels:20261112T123000
+SUMMARY:Lunch zonder scherm
+DESCRIPTION:Eten en herstellen. Laat taken even los.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fe8ae61e-44db-571d-8b41-8c00d3f42095@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261112T181500
+DTEND;TZID=Europe/Brussels:20261112T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4a25f840-8f4c-5cff-ae27-500aa44100c7@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261112T190000
+DTEND;TZID=Europe/Brussels:20261112T201500
+SUMMARY:Creatieve avond: muziek\, tekenen of koken
+DESCRIPTION:Kies één leuke creatieve activiteit\, zonder resultaatverpl
+ ichting. Vrijblijvend\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fb3100e1-af2c-598d-8e86-df6554a4add2@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261112T204500
+DTEND;TZID=Europe/Brussels:20261112T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0148747d-2cea-57aa-8302-cf0bb261ce69@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261112T213000
+DTEND;TZID=Europe/Brussels:20261112T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fdd71427-2497-582b-b49f-742d824a651e@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261113T224500
+DTEND;TZID=Europe/Brussels:20261114T080000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:680de2eb-b051-5085-80fe-ff0b25b133ba@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261113T073000
+DTEND;TZID=Europe/Brussels:20261113T082000
+SUMMARY:Opstaan\, ontbijt en rustig starten
+DESCRIPTION:Water\, daglicht 10 min\, ontbijt\, eventueel korte wandeling
+ . Geen e-mail bij het opstaan.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:30c46044-2f35-514a-ae38-bb40f4073234@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261113T113500
+DTEND;TZID=Europe/Brussels:20261113T115000
+SUMMARY:Microherstel: buitenlucht / pauze
+DESCRIPTION:Even weg van het bureau\; wandelen of rustig ademhalen. Scher
+ m uit.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1fc41869-4386-577d-8c25-cf1a8476d914@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261113T120000
+DTEND;TZID=Europe/Brussels:20261113T123000
+SUMMARY:Lunch zonder scherm
+DESCRIPTION:Eten en herstellen. Laat taken even los.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:395ee796-3e4c-52d7-98ac-b4c9ec0c66bf@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261113T181500
+DTEND;TZID=Europe/Brussels:20261113T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:31c19954-f7ad-5a7e-8809-8ca093e2b11a@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261113T190000
+DTEND;TZID=Europe/Brussels:20261113T201500
+SUMMARY:Film\, spel of vrije avond
+DESCRIPTION:Iets leuks bekijken of een spel doen. Niet combineren met stu
+ deren. Vrijblijvend\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1343a9b6-9d70-506f-aeb5-adb2b50a0937@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261113T204500
+DTEND;TZID=Europe/Brussels:20261113T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8ca17d74-55a0-56a4-86d5-d017f5b8f7a3@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261113T213000
+DTEND;TZID=Europe/Brussels:20261113T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7db3edf6-298f-50d0-8a4b-11075358a83f@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261114T224500
+DTEND;TZID=Europe/Brussels:20261115T080000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b3ff05d1-e201-551b-a5b8-2a84e28965df@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261114T080000
+DTEND;TZID=Europe/Brussels:20261114T084000
+SUMMARY:Rustig opstaan\, daglicht en ontbijt
+DESCRIPTION:Glas water\, daglicht\, ontbijt. Geen telefoon in de eerste 1
+ 5 minuten.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d7455524-0a69-5457-9a98-54f4110daba0@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261114T122000
+DTEND;TZID=Europe/Brussels:20261114T130000
+SUMMARY:Lunch + pauze
+DESCRIPTION:Eten\, hydrateren\, niet multitasken.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:99c56fb1-94f1-5974-a1c3-d86fc39d15cb@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261114T181500
+DTEND;TZID=Europe/Brussels:20261114T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3245cb53-2ddb-5d77-b9a5-556c98343f47@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261114T190000
+DTEND;TZID=Europe/Brussels:20261114T201500
+SUMMARY:Vrije avond: vrienden\, hobby of niets
+DESCRIPTION:Bewust vrij\, je hoeft dit blok niet op te vullen. Vrijblijve
+ nd\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1f73dc0d-0b6d-57e8-89d9-8b1efbb98814@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261114T204500
+DTEND;TZID=Europe/Brussels:20261114T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:347c393c-116a-5d4f-b172-84e0c024d449@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261114T213000
+DTEND;TZID=Europe/Brussels:20261114T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ec42d947-e45f-5172-b1c1-77ce1fb9db71@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261115T224500
+DTEND;TZID=Europe/Brussels:20261116T073000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2fb4b41a-291a-5ecd-8819-593d80fe5c0a@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261115T080000
+DTEND;TZID=Europe/Brussels:20261115T084000
+SUMMARY:Rustig opstaan\, daglicht en ontbijt
+DESCRIPTION:Glas water\, daglicht\, ontbijt. Geen telefoon in de eerste 1
+ 5 minuten.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ddae0e52-685f-5884-850f-8661ea04c0ab@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261115T122000
+DTEND;TZID=Europe/Brussels:20261115T130000
+SUMMARY:Lunch + pauze
+DESCRIPTION:Eten\, hydrateren\, niet multitasken.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:800b2fc1-b736-5de4-8d02-ce9505e08b55@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261115T181500
+DTEND;TZID=Europe/Brussels:20261115T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c1f24177-a9ee-502e-96ff-baf1564a8da0@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261115T190000
+DTEND;TZID=Europe/Brussels:20261115T201500
+SUMMARY:Zondagavond: rustige reflectie en ontspanning
+DESCRIPTION:Kort opschrijven wat je energie gaf\, daarna iets rustigs doe
+ n. Vrijblijvend\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a0e16bca-d426-55ce-8eca-47ee32290be8@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261115T204500
+DTEND;TZID=Europe/Brussels:20261115T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7a55d624-fd32-5043-b82e-099083c67a18@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261115T213000
+DTEND;TZID=Europe/Brussels:20261115T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9092d663-3c0a-50a0-982d-d192ba8786a9@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261116T224500
+DTEND;TZID=Europe/Brussels:20261117T073000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:49a544e1-8979-581d-8873-dc4e937ae999@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261116T073000
+DTEND;TZID=Europe/Brussels:20261116T082000
+SUMMARY:Opstaan\, ontbijt en rustig starten
+DESCRIPTION:Water\, daglicht 10 min\, ontbijt\, eventueel korte wandeling
+ . Geen e-mail bij het opstaan.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:336e4c1d-c9b8-5d1a-bb72-1ffb772ea0c0@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261116T113500
+DTEND;TZID=Europe/Brussels:20261116T115000
+SUMMARY:Microherstel: buitenlucht / pauze
+DESCRIPTION:Even weg van het bureau\; wandelen of rustig ademhalen. Scher
+ m uit.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:10e30773-9bab-5fc2-b66b-d55ac652ee82@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261116T120000
+DTEND;TZID=Europe/Brussels:20261116T123000
+SUMMARY:Lunch zonder scherm
+DESCRIPTION:Eten en herstellen. Laat taken even los.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8186c45f-0adc-5d40-ad17-328f737e88e0@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261116T181500
+DTEND;TZID=Europe/Brussels:20261116T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c26130e9-1403-54be-b4c8-a2f21d0bfa06@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261116T190000
+DTEND;TZID=Europe/Brussels:20261116T201500
+SUMMARY:Rustige avond: lezen voor plezier
+DESCRIPTION:20–40 min fictie of iets zonder studiedruk\, thee en muziek
+ . Vrijblijvend\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:40e5d2c1-ea86-57bf-9f4a-e096310168b0@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261116T204500
+DTEND;TZID=Europe/Brussels:20261116T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a5cfe432-2ced-57fc-b110-d93c46cb7ad2@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261116T213000
+DTEND;TZID=Europe/Brussels:20261116T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e217cde5-ea7a-56ad-a3f2-9253862ebada@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261117T224500
+DTEND;TZID=Europe/Brussels:20261118T073000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4f7e057e-4ad2-58df-a4f9-fe166dbf09c7@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261117T073000
+DTEND;TZID=Europe/Brussels:20261117T082000
+SUMMARY:Opstaan\, ontbijt en rustig starten
+DESCRIPTION:Water\, daglicht 10 min\, ontbijt\, eventueel korte wandeling
+ . Geen e-mail bij het opstaan.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2dcc6d01-ce0b-597a-8173-ee4698013bb4@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261117T113500
+DTEND;TZID=Europe/Brussels:20261117T115000
+SUMMARY:Microherstel: buitenlucht / pauze
+DESCRIPTION:Even weg van het bureau\; wandelen of rustig ademhalen. Scher
+ m uit.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a64c514c-0c8b-51c6-86aa-0d7ff22b403c@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261117T120000
+DTEND;TZID=Europe/Brussels:20261117T123000
+SUMMARY:Lunch zonder scherm
+DESCRIPTION:Eten en herstellen. Laat taken even los.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20d095c7-dd7d-5716-9261-da8f02fc677c@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261117T181500
+DTEND;TZID=Europe/Brussels:20261117T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d7ec386f-ef20-58aa-9c28-be4a6b5edd67@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261117T190000
+DTEND;TZID=Europe/Brussels:20261117T201500
+SUMMARY:Ontspanning: vriend bellen of samen iets doen
+DESCRIPTION:Sociaal contact zonder productiviteitsdoel. Ook 20 minuten is
+  genoeg. Vrijblijvend\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:02d2aae4-7b2c-5c12-9e1e-8289468eb244@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261117T204500
+DTEND;TZID=Europe/Brussels:20261117T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7053533b-8ac7-57c5-98f8-def1308bc9db@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261117T213000
+DTEND;TZID=Europe/Brussels:20261117T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:01727516-84ba-5440-a9cf-b9445081246c@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261118T224500
+DTEND;TZID=Europe/Brussels:20261119T073000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b3ab96f1-7bda-5404-94ee-5f026a26a0e9@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261118T073000
+DTEND;TZID=Europe/Brussels:20261118T082000
+SUMMARY:Opstaan\, ontbijt en rustig starten
+DESCRIPTION:Water\, daglicht 10 min\, ontbijt\, eventueel korte wandeling
+ . Geen e-mail bij het opstaan.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bb00bcb5-e698-5d23-8f5d-4665737c8a9d@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261118T113500
+DTEND;TZID=Europe/Brussels:20261118T115000
+SUMMARY:Microherstel: buitenlucht / pauze
+DESCRIPTION:Even weg van het bureau\; wandelen of rustig ademhalen. Scher
+ m uit.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8718634d-c81d-5ee6-89b9-aeef1e5dab10@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261118T120000
+DTEND;TZID=Europe/Brussels:20261118T123000
+SUMMARY:Lunch zonder scherm
+DESCRIPTION:Eten en herstellen. Laat taken even los.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fd1431aa-7fa7-58ff-92e7-54e5130d100f@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261118T181500
+DTEND;TZID=Europe/Brussels:20261118T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0d9f56d0-723a-54ac-a247-1adceb157f3f@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261118T190000
+DTEND;TZID=Europe/Brussels:20261118T201500
+SUMMARY:Herstelavond: douche\, stretchen en ademruimte
+DESCRIPTION:Licht rekken\, warm douchen\, zonder zware inspanning of sche
+ rmdruk. Vrijblijvend\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3869d00a-690e-5b51-9e7e-b6d2660348dd@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261118T204500
+DTEND;TZID=Europe/Brussels:20261118T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:90849a77-a066-574f-9440-71f6695d448a@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261118T213000
+DTEND;TZID=Europe/Brussels:20261118T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3cf790f5-4e94-58b8-8bc0-8ae3837618bf@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261119T224500
+DTEND;TZID=Europe/Brussels:20261120T073000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e87766e8-30d7-542e-b1b0-4889fa5e690f@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261119T073000
+DTEND;TZID=Europe/Brussels:20261119T082000
+SUMMARY:Opstaan\, ontbijt en rustig starten
+DESCRIPTION:Water\, daglicht 10 min\, ontbijt\, eventueel korte wandeling
+ . Geen e-mail bij het opstaan.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:63f48461-d273-54d6-9f44-4b1b4c2519b6@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261119T113500
+DTEND;TZID=Europe/Brussels:20261119T115000
+SUMMARY:Microherstel: buitenlucht / pauze
+DESCRIPTION:Even weg van het bureau\; wandelen of rustig ademhalen. Scher
+ m uit.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fdcc7f1f-4081-582e-8291-000f80111b31@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261119T120000
+DTEND;TZID=Europe/Brussels:20261119T123000
+SUMMARY:Lunch zonder scherm
+DESCRIPTION:Eten en herstellen. Laat taken even los.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:03a62d46-828b-5975-afef-91e600b6fddc@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261119T181500
+DTEND;TZID=Europe/Brussels:20261119T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:01e490c0-eeb8-5076-b0fb-970d84496094@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261119T190000
+DTEND;TZID=Europe/Brussels:20261119T201500
+SUMMARY:Creatieve avond: muziek\, tekenen of koken
+DESCRIPTION:Kies één leuke creatieve activiteit\, zonder resultaatverpl
+ ichting. Vrijblijvend\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9af43713-d178-5a00-88d5-351d3ec7e243@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261119T204500
+DTEND;TZID=Europe/Brussels:20261119T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8cb33da1-5f6a-57df-99f7-d6e570caef6a@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261119T213000
+DTEND;TZID=Europe/Brussels:20261119T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:502412e3-0414-5008-9150-faa3f10fb4e7@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261120T224500
+DTEND;TZID=Europe/Brussels:20261121T080000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:aaad59fb-7d1e-5030-8194-c1e31ca2264c@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261120T073000
+DTEND;TZID=Europe/Brussels:20261120T082000
+SUMMARY:Opstaan\, ontbijt en rustig starten
+DESCRIPTION:Water\, daglicht 10 min\, ontbijt\, eventueel korte wandeling
+ . Geen e-mail bij het opstaan.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d33bfa9e-6bfd-5e89-aca5-949f3ed558e1@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261120T113500
+DTEND;TZID=Europe/Brussels:20261120T115000
+SUMMARY:Microherstel: buitenlucht / pauze
+DESCRIPTION:Even weg van het bureau\; wandelen of rustig ademhalen. Scher
+ m uit.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:915f1d6f-7ce9-59d1-8881-b1d74d6af39f@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261120T120000
+DTEND;TZID=Europe/Brussels:20261120T123000
+SUMMARY:Lunch zonder scherm
+DESCRIPTION:Eten en herstellen. Laat taken even los.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:eed0e648-e514-5a0d-9913-5f7df4886e07@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261120T181500
+DTEND;TZID=Europe/Brussels:20261120T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e136b1b0-4795-57bf-ae02-fcd2093f42eb@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261120T190000
+DTEND;TZID=Europe/Brussels:20261120T201500
+SUMMARY:Film\, spel of vrije avond
+DESCRIPTION:Iets leuks bekijken of een spel doen. Niet combineren met stu
+ deren. Vrijblijvend\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dfa51cbf-bf0f-58e5-a653-e63b083e1c77@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261120T204500
+DTEND;TZID=Europe/Brussels:20261120T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e73dc3f8-bfd8-5e9a-a3c1-603c67397f59@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261120T213000
+DTEND;TZID=Europe/Brussels:20261120T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f812a700-bfa9-5f7c-bdbf-389367bb1e68@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261121T224500
+DTEND;TZID=Europe/Brussels:20261122T080000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b36b75e5-61b6-5781-aa0c-affd37524c5b@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261121T080000
+DTEND;TZID=Europe/Brussels:20261121T084000
+SUMMARY:Rustig opstaan\, daglicht en ontbijt
+DESCRIPTION:Glas water\, daglicht\, ontbijt. Geen telefoon in de eerste 1
+ 5 minuten.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f330e49b-9ed0-59ad-a1d5-8ce451c3a379@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261121T122000
+DTEND;TZID=Europe/Brussels:20261121T130000
+SUMMARY:Lunch + pauze
+DESCRIPTION:Eten\, hydrateren\, niet multitasken.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b63cfd8c-25ff-5d3c-a2c3-81d50de2260a@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261121T181500
+DTEND;TZID=Europe/Brussels:20261121T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:01bb7b03-cba3-5cb3-9392-79b7c19611ea@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261121T190000
+DTEND;TZID=Europe/Brussels:20261121T201500
+SUMMARY:Vrije avond: vrienden\, hobby of niets
+DESCRIPTION:Bewust vrij\, je hoeft dit blok niet op te vullen. Vrijblijve
+ nd\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9cf17c86-6c45-5a84-aedb-5b5acee25a37@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261121T204500
+DTEND;TZID=Europe/Brussels:20261121T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a729dee7-f483-5d96-a6da-d363cba2d68a@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261121T213000
+DTEND;TZID=Europe/Brussels:20261121T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7b7cdf77-525f-5d97-8664-2bdd4c3fc184@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261122T224500
+DTEND;TZID=Europe/Brussels:20261123T073000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5c634052-c142-571e-bf5d-134452aa0419@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261122T080000
+DTEND;TZID=Europe/Brussels:20261122T084000
+SUMMARY:Rustig opstaan\, daglicht en ontbijt
+DESCRIPTION:Glas water\, daglicht\, ontbijt. Geen telefoon in de eerste 1
+ 5 minuten.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e60cc03d-874a-5d17-9601-b3c05be8aecc@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261122T122000
+DTEND;TZID=Europe/Brussels:20261122T130000
+SUMMARY:Lunch + pauze
+DESCRIPTION:Eten\, hydrateren\, niet multitasken.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:603f713a-b7d2-51ed-9714-cd8bd7630e33@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261122T181500
+DTEND;TZID=Europe/Brussels:20261122T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c907c599-5b09-514e-9abd-61cbe076ad35@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261122T190000
+DTEND;TZID=Europe/Brussels:20261122T201500
+SUMMARY:Zondagavond: rustige reflectie en ontspanning
+DESCRIPTION:Kort opschrijven wat je energie gaf\, daarna iets rustigs doe
+ n. Vrijblijvend\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a9e8b13f-d8a6-5dc6-80c8-899c41bd3be6@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261122T204500
+DTEND;TZID=Europe/Brussels:20261122T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c6b8f2dc-bc0e-527d-b94f-6f8af077cbfe@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261122T213000
+DTEND;TZID=Europe/Brussels:20261122T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5c1d7321-1943-5430-8b2e-1444ef3e6175@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261123T224500
+DTEND;TZID=Europe/Brussels:20261124T073000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1f3c5a37-ea56-5716-8762-564826ca8dce@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261123T073000
+DTEND;TZID=Europe/Brussels:20261123T082000
+SUMMARY:Opstaan\, ontbijt en rustig starten
+DESCRIPTION:Water\, daglicht 10 min\, ontbijt\, eventueel korte wandeling
+ . Geen e-mail bij het opstaan.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c77b2dee-b61a-575b-a461-d9b13b90116e@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261123T113500
+DTEND;TZID=Europe/Brussels:20261123T115000
+SUMMARY:Microherstel: buitenlucht / pauze
+DESCRIPTION:Even weg van het bureau\; wandelen of rustig ademhalen. Scher
+ m uit.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:62d34b15-c682-55fb-b026-f90a8efb8d91@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261123T120000
+DTEND;TZID=Europe/Brussels:20261123T123000
+SUMMARY:Lunch zonder scherm
+DESCRIPTION:Eten en herstellen. Laat taken even los.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:99412806-b6a4-5bc2-8fbd-a1e3521e1edb@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261123T181500
+DTEND;TZID=Europe/Brussels:20261123T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:25f3751b-803a-52a1-9849-1a33af4a4eaf@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261123T190000
+DTEND;TZID=Europe/Brussels:20261123T201500
+SUMMARY:Rustige avond: lezen voor plezier
+DESCRIPTION:20–40 min fictie of iets zonder studiedruk\, thee en muziek
+ . Vrijblijvend\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4f90dac9-0d29-540e-85be-935af2d8e9e6@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261123T204500
+DTEND;TZID=Europe/Brussels:20261123T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c40b4bbe-889d-552b-9dbe-81cc37ac1e72@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261123T213000
+DTEND;TZID=Europe/Brussels:20261123T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9585feb1-bdbd-568b-8944-c9b512947fc5@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261124T224500
+DTEND;TZID=Europe/Brussels:20261125T073000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f4a81129-32f4-5b87-9162-b9fde05e8cd5@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261124T073000
+DTEND;TZID=Europe/Brussels:20261124T082000
+SUMMARY:Opstaan\, ontbijt en rustig starten
+DESCRIPTION:Water\, daglicht 10 min\, ontbijt\, eventueel korte wandeling
+ . Geen e-mail bij het opstaan.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d86c76c6-19bd-522a-8afa-5cf72cc7b108@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261124T113500
+DTEND;TZID=Europe/Brussels:20261124T115000
+SUMMARY:Microherstel: buitenlucht / pauze
+DESCRIPTION:Even weg van het bureau\; wandelen of rustig ademhalen. Scher
+ m uit.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:13bb2564-3ef6-55d5-8c74-d33018a163bb@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261124T120000
+DTEND;TZID=Europe/Brussels:20261124T123000
+SUMMARY:Lunch zonder scherm
+DESCRIPTION:Eten en herstellen. Laat taken even los.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7b5fa2c4-d139-5f7e-a110-f5a5df25c912@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261124T181500
+DTEND;TZID=Europe/Brussels:20261124T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7fd51e6f-4e06-50b9-892f-79a7e3462e86@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261124T190000
+DTEND;TZID=Europe/Brussels:20261124T201500
+SUMMARY:Ontspanning: vriend bellen of samen iets doen
+DESCRIPTION:Sociaal contact zonder productiviteitsdoel. Ook 20 minuten is
+  genoeg. Vrijblijvend\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6f9e3fc5-7e12-5851-b53e-554076d3eeb0@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261124T204500
+DTEND;TZID=Europe/Brussels:20261124T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9ab8d68e-14c8-5b26-9069-f8da0c564b1b@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261124T213000
+DTEND;TZID=Europe/Brussels:20261124T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:aaa60365-49f6-53e7-b28d-dd9bec01fec1@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261125T224500
+DTEND;TZID=Europe/Brussels:20261126T073000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5467cd3d-0967-5125-a477-d1d214338aab@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261125T073000
+DTEND;TZID=Europe/Brussels:20261125T082000
+SUMMARY:Opstaan\, ontbijt en rustig starten
+DESCRIPTION:Water\, daglicht 10 min\, ontbijt\, eventueel korte wandeling
+ . Geen e-mail bij het opstaan.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2ee5b3bd-0b04-592b-b3c4-547ebc373a97@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261125T113500
+DTEND;TZID=Europe/Brussels:20261125T115000
+SUMMARY:Microherstel: buitenlucht / pauze
+DESCRIPTION:Even weg van het bureau\; wandelen of rustig ademhalen. Scher
+ m uit.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9d1ea501-bb94-598f-9468-ebcc27f0e7e8@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261125T120000
+DTEND;TZID=Europe/Brussels:20261125T123000
+SUMMARY:Lunch zonder scherm
+DESCRIPTION:Eten en herstellen. Laat taken even los.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5c54be72-6d3c-553f-9139-cc84ce9fc678@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261125T181500
+DTEND;TZID=Europe/Brussels:20261125T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:859b833f-8999-5a68-8fc3-eaf379a35b6c@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261125T190000
+DTEND;TZID=Europe/Brussels:20261125T201500
+SUMMARY:Herstelavond: douche\, stretchen en ademruimte
+DESCRIPTION:Licht rekken\, warm douchen\, zonder zware inspanning of sche
+ rmdruk. Vrijblijvend\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:09be3829-0873-58d2-b511-2620a944e572@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261125T204500
+DTEND;TZID=Europe/Brussels:20261125T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c718db57-9d98-54d2-b6e6-89dd6a81cf0c@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261125T213000
+DTEND;TZID=Europe/Brussels:20261125T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:620f0186-87db-5f4e-9cba-4e44b440897f@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261126T224500
+DTEND;TZID=Europe/Brussels:20261127T073000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:62c6cce2-1f7f-5350-b00e-2609cd4a1b3f@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261126T073000
+DTEND;TZID=Europe/Brussels:20261126T082000
+SUMMARY:Opstaan\, ontbijt en rustig starten
+DESCRIPTION:Water\, daglicht 10 min\, ontbijt\, eventueel korte wandeling
+ . Geen e-mail bij het opstaan.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c62c07ce-c894-5f74-be67-3cca3b135a0d@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261126T113500
+DTEND;TZID=Europe/Brussels:20261126T115000
+SUMMARY:Microherstel: buitenlucht / pauze
+DESCRIPTION:Even weg van het bureau\; wandelen of rustig ademhalen. Scher
+ m uit.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f4406c79-e80c-5f66-9d0f-b6ce36da63fb@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261126T120000
+DTEND;TZID=Europe/Brussels:20261126T123000
+SUMMARY:Lunch zonder scherm
+DESCRIPTION:Eten en herstellen. Laat taken even los.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:21ac4439-270d-5298-9ced-c51430a58aad@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261126T181500
+DTEND;TZID=Europe/Brussels:20261126T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:529e9e19-3810-5d96-954d-cc3977018ca7@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261126T190000
+DTEND;TZID=Europe/Brussels:20261126T201500
+SUMMARY:Creatieve avond: muziek\, tekenen of koken
+DESCRIPTION:Kies één leuke creatieve activiteit\, zonder resultaatverpl
+ ichting. Vrijblijvend\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:10ab0d94-40b2-533d-9f34-7cf1fa8821be@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261126T204500
+DTEND;TZID=Europe/Brussels:20261126T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d5166e57-bfca-5e78-9a6e-4aa83989ee5f@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261126T213000
+DTEND;TZID=Europe/Brussels:20261126T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:71148fa3-881e-5beb-9503-6164f400a3fc@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261127T224500
+DTEND;TZID=Europe/Brussels:20261128T080000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:81d2f9bb-3e58-52ab-be31-1b93f0f2b8a8@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261127T073000
+DTEND;TZID=Europe/Brussels:20261127T082000
+SUMMARY:Opstaan\, ontbijt en rustig starten
+DESCRIPTION:Water\, daglicht 10 min\, ontbijt\, eventueel korte wandeling
+ . Geen e-mail bij het opstaan.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c19c0e1c-fee8-53ad-8679-123e2a454733@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261127T113500
+DTEND;TZID=Europe/Brussels:20261127T115000
+SUMMARY:Microherstel: buitenlucht / pauze
+DESCRIPTION:Even weg van het bureau\; wandelen of rustig ademhalen. Scher
+ m uit.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffc87164-530d-5e60-9891-2e91a3ea4260@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261127T120000
+DTEND;TZID=Europe/Brussels:20261127T123000
+SUMMARY:Lunch zonder scherm
+DESCRIPTION:Eten en herstellen. Laat taken even los.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2915ab5c-4c97-5874-94b8-e4689f898b6b@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261127T181500
+DTEND;TZID=Europe/Brussels:20261127T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:609774d3-ce4f-522f-9462-179f289f749d@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261127T190000
+DTEND;TZID=Europe/Brussels:20261127T201500
+SUMMARY:Film\, spel of vrije avond
+DESCRIPTION:Iets leuks bekijken of een spel doen. Niet combineren met stu
+ deren. Vrijblijvend\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9a11b25c-eec3-5802-a232-061fbd34f533@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261127T204500
+DTEND;TZID=Europe/Brussels:20261127T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b3194e74-ea72-5df9-b270-e1e8cc460b32@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261127T213000
+DTEND;TZID=Europe/Brussels:20261127T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a08c8182-54c9-5f27-ab86-1fb34017e661@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261128T224500
+DTEND;TZID=Europe/Brussels:20261129T080000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:91a7de83-84ab-5c98-866b-35223dade9e8@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261128T080000
+DTEND;TZID=Europe/Brussels:20261128T084000
+SUMMARY:Rustig opstaan\, daglicht en ontbijt
+DESCRIPTION:Glas water\, daglicht\, ontbijt. Geen telefoon in de eerste 1
+ 5 minuten.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:501b5d1c-899c-59bb-8c09-637fad9ca8dd@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261128T122000
+DTEND;TZID=Europe/Brussels:20261128T130000
+SUMMARY:Lunch + pauze
+DESCRIPTION:Eten\, hydrateren\, niet multitasken.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:963629f5-efee-5912-be4b-7412f1118b27@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261128T181500
+DTEND;TZID=Europe/Brussels:20261128T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1e7c1c45-5ea3-5c92-99f4-784c8ffda702@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261128T190000
+DTEND;TZID=Europe/Brussels:20261128T201500
+SUMMARY:Vrije avond: vrienden\, hobby of niets
+DESCRIPTION:Bewust vrij\, je hoeft dit blok niet op te vullen. Vrijblijve
+ nd\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a2930924-3223-5d4d-9ca6-6da75f03647a@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261128T204500
+DTEND;TZID=Europe/Brussels:20261128T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dd176f1d-fa17-582b-89da-e597fe76f464@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261128T213000
+DTEND;TZID=Europe/Brussels:20261128T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bb9a4865-d1f9-5fd0-8195-3ff084911f1c@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261129T224500
+DTEND;TZID=Europe/Brussels:20261130T073000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5eddd7ce-f31d-54c4-9415-dc1e18a2a3bd@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261129T080000
+DTEND;TZID=Europe/Brussels:20261129T084000
+SUMMARY:Rustig opstaan\, daglicht en ontbijt
+DESCRIPTION:Glas water\, daglicht\, ontbijt. Geen telefoon in de eerste 1
+ 5 minuten.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3577169c-967b-541a-9932-05d4dcfbab87@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261129T122000
+DTEND;TZID=Europe/Brussels:20261129T130000
+SUMMARY:Lunch + pauze
+DESCRIPTION:Eten\, hydrateren\, niet multitasken.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3ba12ff3-5f13-5ad8-a543-b171ca61c59a@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261129T181500
+DTEND;TZID=Europe/Brussels:20261129T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b5a92c38-cc64-5672-9a62-589ee63a391f@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261129T190000
+DTEND;TZID=Europe/Brussels:20261129T201500
+SUMMARY:Zondagavond: rustige reflectie en ontspanning
+DESCRIPTION:Kort opschrijven wat je energie gaf\, daarna iets rustigs doe
+ n. Vrijblijvend\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ee9ee73b-17d3-5829-9382-c9521f32ed49@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261129T204500
+DTEND;TZID=Europe/Brussels:20261129T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fe8da7b3-1643-5ed0-a40f-2feaa595f032@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261129T213000
+DTEND;TZID=Europe/Brussels:20261129T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1876d617-e1c1-5e7b-a2a4-890f7ed4d975@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261130T224500
+DTEND;TZID=Europe/Brussels:20261201T073000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6c705241-3f14-5b8e-995b-43d755a09997@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261130T073000
+DTEND;TZID=Europe/Brussels:20261130T082000
+SUMMARY:Opstaan\, ontbijt en rustig starten
+DESCRIPTION:Water\, daglicht 10 min\, ontbijt\, eventueel korte wandeling
+ . Geen e-mail bij het opstaan.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8349003d-e4ed-5504-abbc-4a280b09b14d@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261130T113500
+DTEND;TZID=Europe/Brussels:20261130T115000
+SUMMARY:Microherstel: buitenlucht / pauze
+DESCRIPTION:Even weg van het bureau\; wandelen of rustig ademhalen. Scher
+ m uit.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5c2d4dcc-903a-5454-9e2e-6198947e2c82@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261130T120000
+DTEND;TZID=Europe/Brussels:20261130T123000
+SUMMARY:Lunch zonder scherm
+DESCRIPTION:Eten en herstellen. Laat taken even los.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7a1367c2-985d-5aef-9aff-e8b5bca9c63b@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261130T181500
+DTEND;TZID=Europe/Brussels:20261130T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3c64e6a7-7e1c-5817-9a43-f9b3ac29f055@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261130T190000
+DTEND;TZID=Europe/Brussels:20261130T201500
+SUMMARY:Rustige avond: lezen voor plezier
+DESCRIPTION:20–40 min fictie of iets zonder studiedruk\, thee en muziek
+ . Vrijblijvend\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:67153acc-6ecc-5b18-a6ca-5bdc81737540@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261130T204500
+DTEND;TZID=Europe/Brussels:20261130T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:728ce89d-98b7-51b7-9f61-e9f687ce3fcf@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261130T213000
+DTEND;TZID=Europe/Brussels:20261130T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c178a9d5-6e17-529d-bcdf-82c75678288c@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261201T224500
+DTEND;TZID=Europe/Brussels:20261202T073000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1f19ea0a-64a2-563e-ba26-3b1a05739ef6@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261201T073000
+DTEND;TZID=Europe/Brussels:20261201T082000
+SUMMARY:Opstaan\, ontbijt en rustig starten
+DESCRIPTION:Water\, daglicht 10 min\, ontbijt\, eventueel korte wandeling
+ . Geen e-mail bij het opstaan.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5ae930f4-6474-553b-92ef-88fff0ce8691@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261201T113500
+DTEND;TZID=Europe/Brussels:20261201T115000
+SUMMARY:Microherstel: buitenlucht / pauze
+DESCRIPTION:Even weg van het bureau\; wandelen of rustig ademhalen. Scher
+ m uit.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:610b9625-6d37-5517-9785-e3af32031982@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261201T120000
+DTEND;TZID=Europe/Brussels:20261201T123000
+SUMMARY:Lunch zonder scherm
+DESCRIPTION:Eten en herstellen. Laat taken even los.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:beeeb0bf-0cac-57f9-9f5e-5d6630c8095a@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261201T181500
+DTEND;TZID=Europe/Brussels:20261201T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d670dac8-2f47-5c8f-b968-4ba8b1ed34d8@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261201T190000
+DTEND;TZID=Europe/Brussels:20261201T201500
+SUMMARY:Ontspanning: vriend bellen of samen iets doen
+DESCRIPTION:Sociaal contact zonder productiviteitsdoel. Ook 20 minuten is
+  genoeg. Vrijblijvend\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f2c79804-3a9a-586a-ac60-a29ac5f8d97c@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261201T204500
+DTEND;TZID=Europe/Brussels:20261201T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:554ae9ce-09e6-5497-9a2e-932a057aece7@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261201T213000
+DTEND;TZID=Europe/Brussels:20261201T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:82062cc9-5f0d-52d0-979e-b40c4c059211@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261202T224500
+DTEND;TZID=Europe/Brussels:20261203T073000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8498b3f6-64b7-58fd-a2a1-34d71686124a@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261202T073000
+DTEND;TZID=Europe/Brussels:20261202T082000
+SUMMARY:Opstaan\, ontbijt en rustig starten
+DESCRIPTION:Water\, daglicht 10 min\, ontbijt\, eventueel korte wandeling
+ . Geen e-mail bij het opstaan.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8b7382bb-4ddd-549d-b80a-68d46dbc6d72@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261202T113500
+DTEND;TZID=Europe/Brussels:20261202T115000
+SUMMARY:Microherstel: buitenlucht / pauze
+DESCRIPTION:Even weg van het bureau\; wandelen of rustig ademhalen. Scher
+ m uit.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9562080a-e8b5-5b73-be34-e7b5dddb4c2d@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261202T120000
+DTEND;TZID=Europe/Brussels:20261202T123000
+SUMMARY:Lunch zonder scherm
+DESCRIPTION:Eten en herstellen. Laat taken even los.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:83b8214d-d605-54cc-a775-edeec137becd@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261202T181500
+DTEND;TZID=Europe/Brussels:20261202T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e7fbb34b-ba80-50e6-8314-708cd2113165@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261202T190000
+DTEND;TZID=Europe/Brussels:20261202T201500
+SUMMARY:Herstelavond: douche\, stretchen en ademruimte
+DESCRIPTION:Licht rekken\, warm douchen\, zonder zware inspanning of sche
+ rmdruk. Vrijblijvend\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e4be5821-e223-5a84-8603-7658b3b39d72@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261202T204500
+DTEND;TZID=Europe/Brussels:20261202T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1a98743b-75f1-5f25-b280-b4f16446d450@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261202T213000
+DTEND;TZID=Europe/Brussels:20261202T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7a9f111d-f8de-57f4-8ab4-643a6ffc156f@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261203T224500
+DTEND;TZID=Europe/Brussels:20261204T073000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8f411844-e265-5c43-8700-10d34e277f83@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261203T073000
+DTEND;TZID=Europe/Brussels:20261203T082000
+SUMMARY:Opstaan\, ontbijt en rustig starten
+DESCRIPTION:Water\, daglicht 10 min\, ontbijt\, eventueel korte wandeling
+ . Geen e-mail bij het opstaan.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:32717134-ce35-5d32-9b14-0451990c5d4b@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261203T113500
+DTEND;TZID=Europe/Brussels:20261203T115000
+SUMMARY:Microherstel: buitenlucht / pauze
+DESCRIPTION:Even weg van het bureau\; wandelen of rustig ademhalen. Scher
+ m uit.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8761ecad-638a-5ae7-a265-75db00941208@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261203T120000
+DTEND;TZID=Europe/Brussels:20261203T123000
+SUMMARY:Lunch zonder scherm
+DESCRIPTION:Eten en herstellen. Laat taken even los.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:74075d26-439d-5d58-9aef-bf350bca9cfe@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261203T181500
+DTEND;TZID=Europe/Brussels:20261203T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f061a65c-3e87-5a01-bffc-1a9d19ad57ba@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261203T190000
+DTEND;TZID=Europe/Brussels:20261203T201500
+SUMMARY:Creatieve avond: muziek\, tekenen of koken
+DESCRIPTION:Kies één leuke creatieve activiteit\, zonder resultaatverpl
+ ichting. Vrijblijvend\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:18c100a6-cc3d-510f-ac21-0b1a70b60702@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261203T204500
+DTEND;TZID=Europe/Brussels:20261203T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2602945e-acfd-51b0-baec-7bf8b0c6331f@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261203T213000
+DTEND;TZID=Europe/Brussels:20261203T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3ae67c51-d910-53f9-a3bd-36e548044b68@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261204T224500
+DTEND;TZID=Europe/Brussels:20261205T080000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3cc2d1c8-a90a-5a8a-a8ee-1a9dc7d89ba3@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261204T073000
+DTEND;TZID=Europe/Brussels:20261204T082000
+SUMMARY:Opstaan\, ontbijt en rustig starten
+DESCRIPTION:Water\, daglicht 10 min\, ontbijt\, eventueel korte wandeling
+ . Geen e-mail bij het opstaan.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:193b621c-39b1-52f8-9833-add67e08c1cb@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261204T113500
+DTEND;TZID=Europe/Brussels:20261204T115000
+SUMMARY:Microherstel: buitenlucht / pauze
+DESCRIPTION:Even weg van het bureau\; wandelen of rustig ademhalen. Scher
+ m uit.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:62aadba3-7149-5c51-94af-2a6b6f609bbb@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261204T120000
+DTEND;TZID=Europe/Brussels:20261204T123000
+SUMMARY:Lunch zonder scherm
+DESCRIPTION:Eten en herstellen. Laat taken even los.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:eac08d8e-3f2f-5b1a-bfd7-e81e589171fd@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261204T181500
+DTEND;TZID=Europe/Brussels:20261204T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6aef5536-6067-58dc-9e6e-bc8cb253553f@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261204T190000
+DTEND;TZID=Europe/Brussels:20261204T201500
+SUMMARY:Film\, spel of vrije avond
+DESCRIPTION:Iets leuks bekijken of een spel doen. Niet combineren met stu
+ deren. Vrijblijvend\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abb1fc92-c6ae-5644-9c3c-0dc0a0794c50@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261204T204500
+DTEND;TZID=Europe/Brussels:20261204T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e1ecb1ff-23fa-5795-aad3-673572c78afb@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261204T213000
+DTEND;TZID=Europe/Brussels:20261204T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:60a7edd7-85e2-5348-8e9b-bbb3b00fb974@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261205T224500
+DTEND;TZID=Europe/Brussels:20261206T080000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:42b67c4b-0bf8-5769-92a7-2a737442e662@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261205T080000
+DTEND;TZID=Europe/Brussels:20261205T084000
+SUMMARY:Rustig opstaan\, daglicht en ontbijt
+DESCRIPTION:Glas water\, daglicht\, ontbijt. Geen telefoon in de eerste 1
+ 5 minuten.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:93d6223f-05f4-5367-a7ce-d3f48300c2a6@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261205T122000
+DTEND;TZID=Europe/Brussels:20261205T130000
+SUMMARY:Lunch + pauze
+DESCRIPTION:Eten\, hydrateren\, niet multitasken.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f0d19446-5652-5f13-bb12-457345f0fd88@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261205T181500
+DTEND;TZID=Europe/Brussels:20261205T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5dcc8f-b2d4-5002-9207-aeb9c53bfb54@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261205T190000
+DTEND;TZID=Europe/Brussels:20261205T201500
+SUMMARY:Vrije avond: vrienden\, hobby of niets
+DESCRIPTION:Bewust vrij\, je hoeft dit blok niet op te vullen. Vrijblijve
+ nd\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:05eafa5a-2911-596c-9b48-353148114ac8@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261205T204500
+DTEND;TZID=Europe/Brussels:20261205T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ed030709-7040-5166-bc4e-1775e47040ec@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261205T213000
+DTEND;TZID=Europe/Brussels:20261205T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cc970089-db7d-5cb4-9521-eebe83bd9c43@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261206T224500
+DTEND;TZID=Europe/Brussels:20261207T073000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8a8f7c61-6f89-545e-a67a-417c271cc04d@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261206T080000
+DTEND;TZID=Europe/Brussels:20261206T084000
+SUMMARY:Rustig opstaan\, daglicht en ontbijt
+DESCRIPTION:Glas water\, daglicht\, ontbijt. Geen telefoon in de eerste 1
+ 5 minuten.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:82e992b2-9470-5800-9f9c-58c3edb1ed23@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261206T122000
+DTEND;TZID=Europe/Brussels:20261206T130000
+SUMMARY:Lunch + pauze
+DESCRIPTION:Eten\, hydrateren\, niet multitasken.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b9bdc278-c12a-5cab-ac26-814b5ae45506@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261206T181500
+DTEND;TZID=Europe/Brussels:20261206T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4d6b4c1a-c0fa-5b97-8c18-cba39296b290@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261206T190000
+DTEND;TZID=Europe/Brussels:20261206T201500
+SUMMARY:Zondagavond: rustige reflectie en ontspanning
+DESCRIPTION:Kort opschrijven wat je energie gaf\, daarna iets rustigs doe
+ n. Vrijblijvend\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fa63e56a-e79b-592f-ad53-2cedb246469d@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261206T204500
+DTEND;TZID=Europe/Brussels:20261206T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fe173b48-6d95-5d06-9e51-debaa87ff021@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261206T213000
+DTEND;TZID=Europe/Brussels:20261206T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:257e619a-7013-5a43-bf7b-d8926db15dbf@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261207T224500
+DTEND;TZID=Europe/Brussels:20261208T073000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:72f371f8-aca9-57c1-ae37-f12d023618fb@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261207T073000
+DTEND;TZID=Europe/Brussels:20261207T082000
+SUMMARY:Opstaan\, ontbijt en rustig starten
+DESCRIPTION:Water\, daglicht 10 min\, ontbijt\, eventueel korte wandeling
+ . Geen e-mail bij het opstaan.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d68c54d7-4b69-5fcf-b150-5839c77a235d@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261207T113500
+DTEND;TZID=Europe/Brussels:20261207T115000
+SUMMARY:Microherstel: buitenlucht / pauze
+DESCRIPTION:Even weg van het bureau\; wandelen of rustig ademhalen. Scher
+ m uit.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4570d868-025e-5f47-8e7b-a74e4d026254@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261207T120000
+DTEND;TZID=Europe/Brussels:20261207T123000
+SUMMARY:Lunch zonder scherm
+DESCRIPTION:Eten en herstellen. Laat taken even los.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:64989eec-d36d-5cf4-9538-92e5627bd5c0@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261207T181500
+DTEND;TZID=Europe/Brussels:20261207T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:822edf77-da26-54c4-9dc0-f22ecc719e77@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261207T190000
+DTEND;TZID=Europe/Brussels:20261207T201500
+SUMMARY:Rustige avond: lezen voor plezier
+DESCRIPTION:20–40 min fictie of iets zonder studiedruk\, thee en muziek
+ . Vrijblijvend\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d7be4233-a400-52ab-99db-940e62504bfc@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261207T204500
+DTEND;TZID=Europe/Brussels:20261207T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:62059aa9-33ad-5b38-bed7-d4875aca3656@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261207T213000
+DTEND;TZID=Europe/Brussels:20261207T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0bac9c5e-eaaf-51cf-8b67-9563722c8e62@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261208T224500
+DTEND;TZID=Europe/Brussels:20261209T073000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:10ac8206-c973-5560-b71a-afd0151a5971@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261208T073000
+DTEND;TZID=Europe/Brussels:20261208T082000
+SUMMARY:Opstaan\, ontbijt en rustig starten
+DESCRIPTION:Water\, daglicht 10 min\, ontbijt\, eventueel korte wandeling
+ . Geen e-mail bij het opstaan.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a6ce94bf-fcfa-5d49-b362-1f472d2feb7d@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261208T113500
+DTEND;TZID=Europe/Brussels:20261208T115000
+SUMMARY:Microherstel: buitenlucht / pauze
+DESCRIPTION:Even weg van het bureau\; wandelen of rustig ademhalen. Scher
+ m uit.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c07db01b-bef4-54a3-b522-d6a58bb6e163@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261208T120000
+DTEND;TZID=Europe/Brussels:20261208T123000
+SUMMARY:Lunch zonder scherm
+DESCRIPTION:Eten en herstellen. Laat taken even los.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cb5dd468-c94f-533f-92c1-5d6d8f9176dd@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261208T181500
+DTEND;TZID=Europe/Brussels:20261208T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:211024e0-e1c8-51ac-a8c2-c16bfc35cf3c@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261208T190000
+DTEND;TZID=Europe/Brussels:20261208T201500
+SUMMARY:Ontspanning: vriend bellen of samen iets doen
+DESCRIPTION:Sociaal contact zonder productiviteitsdoel. Ook 20 minuten is
+  genoeg. Vrijblijvend\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb98853-1f07-59c3-a620-de03e31f614a@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261208T204500
+DTEND;TZID=Europe/Brussels:20261208T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:243f61f8-09b6-5483-9166-ab5706390f8f@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261208T213000
+DTEND;TZID=Europe/Brussels:20261208T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:30f77649-b4c5-576e-a97a-d6000e3cfea8@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261209T224500
+DTEND;TZID=Europe/Brussels:20261210T073000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:11518931-ee40-5300-8871-edf65ae1aebd@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261209T073000
+DTEND;TZID=Europe/Brussels:20261209T082000
+SUMMARY:Opstaan\, ontbijt en rustig starten
+DESCRIPTION:Water\, daglicht 10 min\, ontbijt\, eventueel korte wandeling
+ . Geen e-mail bij het opstaan.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5dde989a-ad51-509c-afe6-a552e19b8de0@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261209T113500
+DTEND;TZID=Europe/Brussels:20261209T115000
+SUMMARY:Microherstel: buitenlucht / pauze
+DESCRIPTION:Even weg van het bureau\; wandelen of rustig ademhalen. Scher
+ m uit.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a64eac1b-4833-545e-9cab-ea1ed3cd25c5@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261209T120000
+DTEND;TZID=Europe/Brussels:20261209T123000
+SUMMARY:Lunch zonder scherm
+DESCRIPTION:Eten en herstellen. Laat taken even los.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b2650960-d290-526a-b558-0d0ee5b6e714@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261209T181500
+DTEND;TZID=Europe/Brussels:20261209T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e13fa1be-15c8-57e0-8c9b-f5850ef5b5fd@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261209T190000
+DTEND;TZID=Europe/Brussels:20261209T201500
+SUMMARY:Herstelavond: douche\, stretchen en ademruimte
+DESCRIPTION:Licht rekken\, warm douchen\, zonder zware inspanning of sche
+ rmdruk. Vrijblijvend\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1e266378-8740-5bf3-b840-d249b5c6bbe6@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261209T204500
+DTEND;TZID=Europe/Brussels:20261209T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d7755802-e66d-5853-9f08-40d47f98f03b@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261209T213000
+DTEND;TZID=Europe/Brussels:20261209T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:aa15c6ee-fe14-5eef-8eac-77319fb68940@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261210T224500
+DTEND;TZID=Europe/Brussels:20261211T073000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e3c1ae3b-17b9-55d9-ad77-4e671898691c@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261210T073000
+DTEND;TZID=Europe/Brussels:20261210T082000
+SUMMARY:Opstaan\, ontbijt en rustig starten
+DESCRIPTION:Water\, daglicht 10 min\, ontbijt\, eventueel korte wandeling
+ . Geen e-mail bij het opstaan.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3c023ba9-6f6d-587e-81f9-2783cd4a2525@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261210T113500
+DTEND;TZID=Europe/Brussels:20261210T115000
+SUMMARY:Microherstel: buitenlucht / pauze
+DESCRIPTION:Even weg van het bureau\; wandelen of rustig ademhalen. Scher
+ m uit.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a6049403-72b0-511d-a05d-6a8be16c9aab@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261210T120000
+DTEND;TZID=Europe/Brussels:20261210T123000
+SUMMARY:Lunch zonder scherm
+DESCRIPTION:Eten en herstellen. Laat taken even los.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:71603a5b-2897-555d-9c69-7775781f7bcb@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261210T181500
+DTEND;TZID=Europe/Brussels:20261210T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:118ec1e0-e777-593f-b85a-559d3630946d@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261210T190000
+DTEND;TZID=Europe/Brussels:20261210T201500
+SUMMARY:Creatieve avond: muziek\, tekenen of koken
+DESCRIPTION:Kies één leuke creatieve activiteit\, zonder resultaatverpl
+ ichting. Vrijblijvend\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:80a4917f-f56f-5e6d-90fd-bfc000c27701@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261210T204500
+DTEND;TZID=Europe/Brussels:20261210T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d4b9ef95-865e-5b6b-a20e-325a5b6b770f@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261210T213000
+DTEND;TZID=Europe/Brussels:20261210T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2bb6083c-c6b0-5661-9583-af50ec4f7810@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261211T224500
+DTEND;TZID=Europe/Brussels:20261212T080000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0b0d5729-916e-554a-b21b-77e4c8fe8744@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261211T073000
+DTEND;TZID=Europe/Brussels:20261211T082000
+SUMMARY:Opstaan\, ontbijt en rustig starten
+DESCRIPTION:Water\, daglicht 10 min\, ontbijt\, eventueel korte wandeling
+ . Geen e-mail bij het opstaan.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:866759d6-cf91-51f9-9386-8e127b783eac@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261211T113500
+DTEND;TZID=Europe/Brussels:20261211T115000
+SUMMARY:Microherstel: buitenlucht / pauze
+DESCRIPTION:Even weg van het bureau\; wandelen of rustig ademhalen. Scher
+ m uit.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ec4af6dc-040f-5ff4-b88d-52d7074c5275@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261211T120000
+DTEND;TZID=Europe/Brussels:20261211T123000
+SUMMARY:Lunch zonder scherm
+DESCRIPTION:Eten en herstellen. Laat taken even los.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7790694b-ef2f-580e-ade2-e9470fdc587d@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261211T181500
+DTEND;TZID=Europe/Brussels:20261211T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3d0f4f88-328a-58fe-9f70-394e61dfe957@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261211T190000
+DTEND;TZID=Europe/Brussels:20261211T201500
+SUMMARY:Film\, spel of vrije avond
+DESCRIPTION:Iets leuks bekijken of een spel doen. Niet combineren met stu
+ deren. Vrijblijvend\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7f4584e4-a473-5bf5-9b0b-7860ad1d6d44@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261211T204500
+DTEND;TZID=Europe/Brussels:20261211T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1873a565-fb7b-5547-a214-32cab2ee19a0@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261211T213000
+DTEND;TZID=Europe/Brussels:20261211T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b653590c-95a0-59fb-b4c0-e67d1f36a6ff@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261212T224500
+DTEND;TZID=Europe/Brussels:20261213T080000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:21fb8268-df2a-55e7-8eb0-189c1f240b4b@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261212T080000
+DTEND;TZID=Europe/Brussels:20261212T084000
+SUMMARY:Rustig opstaan\, daglicht en ontbijt
+DESCRIPTION:Glas water\, daglicht\, ontbijt. Geen telefoon in de eerste 1
+ 5 minuten.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d6660e02-c312-5548-bc1c-2325d51b9df4@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261212T122000
+DTEND;TZID=Europe/Brussels:20261212T130000
+SUMMARY:Lunch + pauze
+DESCRIPTION:Eten\, hydrateren\, niet multitasken.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e8ce763d-252c-51c3-afa5-f5a22095457a@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261212T181500
+DTEND;TZID=Europe/Brussels:20261212T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9e71468f-5481-55ff-8354-8f063eff18c3@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261212T190000
+DTEND;TZID=Europe/Brussels:20261212T201500
+SUMMARY:Vrije avond: vrienden\, hobby of niets
+DESCRIPTION:Bewust vrij\, je hoeft dit blok niet op te vullen. Vrijblijve
+ nd\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b0850f9d-9a6a-5741-b27a-d422a400075c@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261212T204500
+DTEND;TZID=Europe/Brussels:20261212T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:94c272d8-d912-56f7-ac49-d70c3b34855e@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261212T213000
+DTEND;TZID=Europe/Brussels:20261212T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5f80237b-dd64-54d9-b382-c79d42231dc8@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261213T224500
+DTEND;TZID=Europe/Brussels:20261214T073000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2673ca42-e6a1-5859-96cc-c15bfc911a74@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261213T080000
+DTEND;TZID=Europe/Brussels:20261213T084000
+SUMMARY:Rustig opstaan\, daglicht en ontbijt
+DESCRIPTION:Glas water\, daglicht\, ontbijt. Geen telefoon in de eerste 1
+ 5 minuten.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:32bee2ce-05f1-5b6d-9d4e-49f87e7f2d5b@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261213T122000
+DTEND;TZID=Europe/Brussels:20261213T130000
+SUMMARY:Lunch + pauze
+DESCRIPTION:Eten\, hydrateren\, niet multitasken.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8ff1c6ff-ca47-5254-8686-2e38a57d0ad7@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261213T181500
+DTEND;TZID=Europe/Brussels:20261213T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f48badc0-3216-53f6-acab-d9ff57d2b5d0@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261213T190000
+DTEND;TZID=Europe/Brussels:20261213T201500
+SUMMARY:Zondagavond: rustige reflectie en ontspanning
+DESCRIPTION:Kort opschrijven wat je energie gaf\, daarna iets rustigs doe
+ n. Vrijblijvend\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a6ce6b44-09b8-5d44-9683-a01927a5dcac@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261213T204500
+DTEND;TZID=Europe/Brussels:20261213T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cdff517a-a0d3-5bb0-94fd-d03005d0ba03@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261213T213000
+DTEND;TZID=Europe/Brussels:20261213T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dd541cfa-d291-552e-af87-41e1e16ce82e@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261214T224500
+DTEND;TZID=Europe/Brussels:20261215T073000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:87fabb33-dd3b-5adf-a72d-1d651e94adb4@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261214T073000
+DTEND;TZID=Europe/Brussels:20261214T082000
+SUMMARY:Opstaan\, ontbijt en rustig starten
+DESCRIPTION:Water\, daglicht 10 min\, ontbijt\, eventueel korte wandeling
+ . Geen e-mail bij het opstaan.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:824aa9a0-0ef0-52c4-b1d4-3dc25aad1569@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261214T113500
+DTEND;TZID=Europe/Brussels:20261214T115000
+SUMMARY:Microherstel: buitenlucht / pauze
+DESCRIPTION:Even weg van het bureau\; wandelen of rustig ademhalen. Scher
+ m uit.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bc9856cf-b164-545d-851d-5e871983c274@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261214T120000
+DTEND;TZID=Europe/Brussels:20261214T123000
+SUMMARY:Lunch zonder scherm
+DESCRIPTION:Eten en herstellen. Laat taken even los.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cfeaa671-b65e-5277-9088-c775d4334221@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261214T181500
+DTEND;TZID=Europe/Brussels:20261214T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d7985217-d395-5068-a600-7b8fd1cb8677@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261214T190000
+DTEND;TZID=Europe/Brussels:20261214T201500
+SUMMARY:Rustige avond: lezen voor plezier
+DESCRIPTION:20–40 min fictie of iets zonder studiedruk\, thee en muziek
+ . Vrijblijvend\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:aa70f79c-d6c6-5d54-9a60-36bdfb283fed@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261214T204500
+DTEND;TZID=Europe/Brussels:20261214T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:47ad579d-edc9-58c2-b157-27457c4afc26@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261214T213000
+DTEND;TZID=Europe/Brussels:20261214T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7a3a8186-d237-5f2f-8bab-4520045ede89@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261215T224500
+DTEND;TZID=Europe/Brussels:20261216T073000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:19a9d508-0fe9-56c4-8822-90bd9ca82b96@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261215T073000
+DTEND;TZID=Europe/Brussels:20261215T082000
+SUMMARY:Opstaan\, ontbijt en rustig starten
+DESCRIPTION:Water\, daglicht 10 min\, ontbijt\, eventueel korte wandeling
+ . Geen e-mail bij het opstaan.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9b109aac-8d87-53af-9b2b-459ef14eaa5a@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261215T113500
+DTEND;TZID=Europe/Brussels:20261215T115000
+SUMMARY:Microherstel: buitenlucht / pauze
+DESCRIPTION:Even weg van het bureau\; wandelen of rustig ademhalen. Scher
+ m uit.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d6e4d823-f30e-5bb4-83a2-6262e6a00db5@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261215T120000
+DTEND;TZID=Europe/Brussels:20261215T123000
+SUMMARY:Lunch zonder scherm
+DESCRIPTION:Eten en herstellen. Laat taken even los.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:785b8746-48ad-514f-8388-80d5ee66ffd1@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261215T181500
+DTEND;TZID=Europe/Brussels:20261215T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:42e5d395-7d65-50a3-8bec-38ab3226b768@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261215T190000
+DTEND;TZID=Europe/Brussels:20261215T201500
+SUMMARY:Ontspanning: vriend bellen of samen iets doen
+DESCRIPTION:Sociaal contact zonder productiviteitsdoel. Ook 20 minuten is
+  genoeg. Vrijblijvend\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d3eb05ce-f653-5e88-92e2-d4a7aadd6c9e@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261215T204500
+DTEND;TZID=Europe/Brussels:20261215T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d84d843a-5466-5459-b4d4-f670a6072112@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261215T213000
+DTEND;TZID=Europe/Brussels:20261215T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d2c4ef27-fd45-5214-a131-c1aa2296e38e@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261216T224500
+DTEND;TZID=Europe/Brussels:20261217T073000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d1ecfd54-1b8a-5b74-acff-f33b16adec56@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261216T073000
+DTEND;TZID=Europe/Brussels:20261216T082000
+SUMMARY:Opstaan\, ontbijt en rustig starten
+DESCRIPTION:Water\, daglicht 10 min\, ontbijt\, eventueel korte wandeling
+ . Geen e-mail bij het opstaan.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d5b3bb4f-4457-5dcd-94bb-d7e77d7027f5@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261216T113500
+DTEND;TZID=Europe/Brussels:20261216T115000
+SUMMARY:Microherstel: buitenlucht / pauze
+DESCRIPTION:Even weg van het bureau\; wandelen of rustig ademhalen. Scher
+ m uit.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fcc6bea0-6279-5267-91c1-aac412518a36@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261216T120000
+DTEND;TZID=Europe/Brussels:20261216T123000
+SUMMARY:Lunch zonder scherm
+DESCRIPTION:Eten en herstellen. Laat taken even los.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1f57da35-3c7d-5251-9fa5-ca2ab173619f@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261216T181500
+DTEND;TZID=Europe/Brussels:20261216T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:daaccf63-4397-5ca5-946c-5a79e39a5e07@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261216T190000
+DTEND;TZID=Europe/Brussels:20261216T201500
+SUMMARY:Herstelavond: douche\, stretchen en ademruimte
+DESCRIPTION:Licht rekken\, warm douchen\, zonder zware inspanning of sche
+ rmdruk. Vrijblijvend\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9f570660-e10c-57b9-9524-1189946bc6be@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261216T204500
+DTEND;TZID=Europe/Brussels:20261216T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5a9d51c0-d989-58c5-9f01-5b23922fa6c0@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261216T213000
+DTEND;TZID=Europe/Brussels:20261216T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:12c0eed9-dc94-51b3-81c8-086ee39bbab1@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261217T224500
+DTEND;TZID=Europe/Brussels:20261218T073000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:536f5de0-76c7-5308-97e1-a53366e26894@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261217T073000
+DTEND;TZID=Europe/Brussels:20261217T082000
+SUMMARY:Opstaan\, ontbijt en rustig starten
+DESCRIPTION:Water\, daglicht 10 min\, ontbijt\, eventueel korte wandeling
+ . Geen e-mail bij het opstaan.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fadaebe7-4e5e-54aa-b863-99b740eeef9c@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261217T113500
+DTEND;TZID=Europe/Brussels:20261217T115000
+SUMMARY:Microherstel: buitenlucht / pauze
+DESCRIPTION:Even weg van het bureau\; wandelen of rustig ademhalen. Scher
+ m uit.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4d752c92-d610-5d15-a222-1b0f9977687b@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261217T120000
+DTEND;TZID=Europe/Brussels:20261217T123000
+SUMMARY:Lunch zonder scherm
+DESCRIPTION:Eten en herstellen. Laat taken even los.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:087ef315-8c26-5cc2-a5ae-65a7ecdacf7c@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261217T181500
+DTEND;TZID=Europe/Brussels:20261217T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:21e22ead-b0f3-5b3a-aa07-171e6c271b8c@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261217T190000
+DTEND;TZID=Europe/Brussels:20261217T201500
+SUMMARY:Creatieve avond: muziek\, tekenen of koken
+DESCRIPTION:Kies één leuke creatieve activiteit\, zonder resultaatverpl
+ ichting. Vrijblijvend\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:23c4c2a0-fba9-5edc-8d12-dc23086e9008@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261217T204500
+DTEND;TZID=Europe/Brussels:20261217T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8c4ef6cf-8ee0-5ae2-aa3f-9073f14a7a11@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261217T213000
+DTEND;TZID=Europe/Brussels:20261217T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4b5808f9-b8c6-5faa-ab4a-6abb1996f080@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261218T224500
+DTEND;TZID=Europe/Brussels:20261219T080000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:15ab8796-77f6-5080-8a3a-fdbe903e8dcc@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261218T073000
+DTEND;TZID=Europe/Brussels:20261218T082000
+SUMMARY:Opstaan\, ontbijt en rustig starten
+DESCRIPTION:Water\, daglicht 10 min\, ontbijt\, eventueel korte wandeling
+ . Geen e-mail bij het opstaan.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c595e060-0941-5637-96a9-a9f0162ded95@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261218T113500
+DTEND;TZID=Europe/Brussels:20261218T115000
+SUMMARY:Microherstel: buitenlucht / pauze
+DESCRIPTION:Even weg van het bureau\; wandelen of rustig ademhalen. Scher
+ m uit.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:663d9409-b064-5cd4-8c11-a62708bc4bf6@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261218T120000
+DTEND;TZID=Europe/Brussels:20261218T123000
+SUMMARY:Lunch zonder scherm
+DESCRIPTION:Eten en herstellen. Laat taken even los.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8b13fa78-bda7-5a98-a905-73a9e0b21673@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261218T181500
+DTEND;TZID=Europe/Brussels:20261218T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8dab5df3-08ad-566c-8d7b-282d5f1e15ce@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261218T190000
+DTEND;TZID=Europe/Brussels:20261218T201500
+SUMMARY:Film\, spel of vrije avond
+DESCRIPTION:Iets leuks bekijken of een spel doen. Niet combineren met stu
+ deren. Vrijblijvend\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:42aa0b75-ef93-518f-b319-935066727025@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261218T204500
+DTEND;TZID=Europe/Brussels:20261218T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5ea3624c-cc19-5d2b-959e-8723cd351b40@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261218T213000
+DTEND;TZID=Europe/Brussels:20261218T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ad930826-3f59-58ed-b5d1-19ec0b26af67@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261219T224500
+DTEND;TZID=Europe/Brussels:20261220T080000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:46f52052-c38a-51c7-a9b4-11f67f3ddd43@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261219T080000
+DTEND;TZID=Europe/Brussels:20261219T084000
+SUMMARY:Rustig opstaan\, daglicht en ontbijt
+DESCRIPTION:Glas water\, daglicht\, ontbijt. Geen telefoon in de eerste 1
+ 5 minuten.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9115ff55-d78e-5949-bf3c-87b05d3c9dae@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261219T122000
+DTEND;TZID=Europe/Brussels:20261219T130000
+SUMMARY:Lunch + pauze
+DESCRIPTION:Eten\, hydrateren\, niet multitasken.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:aca14800-dca5-578a-9f62-25bc71067485@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261219T181500
+DTEND;TZID=Europe/Brussels:20261219T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e9889be3-822f-50cf-979f-fe19d659d2b5@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261219T190000
+DTEND;TZID=Europe/Brussels:20261219T201500
+SUMMARY:Vrije avond: vrienden\, hobby of niets
+DESCRIPTION:Bewust vrij\, je hoeft dit blok niet op te vullen. Vrijblijve
+ nd\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f05361c4-a57a-5784-ae5d-f30c233d3b83@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261219T204500
+DTEND;TZID=Europe/Brussels:20261219T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:41650e50-6aab-5de8-81e4-a719d6eb621a@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261219T213000
+DTEND;TZID=Europe/Brussels:20261219T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d2f6a5b2-016d-5398-a4fc-90512bf48aef@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261220T224500
+DTEND;TZID=Europe/Brussels:20261221T073000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1a169842-838e-51e0-8ae0-ace4e0e7c170@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261220T080000
+DTEND;TZID=Europe/Brussels:20261220T084000
+SUMMARY:Rustig opstaan\, daglicht en ontbijt
+DESCRIPTION:Glas water\, daglicht\, ontbijt. Geen telefoon in de eerste 1
+ 5 minuten.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:366f7f46-f516-52bf-861b-a5389fc67031@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261220T122000
+DTEND;TZID=Europe/Brussels:20261220T130000
+SUMMARY:Lunch + pauze
+DESCRIPTION:Eten\, hydrateren\, niet multitasken.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6d04afe6-034c-51d7-a917-d94e24c759e7@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261220T181500
+DTEND;TZID=Europe/Brussels:20261220T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f6c4e62a-ae08-5b6e-ac7f-7d41c20a9122@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261220T190000
+DTEND;TZID=Europe/Brussels:20261220T201500
+SUMMARY:Zondagavond: rustige reflectie en ontspanning
+DESCRIPTION:Kort opschrijven wat je energie gaf\, daarna iets rustigs doe
+ n. Vrijblijvend\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c98314f3-3c86-5610-a14e-25ed918e8ba9@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261220T204500
+DTEND;TZID=Europe/Brussels:20261220T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e4c1fcf4-ffa5-5b97-8b8b-873fa94e45b3@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261220T213000
+DTEND;TZID=Europe/Brussels:20261220T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b57c7f11-8401-53e7-a204-192e2be3fdf0@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261221T224500
+DTEND;TZID=Europe/Brussels:20261222T073000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e1b13a05-8d4e-5f17-a31a-d632fe6fa895@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261221T073000
+DTEND;TZID=Europe/Brussels:20261221T082000
+SUMMARY:Opstaan\, ontbijt en rustig starten
+DESCRIPTION:Water\, daglicht 10 min\, ontbijt\, eventueel korte wandeling
+ . Geen e-mail bij het opstaan.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:460b8765-5e2d-5c9d-a2ba-0e47db2820dd@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261221T113500
+DTEND;TZID=Europe/Brussels:20261221T115000
+SUMMARY:Microherstel: buitenlucht / pauze
+DESCRIPTION:Even weg van het bureau\; wandelen of rustig ademhalen. Scher
+ m uit.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e99fea54-fe8b-567d-9d10-4876edaf0e55@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261221T120000
+DTEND;TZID=Europe/Brussels:20261221T123000
+SUMMARY:Lunch zonder scherm
+DESCRIPTION:Eten en herstellen. Laat taken even los.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:201fe3b4-2cd9-5bf3-b043-4be38df9cd9f@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261221T181500
+DTEND;TZID=Europe/Brussels:20261221T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6bb65ffc-73d9-5d58-97cd-84ffb44c8f3d@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261221T190000
+DTEND;TZID=Europe/Brussels:20261221T201500
+SUMMARY:Rustige avond: lezen voor plezier
+DESCRIPTION:20–40 min fictie of iets zonder studiedruk\, thee en muziek
+ . Vrijblijvend\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:55343f49-2253-5b16-828b-674c34c3c75e@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261221T204500
+DTEND;TZID=Europe/Brussels:20261221T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3186b060-135e-58f7-9e51-40a9cc941e8e@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261221T213000
+DTEND;TZID=Europe/Brussels:20261221T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:74e28066-783c-5ec2-9556-6956c821a73a@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261222T224500
+DTEND;TZID=Europe/Brussels:20261223T073000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:66e4f666-1059-50c8-bfe9-446c7344792c@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261222T073000
+DTEND;TZID=Europe/Brussels:20261222T082000
+SUMMARY:Opstaan\, ontbijt en rustig starten
+DESCRIPTION:Water\, daglicht 10 min\, ontbijt\, eventueel korte wandeling
+ . Geen e-mail bij het opstaan.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d23f2762-8fcf-53a6-aeec-d95b5b9471a3@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261222T113500
+DTEND;TZID=Europe/Brussels:20261222T115000
+SUMMARY:Microherstel: buitenlucht / pauze
+DESCRIPTION:Even weg van het bureau\; wandelen of rustig ademhalen. Scher
+ m uit.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a9b3f0ce-a6eb-5399-a94d-9f373336ec2c@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261222T120000
+DTEND;TZID=Europe/Brussels:20261222T123000
+SUMMARY:Lunch zonder scherm
+DESCRIPTION:Eten en herstellen. Laat taken even los.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a5416174-12cb-5e04-a47d-088c1ac5dae0@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261222T181500
+DTEND;TZID=Europe/Brussels:20261222T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:481d269f-11a9-5ce8-97eb-d09b9ebac924@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261222T190000
+DTEND;TZID=Europe/Brussels:20261222T201500
+SUMMARY:Ontspanning: vriend bellen of samen iets doen
+DESCRIPTION:Sociaal contact zonder productiviteitsdoel. Ook 20 minuten is
+  genoeg. Vrijblijvend\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d3c5c6f3-5974-55c6-940a-897b5a0db902@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261222T204500
+DTEND;TZID=Europe/Brussels:20261222T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:67e842a7-5e1f-5368-a1b1-b7ac054d7cb1@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261222T213000
+DTEND;TZID=Europe/Brussels:20261222T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c84c0431-2678-53ea-b5e4-3a5bea4bc808@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261223T224500
+DTEND;TZID=Europe/Brussels:20261224T073000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3cd19182-0308-5d8b-b94f-ebb042b59879@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261223T073000
+DTEND;TZID=Europe/Brussels:20261223T082000
+SUMMARY:Opstaan\, ontbijt en rustig starten
+DESCRIPTION:Water\, daglicht 10 min\, ontbijt\, eventueel korte wandeling
+ . Geen e-mail bij het opstaan.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6752477f-c9f1-58ff-b087-d7b2c067ce50@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261223T113500
+DTEND;TZID=Europe/Brussels:20261223T115000
+SUMMARY:Microherstel: buitenlucht / pauze
+DESCRIPTION:Even weg van het bureau\; wandelen of rustig ademhalen. Scher
+ m uit.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:50a4ebfc-e104-5c2c-acfc-ffb949f2e779@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261223T120000
+DTEND;TZID=Europe/Brussels:20261223T123000
+SUMMARY:Lunch zonder scherm
+DESCRIPTION:Eten en herstellen. Laat taken even los.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bbbe1656-91a7-55eb-abfa-7e79b7717022@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261223T181500
+DTEND;TZID=Europe/Brussels:20261223T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f791cf0a-5849-5685-83a7-b091e1957dc3@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261223T190000
+DTEND;TZID=Europe/Brussels:20261223T201500
+SUMMARY:Herstelavond: douche\, stretchen en ademruimte
+DESCRIPTION:Licht rekken\, warm douchen\, zonder zware inspanning of sche
+ rmdruk. Vrijblijvend\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bc1c28df-ba27-5589-aad1-0cde78721f6d@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261223T204500
+DTEND;TZID=Europe/Brussels:20261223T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3a8930b6-843f-5e08-87df-36bc581cc6de@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261223T213000
+DTEND;TZID=Europe/Brussels:20261223T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:02f5e0b2-cdf2-5cae-8850-2fbc9632b7cd@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261224T224500
+DTEND;TZID=Europe/Brussels:20261225T073000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9a37c338-a547-53d0-b535-7c22ea8884c5@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261224T073000
+DTEND;TZID=Europe/Brussels:20261224T082000
+SUMMARY:Opstaan\, ontbijt en rustig starten
+DESCRIPTION:Water\, daglicht 10 min\, ontbijt\, eventueel korte wandeling
+ . Geen e-mail bij het opstaan.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:64d6361d-8a5a-5a38-be12-7fe9905a7a58@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261224T113500
+DTEND;TZID=Europe/Brussels:20261224T115000
+SUMMARY:Microherstel: buitenlucht / pauze
+DESCRIPTION:Even weg van het bureau\; wandelen of rustig ademhalen. Scher
+ m uit.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6531dd46-64e2-5309-adeb-687ed09bbdf9@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261224T120000
+DTEND;TZID=Europe/Brussels:20261224T123000
+SUMMARY:Lunch zonder scherm
+DESCRIPTION:Eten en herstellen. Laat taken even los.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3c6170fc-f6a2-5fcc-9072-cb3c70cb9ad9@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261224T181500
+DTEND;TZID=Europe/Brussels:20261224T190000
+SUMMARY:Vrij avondeten / feestdagen
+DESCRIPTION:Feestdag: geen verplichte routine. Eten en samenzijn op jouw 
+ tempo.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f9aa99c6-83a7-54d4-bf02-71b30b126f9e@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261224T190000
+DTEND;TZID=Europe/Brussels:20261224T201500
+SUMMARY:Kerstavond: samenzijn of rustige tijd voor jezelf
+DESCRIPTION:Geen opdrachten\; kies zelf of en met wie je de avond doorbre
+ ngt. Vrijblijvend\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:396eb700-5b4b-5574-8fc3-fca3a87885ab@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261224T204500
+DTEND;TZID=Europe/Brussels:20261224T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bbffedcc-6f26-5005-a2c6-a574e8127103@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261224T213000
+DTEND;TZID=Europe/Brussels:20261224T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5d4c2509-648c-5818-b5d4-76714fe0cf10@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261225T224500
+DTEND;TZID=Europe/Brussels:20261226T080000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:029f4eef-963b-5b5f-981d-19af34854ebb@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261225T073000
+DTEND;TZID=Europe/Brussels:20261225T082000
+SUMMARY:Opstaan\, ontbijt en rustig starten
+DESCRIPTION:Water\, daglicht 10 min\, ontbijt\, eventueel korte wandeling
+ . Geen e-mail bij het opstaan.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d049e7cb-0bfa-5195-a7de-8aa433f04260@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261225T113500
+DTEND;TZID=Europe/Brussels:20261225T115000
+SUMMARY:Microherstel: buitenlucht / pauze
+DESCRIPTION:Even weg van het bureau\; wandelen of rustig ademhalen. Scher
+ m uit.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0294e385-81ae-59ff-8049-fabb0c62d6f0@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261225T120000
+DTEND;TZID=Europe/Brussels:20261225T123000
+SUMMARY:Lunch zonder scherm
+DESCRIPTION:Eten en herstellen. Laat taken even los.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3a4c145b-99bf-5d7e-9627-279aac7f65f7@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261225T181500
+DTEND;TZID=Europe/Brussels:20261225T190000
+SUMMARY:Vrij avondeten / feestdagen
+DESCRIPTION:Feestdag: geen verplichte routine. Eten en samenzijn op jouw 
+ tempo.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:30a7084b-d740-54f3-ad97-a70a2e2e0f08@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261225T190000
+DTEND;TZID=Europe/Brussels:20261225T201500
+SUMMARY:Kerstavondrust: gezelligheid zonder verplichtingen
+DESCRIPTION:Vrije tijd\, wandelen of helemaal niets. Vrijblijvend\, geen 
+ taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bb112eb3-144f-5867-95d2-fd1e97e21c14@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261225T204500
+DTEND;TZID=Europe/Brussels:20261225T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7bc2d6b3-8d34-5d12-be83-2e2dab5fad08@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261225T213000
+DTEND;TZID=Europe/Brussels:20261225T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4e201261-5de0-5dda-9c33-d992122fcc0a@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261226T224500
+DTEND;TZID=Europe/Brussels:20261227T080000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8f4c4c57-a823-51a5-acbe-1411258226a9@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261226T080000
+DTEND;TZID=Europe/Brussels:20261226T084000
+SUMMARY:Rustig opstaan\, daglicht en ontbijt
+DESCRIPTION:Glas water\, daglicht\, ontbijt. Geen telefoon in de eerste 1
+ 5 minuten.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8f7c989c-cdb7-5758-97f7-135758a52d8c@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261226T122000
+DTEND;TZID=Europe/Brussels:20261226T130000
+SUMMARY:Lunch + pauze
+DESCRIPTION:Eten\, hydrateren\, niet multitasken.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b21ef059-db12-5a22-990c-1c6ad6712fce@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261226T181500
+DTEND;TZID=Europe/Brussels:20261226T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:803146c1-8f5a-51e8-bd09-02cefa2d7c27@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261226T190000
+DTEND;TZID=Europe/Brussels:20261226T201500
+SUMMARY:Vrije avond: vrienden\, hobby of niets
+DESCRIPTION:Bewust vrij\, je hoeft dit blok niet op te vullen. Vrijblijve
+ nd\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:98e37611-be37-53db-a269-c37d6734696a@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261226T204500
+DTEND;TZID=Europe/Brussels:20261226T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3653ebc8-b78b-5032-aba2-662fc12b0e66@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261226T213000
+DTEND;TZID=Europe/Brussels:20261226T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3558e311-2f65-5882-9477-97a550ddedda@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261227T224500
+DTEND;TZID=Europe/Brussels:20261228T073000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3456dc95-a4d8-54aa-8e4a-fab8c0fffa46@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261227T080000
+DTEND;TZID=Europe/Brussels:20261227T084000
+SUMMARY:Rustig opstaan\, daglicht en ontbijt
+DESCRIPTION:Glas water\, daglicht\, ontbijt. Geen telefoon in de eerste 1
+ 5 minuten.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:04ea3722-cc3e-54e1-8016-8055e7f4699a@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261227T122000
+DTEND;TZID=Europe/Brussels:20261227T130000
+SUMMARY:Lunch + pauze
+DESCRIPTION:Eten\, hydrateren\, niet multitasken.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:92925cb3-35e7-5edd-9fb8-76aa178b3d34@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261227T181500
+DTEND;TZID=Europe/Brussels:20261227T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:669986e5-a0e5-514c-b90a-71df1c85b76f@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261227T190000
+DTEND;TZID=Europe/Brussels:20261227T201500
+SUMMARY:Zondagavond: rustige reflectie en ontspanning
+DESCRIPTION:Kort opschrijven wat je energie gaf\, daarna iets rustigs doe
+ n. Vrijblijvend\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:161cfb25-6256-547f-b916-931d73700242@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261227T204500
+DTEND;TZID=Europe/Brussels:20261227T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:24890b77-e2f2-54bc-882a-6644fe218777@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261227T213000
+DTEND;TZID=Europe/Brussels:20261227T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f42c2cdd-77d5-5f47-a99c-966fd273aeb4@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261228T224500
+DTEND;TZID=Europe/Brussels:20261229T073000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6fdde1af-d81e-598e-aec0-25fda702964f@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261228T073000
+DTEND;TZID=Europe/Brussels:20261228T082000
+SUMMARY:Opstaan\, ontbijt en rustig starten
+DESCRIPTION:Water\, daglicht 10 min\, ontbijt\, eventueel korte wandeling
+ . Geen e-mail bij het opstaan.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ef14bbd2-1e3c-55ae-b4f0-a4fcde90bc13@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261228T113500
+DTEND;TZID=Europe/Brussels:20261228T115000
+SUMMARY:Microherstel: buitenlucht / pauze
+DESCRIPTION:Even weg van het bureau\; wandelen of rustig ademhalen. Scher
+ m uit.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:111a27f1-4b6a-5e25-bfb2-109d98a317ec@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261228T120000
+DTEND;TZID=Europe/Brussels:20261228T123000
+SUMMARY:Lunch zonder scherm
+DESCRIPTION:Eten en herstellen. Laat taken even los.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f9faea96-e88c-5baf-b720-347c219be5fb@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261228T181500
+DTEND;TZID=Europe/Brussels:20261228T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:89070ceb-63d6-5a9c-8d1a-8ea36ce2d073@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261228T190000
+DTEND;TZID=Europe/Brussels:20261228T201500
+SUMMARY:Rustige avond: lezen voor plezier
+DESCRIPTION:20–40 min fictie of iets zonder studiedruk\, thee en muziek
+ . Vrijblijvend\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fd2bd419-881d-5b4d-bae8-ed9f4a88c8a1@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261228T204500
+DTEND;TZID=Europe/Brussels:20261228T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3535d6bb-14e1-57b4-a3f4-546a33f53840@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261228T213000
+DTEND;TZID=Europe/Brussels:20261228T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:afb840e8-2580-565a-99ac-1ca7b185474a@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261229T224500
+DTEND;TZID=Europe/Brussels:20261230T073000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f17a88ee-12dc-5f8a-a3b9-b9bf43f6feae@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261229T073000
+DTEND;TZID=Europe/Brussels:20261229T082000
+SUMMARY:Opstaan\, ontbijt en rustig starten
+DESCRIPTION:Water\, daglicht 10 min\, ontbijt\, eventueel korte wandeling
+ . Geen e-mail bij het opstaan.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9bca0198-de81-500d-9e81-fa862616336c@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261229T113500
+DTEND;TZID=Europe/Brussels:20261229T115000
+SUMMARY:Microherstel: buitenlucht / pauze
+DESCRIPTION:Even weg van het bureau\; wandelen of rustig ademhalen. Scher
+ m uit.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f5419a23-1ad7-5cdb-9a12-466030850db7@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261229T120000
+DTEND;TZID=Europe/Brussels:20261229T123000
+SUMMARY:Lunch zonder scherm
+DESCRIPTION:Eten en herstellen. Laat taken even los.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f7d80e07-1250-5a0f-9b20-851f71947e70@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261229T181500
+DTEND;TZID=Europe/Brussels:20261229T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6e93b4e0-3f00-5c96-bc37-d27814e23cb7@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261229T190000
+DTEND;TZID=Europe/Brussels:20261229T201500
+SUMMARY:Ontspanning: vriend bellen of samen iets doen
+DESCRIPTION:Sociaal contact zonder productiviteitsdoel. Ook 20 minuten is
+  genoeg. Vrijblijvend\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:32dca426-dcfe-5e1c-9bac-6fa83829b3fa@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261229T204500
+DTEND;TZID=Europe/Brussels:20261229T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2cfd3596-47c9-5e43-b632-8f8a3c76695e@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261229T213000
+DTEND;TZID=Europe/Brussels:20261229T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e74b6f42-4e7e-5026-b910-d0fae4c315e6@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261230T224500
+DTEND;TZID=Europe/Brussels:20261231T073000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:54f6677b-bddd-5925-83ae-0b15e6c034fd@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261230T073000
+DTEND;TZID=Europe/Brussels:20261230T082000
+SUMMARY:Opstaan\, ontbijt en rustig starten
+DESCRIPTION:Water\, daglicht 10 min\, ontbijt\, eventueel korte wandeling
+ . Geen e-mail bij het opstaan.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:705e7249-8c41-5176-ab99-5e1908027f04@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261230T113500
+DTEND;TZID=Europe/Brussels:20261230T115000
+SUMMARY:Microherstel: buitenlucht / pauze
+DESCRIPTION:Even weg van het bureau\; wandelen of rustig ademhalen. Scher
+ m uit.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8c88068f-aed6-5847-9cfb-361c92a7d00e@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261230T120000
+DTEND;TZID=Europe/Brussels:20261230T123000
+SUMMARY:Lunch zonder scherm
+DESCRIPTION:Eten en herstellen. Laat taken even los.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:52dafde6-de32-594e-a0c1-5fe3260a1a26@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261230T181500
+DTEND;TZID=Europe/Brussels:20261230T190000
+SUMMARY:Avondeten en loskomen van de dag
+DESCRIPTION:Rustig eten. Werk en studie parkeren. Indien looptijd of werk
+ shift: verplaatsen.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:247c8896-634c-5563-aa6c-198f52ff8d03@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261230T190000
+DTEND;TZID=Europe/Brussels:20261230T201500
+SUMMARY:Herstelavond: douche\, stretchen en ademruimte
+DESCRIPTION:Licht rekken\, warm douchen\, zonder zware inspanning of sche
+ rmdruk. Vrijblijvend\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a5c55bc3-76c2-56a0-a159-7f749c93cac9@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261230T204500
+DTEND;TZID=Europe/Brussels:20261230T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:89c62e19-2db9-5af5-9666-13aa05731741@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261230T213000
+DTEND;TZID=Europe/Brussels:20261230T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0c5703d4-dbba-5f4a-ad5f-71c514b996e4@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261231T224500
+DTEND;TZID=Europe/Brussels:20270101T073000
+SUMMARY:Slaap 🌙
+DESCRIPTION:Slaaptijd loopt tot de volgende ochtend. Streefritme\, geen s
+ tarre regel. Na een laat feest rustig herstellen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b2e3ee86-bd4f-5e90-b35a-2482fd6bfe01@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261231T073000
+DTEND;TZID=Europe/Brussels:20261231T082000
+SUMMARY:Opstaan\, ontbijt en rustig starten
+DESCRIPTION:Water\, daglicht 10 min\, ontbijt\, eventueel korte wandeling
+ . Geen e-mail bij het opstaan.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7efd41fb-38bc-55fa-b610-b693a9eb710a@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261231T113500
+DTEND;TZID=Europe/Brussels:20261231T115000
+SUMMARY:Microherstel: buitenlucht / pauze
+DESCRIPTION:Even weg van het bureau\; wandelen of rustig ademhalen. Scher
+ m uit.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8590b880-a314-515b-96b9-42676fd6cca9@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261231T120000
+DTEND;TZID=Europe/Brussels:20261231T123000
+SUMMARY:Lunch zonder scherm
+DESCRIPTION:Eten en herstellen. Laat taken even los.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c5a84972-30f5-577a-836a-5d3db6fc7821@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261231T181500
+DTEND;TZID=Europe/Brussels:20261231T190000
+SUMMARY:Vrij avondeten / feestdagen
+DESCRIPTION:Feestdag: geen verplichte routine. Eten en samenzijn op jouw 
+ tempo.
+CATEGORIES:WELZIJN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:93206a91-00b7-5ff3-99c9-d3dcb5fae2a7@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261231T190000
+DTEND;TZID=Europe/Brussels:20261231T201500
+SUMMARY:Oudejaarsavond: viering of rust
+DESCRIPTION:Kies een avond die bij je past. Sla vaste bedtijd over als je
+  viert. Vrijblijvend\, geen taak die je moet afvinken.
+CATEGORIES:ONTSPANNING
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6ba75b61-90ec-5ad8-b23b-dbda7a3bdeb8@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261231T204500
+DTEND;TZID=Europe/Brussels:20261231T213000
+SUMMARY:Afbouwen: schermen dimmen\, rustige hobby
+DESCRIPTION:Geen zware studie of administratie. Licht dimmen\, rustige ac
+ tiviteit\, indien nodig piekergedachten opschrijven.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:645c87b9-595f-5349-8ef2-62eff52e7d86@planning.local
+DTSTAMP:20261108T220000Z
+DTSTART;TZID=Europe/Brussels:20261231T213000
+DTEND;TZID=Europe/Brussels:20261231T223000
+SUMMARY:Slaaproutine: douchen\, lezen\, klaarleggen
+DESCRIPTION:Tas/kleren klaarleggen (max. 5 min)\, tanden poetsen\, ontspa
+ nnen lezen.
+CATEGORIES:RUST
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
